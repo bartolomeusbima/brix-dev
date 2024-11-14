@@ -28,7 +28,6 @@
 
   <!-- Main CSS File -->
   <link href="../public/assets/css/main.css" rel="stylesheet">
-  <link href="../public/assets/css/index.css" rel="stylesheet">
 </head>
 
 <body class="index-page">
