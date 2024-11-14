@@ -95,55 +95,6 @@
             <source src="../public/assets/images/index/Brix-Motorsport.mp4" type="video/mp4">
         </video>
 
-        <section id="carousel" class="carousel" style="background-color: black;">
-          <div class="slider" style="background-color: black;">
-            <div class="slide-track" style="background-color: black;">
-              <div class="slide" style="background-color: black;">
-                <img src="../public/assets/images/distributors/bnw/logo-4eleven-store.png" height="100" width="250" alt="" />
-              </div>
-              <div class="slide" style="background-color: black;">
-                <img src="../public/assets/images/distributors/bnw/logo-yh-brakes.png" height="100" width="250" alt="" />
-              </div>
-              <div class="slide" style="background-color: black;">
-                <img src="../public/assets/images/distributors/bnw/logo-aht-garage.png" height="100" width="250" alt="" />
-              </div>
-              <div class="slide" style="background-color: black;">
-                <img src="../public/assets/images/distributors/bnw/logo-rmoda-workshop.png" height="100" width="250" alt="" />
-              </div>
-              <div class="slide" style="background-color: black;">
-                <img src="../public/assets/images/distributors/bnw/logo-eds-autostore.png" height="100" width="250" alt="" />
-              </div>
-              <div class="slide" style="background-color: black;">
-                <img src="../public/assets/images/distributors/bnw/logo-kenji-autostation.png" height="100" width="250" alt="" />
-              </div>
-              <div class="slide" style="background-color: black;">
-                <img src="../public/assets/images/distributors/bnw/logo-hofmeister.png" height="100" width="250" alt="" />
-              </div>
-              <div class="slide" style="background-color: black;">
-                <img src="../public/assets/images/distributors/bnw/logo-sumber-bakti-motor.png" height="100" width="250" alt="" />
-              </div>
-              <div class="slide" style="background-color: black;">
-                <img src="../public/assets/images/distributors/bnw/logo-2step-garage.png" height="100" width="250" alt="" />
-              </div>
-              <div class="slide" style="background-color: black;">
-                <img src="../public/assets/images/distributors/bnw/logo-naga-76.png" height="100" width="250" alt="" />
-              </div>
-              <div class="slide" style="background-color: black;">
-                <img src="../public/assets/images/distributors/bnw/logo-4eleven-store.png" height="100" width="250" alt="" />
-              </div>
-              <div class="slide" style="background-color: black;">
-                <img src="../public/assets/images/distributors/bnw/logo-yh-brakes.png" height="100" width="250" alt="" />
-              </div>
-              <div class="slide" style="background-color: black;">
-                <img src="../public/assets/images/distributors/bnw/logo-aht-garage.png" height="100" width="250" alt="" />
-              </div>
-              <div class="slide" style="background-color: black;">
-                <img src="../public/assets/images/distributors/bnw/logo-rmoda-workshop.png" height="100" width="250" alt="" />
-              </div>
-            </div>
-          </div>
-        </section>
-
         <section id="about" class="about">
             <div class="container">
     
