@@ -1,17 +1,43 @@
-# public_html/public/.htaccess
+# Disable directory browsing
+Options -Indexes
+
+# ----------------------------------------------------------------------
+# Rewrite engine
+# ----------------------------------------------------------------------
+
 <IfModule mod_rewrite.c>
-<IfModule mod_negotiation.c>
-Options -MultiViews
+    Options +FollowSymlinks
+    RewriteEngine On
+
+    # Uncomment and set the RewriteBase if you're using a subfolder for CI installation
+    # RewriteBase /subfolder
+
+    # Redirect Trailing Slashes...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^ %1 [L,R=301]
+
+    # Rewrite "www.example.com -> example.com"
+    RewriteCond %{HTTPS} !=on
+    RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+    RewriteRule ^ http://%1%{REQUEST_URI} [R=301,L]
+
+    # Checks to see if the user is attempting to access a valid file or directory
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+
+    # Route everything to index.php (without public prefix)
+    RewriteRule ^(.*)$ public/index.php/$1 [L,NC,QSA]
+
+    # Ensure Authorization header is passed along
+    RewriteCond %{HTTP:Authorization} . 
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 </IfModule>
-RewriteEngine On
-# Redirect Trailing Slashes If Not A Folder...
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)/$ /$1 [L,R=301]
-# Handle Front Controller...
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^ index.php [L]
-# Handle Authorization Header
-RewriteCond %{HTTP:Authorization}
-RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+<IfModule !mod_rewrite.c>
+    # If mod_rewrite is not available, all 404's go to index.php
+    ErrorDocument 404 index.php
 </IfModule>
+
+# Disable server signature
+ServerSignature Off
