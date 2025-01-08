@@ -8,12 +8,15 @@ class Home extends BaseController
 {
     public function index(): string
     {
+        echo 'Hai';
         return view('home');
     }
 
     public function testDb()
     {
+
         $db = \Config\Database::connect();  // Manually connect to the database
+        return view('home');
         if ($db->connect_errno) {
             return view('home');
         } else {
