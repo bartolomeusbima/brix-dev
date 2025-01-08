@@ -4332,7 +4332,7 @@ img.u-pull-left {
     display: inline-block;
     width: calc(var(--text-size) * 1.25);
     height: calc(var(--text-size) * 1.25);
-    background-image: url(../images/icons/icon-mail.svg);
+    background-image: url(../../../public/assets/images/icons/icon-mail.svg);
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
