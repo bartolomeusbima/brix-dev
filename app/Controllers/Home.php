@@ -2,7 +2,7 @@
 
 namespace App\Controllers;
 
-use CodeIgniter\Database\Config;
+use App\Models\SubscriberModel;
 
 class Home extends BaseController
 {
@@ -17,22 +17,15 @@ class Home extends BaseController
         $email = $this->request->getPost('email');
 
         // Validate the email
-        if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-            return redirect()->back()->with('error', 'Invalid email address.');
-        }
+        // if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        //     return redirect()->back()->with('error', 'Invalid email address.');
+        // }
 
-        // Get the database connection
-        $db = Config\Database::connect();
-        $builder = $db->table('ms_subscription'); // Table name
+        // Save the email to the database using the model
+        $subscriberModel = new SubscriberModel();
+        $data = ['email' => $email];
 
-        // Prepare data to insert
-        $data = [
-            'mss_email' => $email,
-            'hss_create_date' => date('Y-m-d H:i:s') // Current timestamp
-        ];
-
-        // Attempt to insert the email into the database
-        if ($builder->insert($data)) {
+        if ($subscriberModel->insert($data)) {
             return redirect()->back()->with('success', 'Subscription successful!');
         } else {
             return redirect()->back()->with('error', 'Failed to subscribe. Please try again.');
