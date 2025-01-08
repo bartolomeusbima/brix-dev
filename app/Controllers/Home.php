@@ -13,7 +13,6 @@ class Home extends BaseController
 
     public function subscribe()
     {
-        return redirect()->back()->with('error', 'Invalid email address.');
         // Get the email from the form submission
         $email = $this->request->getPost('email');
 
