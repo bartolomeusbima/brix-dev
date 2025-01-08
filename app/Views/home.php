@@ -49,7 +49,7 @@
                     <div class="s-header__block">
                         <div class="s-header__logo">
                             <a class="logo" href="index.html">
-                                <img src="assets/img/icons/brix.svg" alt="Homepage">
+                                <img src="<?= base_url('assets/images/icons/brix.svg') ?>" alt="Homepage">
                             </a>
                         </div>
 
@@ -66,19 +66,19 @@
                         <ul class="s-header__social">
                             <li>
                                 <a href="https://www.instagram.com/brixperformanceid">
-                                    <img src="assets/img/icons/instagram.svg">
+                                    <img src="<?= base_url('assets/images/icons/instagram.svg') ?>">
                                     <span class="u-screen-reader-text">Instagram</span>
                                 </a>
                             </li>
                             <li>
                                 <a href="https://api.whatsapp.com/send?phone=6281284746544">
-                                    <img src="assets/img/icons/whatsapp.svg">
+                                    <img src="<?= base_url('assets/images/icons/whatsapp.svg') ?>">
                                     <span class="u-screen-reader-text">Whatsapp</span>
                                 </a>
                             </li>
                             <li>
                                 <a href="https://www.tokopedia.com/brix">
-                                    <img src="assets/img/icons/tokopedia.svg">
+                                    <img src="<?= base_url('assets/images/icons/tokopedia.svg') ?>">
                                     <span class="u-screen-reader-text">Tokopedia</span>
                                 </a>
                             </li>
@@ -349,62 +349,62 @@
         
                                 <div class="column clients-list__item">
                                     <a href="#0">
-                                        <img src="assets/img/distributors/1.svg" alt="">
+                                        <img src="<?= base_url('assets/images/distributors/1.svg') ?>" alt="">
                                     </a>
                                 </div>
                                 <div class="column clients-list__item">
                                     <a href="#0">
-                                        <img src="assets/img/distributors/2.svg" alt="">
+                                        <img src="<?= base_url('assets/images/distributors/2.svg') ?>" alt="">
                                     </a>
                                 </div>
                                 <div class="column clients-list__item">
                                     <a href="#0">
-                                        <img src="assets/img/distributors/3.svg" alt="">
+                                        <img src="<?= base_url('assets/images/distributors/3.svg') ?>" alt="">
                                     </a>
                                 </div>
                                 <div class="column clients-list__item">
                                     <a href="#0">
-                                        <img src="assets/img/distributors/4.svg" alt="">
+                                        <img src="<?= base_url('assets/images/distributors/4.svg') ?>" alt="">
                                     </a>
                                 </div>
                                 <div class="column clients-list__item">
                                     <a href="#0">
-                                        <img src="assets/img/distributors/5.svg" alt="">
+                                        <img src="<?= base_url('assets/images/distributors/5.svg') ?>" alt="">
                                     </a>
                                 </div>
                                 <div class="column clients-list__item">
                                     <a href="#0">
-                                        <img src="assets/img/distributors/6.svg" alt="">
+                                        <img src="<?= base_url('assets/images/distributors/6.svg') ?>" alt="">
                                     </a>
                                 </div>
                                 <div class="column clients-list__item">
                                     <a href="#0">
-                                        <img src="assets/img/distributors/7.svg" alt="">
+                                        <img src="<?= base_url('assets/images/distributors/7.svg') ?>" alt="">
                                     </a>
                                 </div>
                                 <div class="column clients-list__item">
                                     <a href="#0">
-                                        <img src="assets/img/distributors/8.svg" alt="">
+                                        <img src="<?= base_url('assets/images/distributors/8.svg') ?>" alt="">
                                     </a>
                                 </div>
                                 <div class="column clients-list__item">
                                     <a href="#0">
-                                        <img src="assets/img/distributors/9.svg" alt="">
+                                        <img src="<?= base_url('assets/images/distributors/9.svg') ?>" alt="">
                                     </a>
                                 </div>
                                 <div class="column clients-list__item">
                                     <a href="#0">
-                                        <img src="assets/img/distributors/10.svg" alt="">
+                                        <img src="<?= base_url('assets/images/distributors/10.svg') ?>" alt="">
                                     </a>
                                 </div>
                                 <div class="column clients-list__item">
                                     <a href="#0">
-                                        <img src="assets/img/distributors/11.svg" alt="">
+                                        <img src="<?= base_url('assets/images/distributors/11.svg') ?>" alt="">
                                     </a>
                                 </div>
                                 <div class="column clients-list__item">
                                     <a href="#0">
-                                        <img src="assets/img/distributors/12.svg" alt="">
+                                        <img src="<?= base_url('assets/images/distributors/12.svg') ?>" alt="">
                                     </a>
                                 </div>
 
@@ -450,19 +450,19 @@
                             <ul class="s-footer__social">
                                 <li>
                                     <a href="https://www.instagram.com/brixperformanceid">
-                                        <img src="assets/img/icons/instagram.svg">
+                                        <img src="<?= base_url('assets/images/icons/instagram.svg') ?>">
                                         <span class="u-screen-reader-text">Instagram</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://api.whatsapp.com/send?phone=6281284746544">
-                                        <img src="assets/img/icons/whatsapp.svg">
+                                        <img src="<?= base_url('assets/images/icons/whatsapp.svg') ?>">
                                         <span class="u-screen-reader-text">Whatsapp</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://www.tokopedia.com/brix">
-                                        <img src="assets/img/icons/tokopedia.svg">
+                                        <img src="<?= base_url('assets/images/icons/tokopedia.svg') ?>">
                                         <span class="u-screen-reader-text">Tokopedia</span>
                                     </a>
                                 </li>
