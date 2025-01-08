@@ -23,7 +23,7 @@ class Home extends BaseController
 
         // Get the database connection
         $db = Config\Database::connect();
-        $builder = $db->table('master_subscription'); // Table name
+        $builder = $db->table('ms_subscription'); // Table name
 
         // Prepare data to insert
         $data = [
