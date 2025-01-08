@@ -474,13 +474,6 @@
                         <p class="footer-contact">Want to sign up for our newsletter? Just fill out your email below!</p>
                         <div class="column list-block__item">
                             <div class="subscribe-form s-footer__subscribe">
-                                
-                            <?php if (session()->getFlashdata('message')): ?>
-                                <div class="alert">
-                                    <?= session()->getFlashdata('message') ?>
-                                </div>
-                            <?php endif; ?>
-                            
                                 <form action="<?= base_url('home/subscribe') ?>" method="POST">
                                     <input type="email" name="email" required>
                                     <input type="submit" value="Submit">
