@@ -15,7 +15,7 @@ class Home extends BaseController
     {
         $db = \Config\Database::connect();  // Manually connect to the database
         if ($db->connect_errno) {
-            echo 'Connection failed: ' . $db->connect_error;
+            return view('home');
         } else {
             return view('home');
         }
