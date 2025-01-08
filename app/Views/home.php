@@ -486,6 +486,8 @@
                                     <input type="submit" name="subscribe" value="Subscribe" class="btn btn--primary u-fullwidth">
                                     <div class="mc-status"></div>
                                 </form>
+
+                                <p>Form action: <?= base_url('home/subscribe') ?></p>
                             </div>
                         </div>
                     </div>
