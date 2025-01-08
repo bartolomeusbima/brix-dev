@@ -17,7 +17,7 @@ class Home extends BaseController
         if ($db->connect_errno) {
             echo 'Connection failed: ' . $db->connect_error;
         } else {
-            echo 'Connection successful!';
+            return view('home');
         }
     }
 
