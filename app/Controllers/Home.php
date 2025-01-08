@@ -13,31 +13,23 @@ class Home extends BaseController
 
     public function subscribe()
     {
-        // Get the email from the form
+        return redirect()->back()->with('error', 'Invalid email address.');
+        // Get the email from the form submission
         $email = $this->request->getPost('email');
-        
-        // Check if the email is provided and is valid
-        if ($email && filter_var($email, FILTER_VALIDATE_EMAIL)) {
-            // Load the SubscriberModel
-            $subscriberModel = new SubscriberModel();
-            
-            // Prepare the data to be inserted
-            $data = [
-                'mss_email' => $email,
-                'mss_create_date' => date('Y-m-d H:i:s')  // Optional: add the creation date
-            ];
-            
-            // Insert the email into the database
-            if ($subscriberModel->insert($data)) {
-                return redirect()->to('/')->with('message', 'Thank you for subscribing!');
-            } else {
-                // If insertion fails
-                return redirect()->to('/')->with('message', 'Subscription failed. Please try again.');
-            }
+
+        // Validate the email
+        // if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        //     return redirect()->back()->with('error', 'Invalid email address.');
+        // }
+
+        // Save the email to the database using the model
+        $subscriberModel = new SubscriberModel();
+        $data = ['mss_email' => $email];
+
+        if ($subscriberModel->insert($data)) {
+            return redirect()->back()->with('success', 'Subscription successful!');
         } else {
-            // If email is not valid
-            return redirect()->to('/')->with('message', 'Please provide a valid email address.');
+            return redirect()->back()->with('error', 'Failed to subscribe. Please try again.');
         }
     }
-
 }

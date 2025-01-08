@@ -474,9 +474,17 @@
                         <p class="footer-contact">Want to sign up for our newsletter? Just fill out your email below!</p>
                         <div class="column list-block__item">
                             <div class="subscribe-form s-footer__subscribe">
+                                
+                            <?php if (session()->getFlashdata('message')): ?>
+                                <div class="alert">
+                                    <?= session()->getFlashdata('message') ?>
+                                </div>
+                            <?php endif; ?>
+                            
                                 <form action="<?= base_url('home/subscribe') ?>" method="POST">
-                                    <input type="email" name="email" required>
-                                    <input type="submit" value="Submit">
+                                    <input type="email" name="email" class="u-fullwidth text-center" placeholder="Your Email" title="The domain portion of the email address is invalid (the portion after the @)." pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$" required>
+                                    <input type="submit" name="subscribe" value="Subscribe" class="btn btn--primary u-fullwidth">
+                                    <div class="mc-status"></div>
                                 </form>
                             </div>
                         </div>
@@ -497,6 +505,7 @@
 
         <!-- Java Script
         ================================================== -->
+        <script src="<?= base_url('assets/js/plugins.js') ?>"></script>
         <script src="<?= base_url('assets/js/script.js') ?>"></script>
     </body>
 </html>
