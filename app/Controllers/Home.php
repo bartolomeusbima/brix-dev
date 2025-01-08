@@ -11,6 +11,16 @@ class Home extends BaseController
         return view('home');
     }
 
+    public function testDb()
+    {
+        $db = \Config\Database::connect();  // Manually connect to the database
+        if ($db->connect_errno) {
+            echo 'Connection failed: ' . $db->connect_error;
+        } else {
+            echo 'Connection successful!';
+        }
+    }
+
     public function subscribe()
     {
         // Get the email from the form submission
