@@ -1578,7 +1578,7 @@ hr.fancy::before {
     background-repeat : no-repeat;
     background        : center center;
     background-size   : contain;
-    background-image  : url("<?php echo $_SERVER['DOCUMENT_ROOT'] . '/public/assets/images//icons/icon-quote.svg'; ?>");
+    background-image  : url(../images/icons/icon-quote.svg);
     transform         : translate(-50%, 0, 0);
     position          : absolute;
     top               : var(--vspace-1);
@@ -3265,7 +3265,7 @@ img.u-pull-left {
  * -------------------------------------------------------------------- */
 .s-intro__bg {
     display             : block;
-    background-image    : url("<?php echo $_SERVER['DOCUMENT_ROOT'] . '/public/assets/images//home/hero-bg.jpg'; ?>");
+    background-image    : url(../images/home/hero-bg.jpg);
     background-repeat   : no-repeat;
     background-position : center;
     background-size     : cover;
@@ -3324,7 +3324,7 @@ img.u-pull-left {
 
 .s-intro__content-bg {
     display             : block;
-    background-image    : url("<?php echo $_SERVER['DOCUMENT_ROOT'] . '/public/assets/images//home/intro-bg.jpg'; ?>");
+    background-image    : url(../images/home/intro-bg.jpg);
     background-repeat   : no-repeat;
     background-position : center;
     background-size     : cover;
@@ -3693,7 +3693,7 @@ img.u-pull-left {
     padding-top    : var(--vspace-5);
     padding-bottom : var(--vspace-20);
     display             : block;
-    background-image  : url("<?php echo $_SERVER['DOCUMENT_ROOT'] . '/public/assets/images//home/solidcast-bg.jpg'; ?>");
+    background-image  : url(../images/home/solidcast-bg.jpg);
     background-repeat   : no-repeat;
     background-position : bottom;
     background-size: contain;
@@ -3964,7 +3964,7 @@ img.u-pull-left {
     background-repeat   : no-repeat;
     background-position : center;
     background-size     : contain;
-    background-image    : url("<?php echo $_SERVER['DOCUMENT_ROOT'] . '/public/assets/images//icons/icon-tag.svg'; ?>");
+    background-image    : url(../images/icons/icon-tag.svg);
     position            : absolute;
     left                : 0;
     top                 : -0.15em;
@@ -4306,7 +4306,7 @@ img.u-pull-left {
     display: inline-block;
     width: calc(var(--text-size) * 1.25);
     height: calc(var(--text-size) * 1.25);
-    background-image: url("<?php echo $_SERVER['DOCUMENT_ROOT'] . '/public/assets/images//icons/icon-map.svg'; ?>");
+    background-image: url(../images/icons/icon-map.svg);
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
@@ -4319,7 +4319,7 @@ img.u-pull-left {
     display: inline-block;
     width: calc(var(--text-size) * 1.25);
     height: calc(var(--text-size) * 1.25);
-    background-image: url("<?php echo $_SERVER['DOCUMENT_ROOT'] . '/public/assets/images//icons/icon-phone.svg'; ?>");
+    background-image: url(../images/icons/icon-phone.svg);
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
@@ -4332,7 +4332,7 @@ img.u-pull-left {
     display: inline-block;
     width: calc(var(--text-size) * 1.25);
     height: calc(var(--text-size) * 1.25);
-    background-image: url("<?php echo $_SERVER['DOCUMENT_ROOT'] . '/public/assets/images//icons/icon-mail.svg'; ?>");
+    background-image: url(../images/icons/icon-mail.svg);
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
