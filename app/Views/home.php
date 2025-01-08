@@ -32,7 +32,7 @@
         <!-- preloader
         ================================================== -->
         <div id="preloader">
-            <img src="<?= base_url('assets/images/gifs/brix_logo.gif') ?>" alt="Loading..." id="loader">
+            <img src="<?= base_url('assets/images/gifs/brix_logo.gif') ?>" alt="Loading" id="loader">
         </div>
 
 
