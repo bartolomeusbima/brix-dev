@@ -19,7 +19,7 @@ class SubscriberModel extends Model
         // Prepare the SQL query
         $query = "INSERT INTO " . $this->table . " (mss_email) VALUES (?)";
         
-        // Get the current date/time for hss_create_date
+        // Get the current date/time for mss_create_date
         $currentDate = date('Y-m-d H:i:s');
 
         // Execute the query
