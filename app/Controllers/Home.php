@@ -8,40 +8,30 @@ class Home extends BaseController
 {
     public function index(): string
     {
-        echo 'Hai';
         return view('home');
-    }
-
-    public function testDb()
-    {
-
-        $db = \Config\Database::connect();  // Manually connect to the database
-        return view('home');
-        if ($db->connect_errno) {
-            return view('home');
-        } else {
-            return view('home');
-        }
     }
 
     public function subscribe()
     {
-        // Get the email from the form submission
+        // Get the email from the form
         $email = $this->request->getPost('email');
-
-        // Validate the email
-        // if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-        //     return redirect()->back()->with('error', 'Invalid email address.');
-        // }
-
-        // Save the email to the database using the model
-        $subscriberModel = new SubscriberModel();
-        $data = ['mss_email' => $email];
-
-        if ($subscriberModel->insert($data)) {
-            return redirect()->back()->with('success', 'Subscription successful!');
+        
+        // Check if the email is valid
+        if ($email) {
+            // Load the SubscriberModel
+            $subscriberModel = new SubscriberModel();
+            
+            // Prepare the data to be inserted
+            $data = ['hss_email' => $email];
+            
+            // Insert the email into the database
+            if ($subscriberModel->insert($data)) {
+                return redirect()->to('/')->with('message', 'Thank you for subscribing!');
+            } else {
+                return redirect()->to('/')->with('message', 'Subscription failed. Please try again.');
+            }
         } else {
-            return redirect()->back()->with('error', 'Failed to subscribe. Please try again.');
+            return redirect()->to('/')->with('message', 'Please provide a valid email.');
         }
     }
 }
