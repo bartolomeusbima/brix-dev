@@ -240,7 +240,7 @@
                                         <article class="brick brick--double entry border">
                                             <a href="#modal-01" class="entry__link">
                                                 <div class="entry__thumb">
-                                                    <img src="assets/img/home/product-street-img.png" alt="">
+                                                    <img src="<?= base_url('assets/images/home/product-street-img.png') ?>" alt="">
                                                 </div>
                                                 <div class="entry__info">
                                                     <div class="entry__cat">Brake Disc</div>
@@ -252,7 +252,7 @@
                                         <article class="brick brick--double entry border">
                                             <a href="#modal-02" class="entry__link">
                                                 <div class="entry__thumb">
-                                                    <img src="assets/img/home/product-competition-img.png" alt="">
+                                                    <img src="<?= base_url('assets/images/home/product-competition-img.png') ?>" alt="">
                                                 </div>
                                                 <div class="entry__info">
                                                     <div class="entry__cat">Brake Disc</div>
@@ -286,7 +286,7 @@
                                     <article class="brick brick--one entry">
                                         <a href="#modal-01" class="entry__link">
                                             <div class="entry__thumb">
-                                                <img src="assets/img/home/product-brake-pad.png" alt="">
+                                                <img src="<?= base_url('assets/images/home/product-brake-pad.png') ?>" alt="">
                                             </div>
                                         </a>
                                     </article>
@@ -302,7 +302,7 @@
                     -------------------------------------------- -->
                     <div id="modal-01" hidden>
                         <div class="modal-popup">
-                            <img src="assets/img/home/product-street-img.png" alt="">
+                            <img src="<?= base_url('assets/images/home/product-street-img.png') ?>" alt="">
                 
                             <div class="modal-popup__desc">
                                 <h5>Street Series Brake Disc</h5>
@@ -319,7 +319,7 @@
 
                     <div id="modal-02" hidden>
                         <div class="modal-popup">
-                            <img src="assets/img/home/product-competition-img.png" alt="">
+                            <img src="<?= base_url('assets/images/home/product-competition-img.png') ?>" alt="">
                 
                             <div class="modal-popup__desc">
                                 <h5>Competition Series Brake Disc</h5>
