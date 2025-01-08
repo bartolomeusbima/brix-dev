@@ -23,8 +23,8 @@ class Home extends BaseController
             
             // Prepare the data to be inserted
             $data = [
-                'hss_email' => $email,
-                'hss_create_date' => date('Y-m-d H:i:s')  // Optional: add the creation date
+                'mss_email' => $email,
+                'mss_create_date' => date('Y-m-d H:i:s')  // Optional: add the creation date
             ];
             
             // Insert the email into the database
