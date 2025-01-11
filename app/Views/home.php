@@ -60,7 +60,7 @@
         
                         <ul class="s-header__menu-links">
                             <li class="current"><a href="#intro" class="smoothscroll">Home</a></li>
-                            <li><a href="#about" class="smoothscroll">Product</a></li>
+                            <li><a href="#about" class="smoothscroll">Products</a></li>
                         </ul> <!-- s-header__menu-links -->
 
                         <ul class="s-header__social">
