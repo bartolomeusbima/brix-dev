@@ -252,7 +252,7 @@
                                         <article class="brick brick--double entry border">
                                             <a href="#modal-02" class="entry__link">
                                                 <div class="entry__thumb">
-                                                    <img src="<?= base_url('assets/images/home/product-competition-img.png') ?>" alt="Brix Competition Disc">
+                                                    <img src="<?= base_url('assets/images/home/product-competition-img-new.png') ?>" alt="Brix Competition Disc">
                                                 </div>
                                                 <div class="entry__info">
                                                     <div class="entry__cat">Brake Disc</div>
@@ -319,7 +319,7 @@
 
                     <div id="modal-02" hidden>
                         <div class="modal-popup">
-                            <img src="<?= base_url('assets/images/home/product-competition-img.png') ?>" alt="Brix Competition Disc">
+                            <img src="<?= base_url('assets/images/home/product-competition-img-new.png') ?>" alt="Brix Competition Disc">
                 
                             <div class="modal-popup__desc">
                                 <h5>Competition Series Brake Disc</h5>
