@@ -9,7 +9,7 @@ class Home extends BaseController
     public function index(): string
     {
         // return view('home');
-        this->load->view('index.php');
+        this->load->view('home.php');
     }
 
     public function subscribe()
