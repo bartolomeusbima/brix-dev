@@ -1872,7 +1872,7 @@ body {
     display: inline-block;
     width: calc(var(--text-size) * 1.25);
     height: calc(var(--text-size) * 1.25);
-    background-image: url('../img/icons/icon-phone.svg');
+    background-image: url(../img/icons/icon-phone.svg);
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
