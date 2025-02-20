@@ -265,64 +265,6 @@ body {
 }
 
 /* ======================================================================================================== */
-
-.menu__navigation__social__footer {
-    list-style  : none;
-    display     : flex;
-    line-height : 1;
-    margin      : 0;
-}
-
-.menu__navigation__social__footer li {
-    padding-left : 0;
-    margin-right : .8rem;
-}
-
-.menu__navigation__social__footer a {
-    display : block;
-}
-
-.menu__navigation__social__footer .icon {
-    display: inline-block;
-    width: 25px;
-    height: 25px;
-    background-size: cover;
-}
-
-.menu__navigation__social__footer .icon-tokopedia {
-    transition: all 0.2s ease-in-out;
-    background-image: url(../img/icons/tokopedia.svg);
-}
-
-.menu__navigation__social__footer .icon-tokopedia:hover,
-.menu__navigation__social__footer .icon-tokopedia:focus {
-    transition: all 0.2s ease-in-out;
-    background-image: url(../img/icons/tokopedia-colored.svg);
-}
-
-.menu__navigation__social__footer .icon-whatsapp {
-    transition: all 0.2s ease-in-out;
-    background-image: url(../img/icons/whatsapp.svg);
-}
-
-.menu__navigation__social__footer .icon-whatsapp:hover,
-.menu__navigation__social__footer .icon-whatsapp:focus {
-    transition: all 0.2s ease-in-out;
-    background-image: url(../img/icons/whatsapp-colored.svg);
-}
-
-.menu__navigation__social__footer .icon-instagram {
-    transition: all 0.2s ease-in-out;
-    background-image: url(../img/icons/instagram.svg);
-}
-
-.menu__navigation__social__footer .icon-instagram:hover,
-.menu__navigation__social__footer .icon-instagram:focus {
-    transition: all 0.2s ease-in-out;
-    background-image: url(../img/icons/instagram-colored.svg);
-}
-
-/* ======================================================================================================== */
 /* ======================================================================================================== */
 
 .menu__navigation__page > li > button {
@@ -1809,36 +1751,8 @@ body {
     margin-bottom: var(--vspace-0_125);
 }
 
-.footer-btn-link {
-    display: block;
-    margin-bottom: 5px;
-    padding: 0;
-    text-align: left;
-    color: #FFFFFF;
-    font-size: calc(var(--text-size) * 0.8889);
-    font-weight: normal;
-    text-transform: capitalize;
-    transition: .3s;
-}
-
-.footer-btn-link::before {
-    position: relative;
-    content: "\203A";
-    font-family: "Font Awesome 5 Free";
-    font-weight: 900;
-    margin-right: 10px;
-}
-
-.footer-btn-link:hover {
-    letter-spacing: 1px;
-    box-shadow: none;
-}
-
 .s-footer__logo .logo img {
-    /* z-index     : 3; */
-    /* line-height : 1; */
     width : var(--logo-width);
-    /* width  : var(--vspace-1); */
 }
 
 .footer-contact {
@@ -1852,19 +1766,6 @@ body {
     /* text-transform: capitalize; */
     transition: .3s;
     margin-bottom: var(--vspace-0_25);
-}
-
-.footer-contact.map::before {
-    content: "";
-    display: inline-block;
-    width: calc(var(--text-size) * 1.25);
-    height: calc(var(--text-size) * 1.25);
-    background-image: url('../img/icons/icon-map.svg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    vertical-align: middle;
-    margin-bottom: var(--vspace-0_125);
-    margin-right: var(--vspace-0_25);
 }
 
 .footer-contact.phone::before {
@@ -1885,7 +1786,7 @@ body {
     display: inline-block;
     width: calc(var(--text-size) * 1.25);
     height: calc(var(--text-size) * 1.25);
-    background-image: url('../img/icons/icon-mail.svg');
+    background-image: url(../img/icons/icon-mail.svg);
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
@@ -2021,6 +1922,64 @@ body {
     line-height : var(--vspace-1);
     display     : inline-block;
     color   : var(--color-gray-2);
+}
+
+/* ======================================================================================================== */
+
+.menu__navigation__social__footer {
+    list-style  : none;
+    display     : flex;
+    line-height : 1;
+    margin      : 0;
+}
+
+.menu__navigation__social__footer li {
+    padding-left : 0;
+    margin-right : .8rem;
+}
+
+.menu__navigation__social__footer a {
+    display : block;
+}
+
+.menu__navigation__social__footer .icon {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-size: cover;
+}
+
+.menu__navigation__social__footer .icon-tokopedia {
+    transition: all 0.2s ease-in-out;
+    background-image: url(../img/icons/tokopedia.svg);
+}
+
+.menu__navigation__social__footer .icon-tokopedia:hover,
+.menu__navigation__social__footer .icon-tokopedia:focus {
+    transition: all 0.2s ease-in-out;
+    background-image: url(../img/icons/tokopedia-colored.svg);
+}
+
+.menu__navigation__social__footer .icon-whatsapp {
+    transition: all 0.2s ease-in-out;
+    background-image: url(../img/icons/whatsapp.svg);
+}
+
+.menu__navigation__social__footer .icon-whatsapp:hover,
+.menu__navigation__social__footer .icon-whatsapp:focus {
+    transition: all 0.2s ease-in-out;
+    background-image: url(../img/icons/whatsapp-colored.svg);
+}
+
+.menu__navigation__social__footer .icon-instagram {
+    transition: all 0.2s ease-in-out;
+    background-image: url(../img/icons/instagram.svg);
+}
+
+.menu__navigation__social__footer .icon-instagram:hover,
+.menu__navigation__social__footer .icon-instagram:focus {
+    transition: all 0.2s ease-in-out;
+    background-image: url(../img/icons/instagram-colored.svg);
 }
 
 /* ------------------------------------------------------------------- 
