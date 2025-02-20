@@ -233,7 +233,7 @@
     z-index        : 1;
     display        : block;
     content        : "";
-    background-image: url(../img-new/icons/view.svg);
+    background-image: url(../img/icons/view.svg);
     background-size: 20px 20px; /* Set the background image to 50px */
     background-position: center center;
     height         : 20px; /* Set height to 50px */
