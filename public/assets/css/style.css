@@ -233,35 +233,35 @@ body {
 
 .menu__navigation__social .icon-tokopedia {
     transition: all 0.2s ease-in-out;
-    background-image: url(../img-new/icons/tokopedia.svg);
+    background-image: url(../img/icons/tokopedia.svg);
 }
 
 .menu__navigation__social .icon-tokopedia:hover,
 .menu__navigation__social .icon-tokopedia:focus {
     transition: all 0.2s ease-in-out;
-    background-image: url(../img-new/icons/tokopedia-colored.svg);
+    background-image: url(../img/icons/tokopedia-colored.svg);
 }
 
 .menu__navigation__social .icon-whatsapp {
     transition: all 0.2s ease-in-out;
-    background-image: url(../img-new/icons/whatsapp.svg);
+    background-image: url(../img/icons/whatsapp.svg);
 }
 
 .menu__navigation__social .icon-whatsapp:hover,
 .menu__navigation__social .icon-whatsapp:focus {
     transition: all 0.2s ease-in-out;
-    background-image: url(../img-new/icons/whatsapp-colored.svg);
+    background-image: url(../img/icons/whatsapp-colored.svg);
 }
 
 .menu__navigation__social .icon-instagram {
     transition: all 0.2s ease-in-out;
-    background-image: url(../img-new/icons/instagram.svg);
+    background-image: url(../img/icons/instagram.svg);
 }
 
 .menu__navigation__social .icon-instagram:hover,
 .menu__navigation__social .icon-instagram:focus {
     transition: all 0.2s ease-in-out;
-    background-image: url(../img-new/icons/instagram-colored.svg);
+    background-image: url(../img/icons/instagram-colored.svg);
 }
 
 /* ======================================================================================================== */
@@ -291,35 +291,35 @@ body {
 
 .menu__navigation__social__footer .icon-tokopedia {
     transition: all 0.2s ease-in-out;
-    background-image: url(../img-new/icons/tokopedia.svg);
+    background-image: url(../img/icons/tokopedia.svg);
 }
 
 .menu__navigation__social__footer .icon-tokopedia:hover,
 .menu__navigation__social__footer .icon-tokopedia:focus {
     transition: all 0.2s ease-in-out;
-    background-image: url(../img-new/icons/tokopedia-colored.svg);
+    background-image: url(../img/icons/tokopedia-colored.svg);
 }
 
 .menu__navigation__social__footer .icon-whatsapp {
     transition: all 0.2s ease-in-out;
-    background-image: url(../img-new/icons/whatsapp.svg);
+    background-image: url(../img/icons/whatsapp.svg);
 }
 
 .menu__navigation__social__footer .icon-whatsapp:hover,
 .menu__navigation__social__footer .icon-whatsapp:focus {
     transition: all 0.2s ease-in-out;
-    background-image: url(../img-new/icons/whatsapp-colored.svg);
+    background-image: url(../img/icons/whatsapp-colored.svg);
 }
 
 .menu__navigation__social__footer .icon-instagram {
     transition: all 0.2s ease-in-out;
-    background-image: url(../img-new/icons/instagram.svg);
+    background-image: url(../img/icons/instagram.svg);
 }
 
 .menu__navigation__social__footer .icon-instagram:hover,
 .menu__navigation__social__footer .icon-instagram:focus {
     transition: all 0.2s ease-in-out;
-    background-image: url(../img-new/icons/instagram-colored.svg);
+    background-image: url(../img/icons/instagram-colored.svg);
 }
 
 /* ======================================================================================================== */
@@ -673,7 +673,7 @@ body {
  * -------------------------------------------------------------------- */
 .s-intro__bg {
     display             : block;
-    background-image    : url(../img-new/home/hero-bg.jpg);
+    background-image    : url(../img/home/hero-bg.jpg);
     background-repeat   : no-repeat;
     background-position : center;
     background-size     : cover;
@@ -732,7 +732,7 @@ body {
 
 .s-intro__content-bg {
     display             : block;
-    background-image    : url(../img-new/home/intro-bg.jpg);
+    background-image    : url(../img/home/intro-bg.jpg);
     background-repeat   : no-repeat;
     background-position : center;
     background-size     : cover;
@@ -1116,7 +1116,7 @@ body {
     /* padding-top    : var(--vspace-5);
     padding-bottom : var(--vspace-20); */
     display             : block;
-    background-image  : url(../img-new/home/solidcast-bg.jpg);
+    background-image  : url(../img/home/solidcast-bg.jpg);
     background-repeat   : no-repeat;
     background-position : bottom;
     background-size: contain;
@@ -1859,7 +1859,7 @@ body {
     display: inline-block;
     width: calc(var(--text-size) * 1.25);
     height: calc(var(--text-size) * 1.25);
-    background-image: url('../img-new/icons/icon-map.svg');
+    background-image: url('../img/icons/icon-map.svg');
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
@@ -1872,7 +1872,7 @@ body {
     display: inline-block;
     width: calc(var(--text-size) * 1.25);
     height: calc(var(--text-size) * 1.25);
-    background-image: url('../img-new/icons/icon-phone.svg');
+    background-image: url('../img/icons/icon-phone.svg');
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
@@ -1885,7 +1885,7 @@ body {
     display: inline-block;
     width: calc(var(--text-size) * 1.25);
     height: calc(var(--text-size) * 1.25);
-    background-image: url('../img-new/icons/icon-mail.svg');
+    background-image: url('../img/icons/icon-mail.svg');
     background-size: contain;
     background-repeat: no-repeat;
     vertical-align: middle;
