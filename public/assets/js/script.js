@@ -239,10 +239,10 @@
     (function Init() {
 
         ssPreloader();
-        ssMobileMenu();
-        ssLightbox();
-        ssSwiper();  
-        ssSwiperTestimony();    
+        // ssMobileMenu();
+        // ssLightbox();
+        // ssSwiper();  
+        // ssSwiperTestimony();    
 
     })();
 
