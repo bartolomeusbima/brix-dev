@@ -26,12 +26,12 @@
                 <div class="row menu__bar">
                     <div class="menu__block">
                         <div class="menu__bar__logo">
-                            <a class="logo" href="index.html">
+                            <a class="logo">
                                 <img src="<?= base_url('assets/img/icons/brix.svg') ?>" alt="Homepage">
                             </a>
                         </div>
 
-                        <a class="menu__bar__toggle" href="#0"><span>Menu</span></a>
+                        <a class="menu__bar__toggle"><span>Menu</span></a>
                     </div>
                 </div>
             </header>
