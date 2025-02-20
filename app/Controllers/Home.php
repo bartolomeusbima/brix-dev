@@ -8,8 +8,7 @@ class Home extends BaseController
 {
     public function index(): string
     {
-        // return view('home');
-        this->load->view('home.php');
+        return view('home');
     }
 
     public function subscribe()
