@@ -782,11 +782,11 @@
      left            : 0;
      width           : 100%;
      height          : 100vh;
-     background      : rgba(0, 0, 0, 0.95);
-     /* transition      : opacity 0.4s ease; */
+     background      : var(--color-gray-19);
+     opacity         : 0.01;
+     transition      : opacity 0.4s ease;
      z-index         : 1000;
-     /* will-change     : opacity; */
-     opacity         : 1;
+     will-change     : opacity;
  }
  
  .basicLightbox::after {
@@ -796,12 +796,11 @@
      right               : 1.8rem;
      width               : 2em;
      height              : 2em;
-     background          : url(../img-new/icons/icon-close-2.svg);
+     background          : url(../img/icons/icon-close-2.svg);
      background-position : center;
      background-size     : 1.6rem 1.6rem;
      background-repeat   : no-repeat;
      cursor              : pointer;
-     z-index: 1;
  }
  
  .basicLightbox--visible {
@@ -848,7 +847,6 @@
      width          : 100%;
      height         : 100%;
      pointer-events : none;
-     opacity: 0.1;
  }
  
  .basicLightbox--visible .basicLightbox__placeholder {

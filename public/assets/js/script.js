@@ -21,54 +21,12 @@
             });
         });
 
-        // window.addEventListener('beforeunload' , function() {
-        //     siteBody.classList.remove('ss-show');
-        // });
-
-    };
-
-    const ssMoveHeader = function () {
-
-        const hdr = document.querySelector('.s-header');
-        const hero = document.querySelector('#intro');
-        let triggerHeight;
-
-        if (!(hdr && hero)) return;
-
-        setTimeout(function() {
-            triggerHeight = hero.offsetHeight - 170;
-        }, 300);
-
-        window.addEventListener('scroll', function () {
-
-            let loc = window.scrollY;
-
-            if (loc > triggerHeight) {
-                hdr.classList.add('sticky');
-            } else {
-                hdr.classList.remove('sticky');
-            }
-
-            if (loc > triggerHeight + 20) {
-                hdr.classList.add('offset');
-            } else {
-                hdr.classList.remove('offset');
-            }
-
-            if (loc > triggerHeight + 150) {
-                hdr.classList.add('scrolling');
-            } else {
-                hdr.classList.remove('scrolling');
-            }
-
-        });
-
     };
 
     const ssMobileMenu = function() {
 
-        const toggleButton = document.querySelector('.s-header__menu-toggle');
-        const mainNavWrap = document.querySelector('.s-header__nav');
+        const toggleButton = document.querySelector('.menu__bar__toggle');
+        const mainNavWrap = document.querySelector('.menu__navigation');
         const siteBody = document.querySelector('body');
 
         if (!(toggleButton && mainNavWrap)) return;
@@ -79,7 +37,7 @@
             siteBody.classList.toggle('menu-is-open');
         });
 
-        mainNavWrap.querySelectorAll('.s-header__nav a').forEach(function(link) {
+        mainNavWrap.querySelectorAll('.menu__navigation').forEach(function(link) {
 
             link.addEventListener("click", function(event) {
 
@@ -100,21 +58,69 @@
             }
         });
 
-    };
+        document.addEventListener('DOMContentLoaded', function() {
+            const list_products = document.querySelectorAll(".menu__navigation__page li.list.products");
+            const list_information = document.querySelectorAll(".menu__navigation__page li.list.information");
+            
+            list_products.forEach(function(list) {
 
+                list.addEventListener('click', function() {
+                    const mobileArrow = list.querySelector(".mobile-arrow-products");
+                    // const hiddenList = list.querySelectorAll(".list-mobile-products")
+                    const button = list.querySelector(".btn-products")
+
+                    if (mobileArrow) {
+                        mobileArrow.classList.toggle("flipper");
+                        // hiddenList.classList.toggle("menu-is-open");
+
+                        const hiddenList = document.querySelectorAll(".menu__navigation__page li.list.products.list-mobile-products");
+
+                        hiddenList.forEach(function(list) {
+                            list.classList.toggle("menu-is-open");
+                        })
+
+                        button.classList.toggle("is-open")
+                    }
+                });
+            });
+
+            list_information.forEach(function(list) {
+
+                list.addEventListener('click', function() {
+                    const mobileArrow = list.querySelector(".mobile-arrow-information");
+                    // const hiddenList = list.querySelectorAll(".list-mobile-information")
+                    const button = list.querySelector(".btn-information")
+
+                    if (mobileArrow) {
+                        mobileArrow.classList.toggle("flipper");
+                        // hiddenList.classList.toggle("menu-is-open");
+
+                        const hiddenList = document.querySelectorAll(".menu__navigation__page li.list.information.list-mobile-information");
+
+                        hiddenList.forEach(function(list) {
+                            list.classList.toggle("menu-is-open");
+                        })
+
+                        button.classList.toggle("is-open")
+                    }
+                });
+            });
+        });    
+
+    };
 
     const ssLightbox = function() {
  
         // video lightbox
         const videoLightbox = function() {
 
-            const videoLink = document.querySelector('.s-intro__content-video-btn');
+            const videoLink = document.querySelector('.s-intro__content-btn');
             if (!videoLink) return;
     
             videoLink.addEventListener('click', function(event) {
     
                 const vLink = this.getAttribute('href');
-                const iframe = "<iframe src='" + vLink + "' frameborder='0'></iframe>";
+                const iframe = "<iframe id='video' src='" + vLink + "' frameborder='0'></iframe>";
     
                 event.preventDefault();
     
@@ -162,14 +168,81 @@
         videoLightbox();
         folioLightbox();
  
-     };
+    };
+
+    const ssSwiper = function() {
+
+        const testimonialsSwiper = new Swiper('.s-testimonials__slider', {
+
+            "loop": true,
+            "speed": 600,
+            "autoplay": {
+                "delay": 5000
+            },
+            slidesPerView: 1,
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+                "type": "bullets",
+            },
+            breakpoints: {
+                // when window width is > 400px
+                401: {
+                    slidesPerView: 1,
+                    spaceBetween: 20
+                },
+                // when window width is > 800px
+                801: {
+                    slidesPerView: 1,
+                    spaceBetween: 50
+                },
+                // when window width is > 1180px
+                1181: {
+                    slidesPerView: 1,
+                    spaceBetween: 100
+                }
+            }
+        });
+
+    };
+
+    const ssSwiperTestimony = function() {
+
+        const testimonialsSwiper = new Swiper('.s-testimony__slider', {
+
+            slidesPerView: 1,
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+            breakpoints: {
+                // when window width is > 400px
+                401: {
+                    slidesPerView: 1,
+                    spaceBetween: 20
+                },
+                // when window width is > 800px
+                801: {
+                    slidesPerView: 1,
+                    spaceBetween: 50
+                },
+                // when window width is > 1180px
+                1181: {
+                    slidesPerView: 1,
+                    spaceBetween: 100
+                }
+            }
+        });
+
+    };
 
     (function Init() {
 
         ssPreloader();
-        ssMoveHeader();
         ssMobileMenu();
         ssLightbox();
+        ssSwiper();  
+        ssSwiperTestimony();    
 
     })();
 
