@@ -14,8 +14,8 @@
         <link rel="stylesheet" href="<?= base_url('assets/css/style.css') ?>">
         <link rel="stylesheet" href="<?= base_url('assets/css/navbar.css') ?>">
         <link rel="stylesheet" href="<?= base_url('assets/css/index.css') ?>">
-        <link rel="stylesheet" href="<?= base_url('assests/css/footer.css') ?>">
-        <link rel="stylesheet" href="<?= base_url('assets/vendor/css/vendor.css's) ?>">
+        <link rel="stylesheet" href="<?= base_url('assets/css/footer.css') ?>">
+        <link rel="stylesheet" href="<?= base_url('assets/vendor/css/vendor.css') ?>">
     </head>
     <body>
         <div id="preloader">
@@ -38,9 +38,7 @@
                     <nav class="menu__navigation">
                         <ul class="menu__navigation__page">
                             <li class="list" onclick="location.href='<?= site_url('/') ?>'">
-                                <button>
-                                    <a href="<?= site_url('/') ?>" style="text-decoration: none; color: white">Home</a>
-                                </button>
+                                <a href="<?= site_url('/') ?>" class="nav-link">Home</a>
                             </li>
                             <li class="list products">
                                 <button class="btn-products">
