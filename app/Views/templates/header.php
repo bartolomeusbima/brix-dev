@@ -11,11 +11,11 @@
     </script>
 
     <!-- CSS Files -->
-    <link rel="stylesheet" href="<?= base_url('assets/css/root.css') ?>">
-    <link rel="stylesheet" href="<?= base_url('assets/css/style.css') ?>">
-    <link rel="stylesheet" href="<?= base_url('assets/css/navbar.css') ?>">
-    <link rel="stylesheet" href="<?= base_url('assets/css/index.css') ?>">
-    <link rel="stylesheet" href="<?= base_url('assets/css/footer.css') ?>">
-    <link rel="stylesheet" href="<?= base_url('assets/vendor/css/vendor.css') ?>">
+    <link rel="stylesheet" href="<?= base_url('../assets/css/root.css') ?>">
+    <link rel="stylesheet" href="<?= base_url('../assets/css/style.css') ?>">
+    <link rel="stylesheet" href="<?= base_url('../assets/css/navbar.css') ?>">
+    <link rel="stylesheet" href="<?= base_url('../assets/css/index.css') ?>">
+    <link rel="stylesheet" href="<?= base_url('../assets/css/footer.css') ?>">
+    <link rel="stylesheet" href="<?= base_url('../assets/vendor/css/vendor.css') ?>">
 </head>
 <body>
