@@ -1,214 +1,295 @@
-<?php $this->include('templates/header'); ?>
-<?php $this->include('templates/navbar'); ?>
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>BRIX Performance</title>
 
-<!-- Preloader -->
-<div id="preloader">
-    <img src="<?= base_url('assets/images/gifs/preloader.gif') ?>" alt="Loading..." id="loader">
-</div>
+        <script>
+            document.documentElement.classList.remove('no-js');
+            document.documentElement.classList.add('js');
+        </script>
 
-<div class="s-pagewrap">
+        <link rel="stylesheet" href="<?= base_url('assets/css/root.css') ?>">
+        <link rel="stylesheet" href="<?= base_url('assets/css/style.css') ?>">
+        <link rel="stylesheet" href="<?= base_url('assets/css/navbar.css') ?>">
+        <link rel="stylesheet" href="<?= base_url('assets/css/index.css') ?>">
+        <link rel="stylesheet" href="<?= base_url('assests/css/footer.css') ?>">
+        <link rel="stylesheet" href="<?= base_url('assets/vendor/css/vendor.css's) ?>">
+    </head>
+    <body>
+        <div id="preloader">
+            <img src="assets/images/gifs/preloader.gif" alt="Loading..." id="loader">
+        </div>
 
-    <!-- Hero Section -->
-    <section class="hero">
-        <div class="hero-bg"></div>
-        <div class="hero-content">
-            <div class="column lg-6 tab-4 mob-2">
-                <h1 id="hero-title">BRIX&reg;&nbsp;PERFORMANCE</h1>
-                <h2 id="hero-subtitle">is&nbsp;all&nbsp;about&nbsp;motorsports</h2>
-                <div id="hero-trailer">
-                    <a href="<?= base_url('assets/videos/trailer-competition-series.mp4') ?>" id="hero-trailer-btn">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill: #fff;"><path d="M7 6v12l10-6z"></path></svg>
-                        COMPETITION SERIES TRAILER
-                    </a>
-                </div>
-            </div>
-            <div class="column lg-6 tab-8 mob-10">
-                <img id="hero-photo" src="<?= base_url('assets/images/photos/index/intro-bg.jpg') ?>" alt="">
-            </div>
-        </div>
-    </section>
+        <div class="s-pagewrap">
 
-    <video loop muted autoplay="autoplay" class="responsive-video">
-        <source src="<?= base_url('assets/videos/brix-motorsport.mp4') ?>" type="video/mp4">
-    </video>
-
-    <!-- Include sections -->
-    <!-- Solidcast Section -->
-    <section class="solidcast">
-        <div id="solidcast-head">
-            <div class="column">
-                <h1 id="solidcast-title">SOLIDCAST&reg;</h1>
-                <h3 id="solidcast-subtitle"><i>STYLE MEET SENSE</i></h3>
-            </div>
-        </div>
-        <div id="solidcast-body">
-            <div class="column">
-                <p class="solidcast-text">
-                    <monument><b>SOLIDCAST</b>&reg;</monument> is BRIX Performance's cutting-edge heat-treatment technique for brake rotors, designed to enhance durability and reliability.
-                </p>
-                <div class="solidcast-body-wrapper">
-                    <!-- Key Points -->
-                    <div class="column collapse lg-12">
-                        <h3 class="solidcast-text-head">Key Points of <b>SOLIDCAST</b>&reg;:</h3>
-                    </div>
-                    <div class="column collapse lg-6 mob-12 key-points">
-                        <h5 class="solidcast-text-head left">01.</h5>
-                        <p class="solidcast-text-head left">Enhanced Durability</p>
-                        <p class="solidcast-text left">Reduces internal stresses, improving resistance to warping and wear.</p>
-                    </div>
-                    <div class="column collapse lg-6 mob-12 key-points">
-                        <h5 class="solidcast-text-head">02.</h5>
-                        <p class="solidcast-text-head">High-Temperature Performance</p>
-                        <p class="solidcast-text left">Handles extreme heat for consistent braking.</p>
-                    </div>
-                    <div class="column collapse lg-6 mob-12 key-points">
-                        <h5 class="solidcast-text-head">03.</h5>
-                        <p class="solidcast-text-head">Aggressive Pad Compatibility</p>
-                        <p class="solidcast-text left">Minimizes disc wear with high-friction pads.</p>
-                    </div>
-                    <div class="column collapse lg-6 mob-12 key-points">
-                        <h5 class="solidcast-text-head">04.</h5>
-                        <p class="solidcast-text-head">Reliable Braking</p>
-                        <p class="solidcast-text left">Long-lasting, dependable performance under pressure.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div id="solidcast-foot">
-            <img id="solidcast-foot-photo" src="<?= base_url('assets/images/backgrounds/index/solidcast-bg-2.jpg') ?>" alt="">
-        </div>
-    </section>
-
-    <!-- Product Section -->
-    <section class="product">
-        <div class="product-head">
-            <div class="column">
-                <h1 class="product-title">OUR PRODUCTS</h1>
-                <h5 class="product-subtitle"><i>HIGH PERFORMANCE MEETS INNOVATION</i></h5>
-            </div>
-        </div>
-        <div class="product-body">
-            <div class="column">
-                <div class="product-body-wrapper">
-                    <div class="column collapse lg-6 tab-12">
-                        <h2 class="product-text-head">Here are some of our disc brake products.</h2>
-                    </div>
-                    <div class="column collapse lg-6 tab-12">
-                        <h5 class="product-text-head">Whether for daily driving or track racing, BRIX has the perfect brake disc for you.</h5>
-                    </div>
-                    <div class="column collapse lg-6 tab-12 showcase">
-                        <a href="#showcase-modal-street" class="showcase-modal-link">
-                            <div class="showcase-card">
-                                <video loop muted autoplay="autoplay">
-                                    <source src="<?= base_url('assets/videos/product-street.mp4') ?>" type="video/mp4">
-                                </video>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="column collapse lg-6 tab-12 showcase">
-                        <a href="#showcase-modal-competition" class="showcase-modal-link">
-                            <div class="showcase-card">
-                                <video loop muted autoplay="autoplay">
-                                    <source src="<?= base_url('assets/videos/product-competition.mp4') ?>" type="video/mp4">
-                                </video>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Distributors -->
-    <section class="distributor">
-        <div class="distributor-head">
-            <div class="column">
-                <h1 class="distributor-title">Our Trusted Distributors</h1>
-            </div>
-        </div>
-        <div class="distributor-body">
-            <div class="column">
-                <div class="row clients-list block-lg-one-sixth block-md-one-fourth block-tab-one-half block-stack">
-                    <?php for ($i = 1; $i <= 12; $i++): ?>
-                        <div class="column clients-list__item">
-                            <a href="<?= site_url('distributors') ?>">
-                                <img src="<?= base_url("assets/images/icons/distributors/{$i}.svg") ?>" alt="Distributor <?= $i ?>">
+            <header class="menu__wrapper">
+                <div class="menu__bar">
+                    <div class="menu__block">
+                        <div class="menu__bar__logo">
+                            <a class="logo" href="<?= site_url('/') ?>">
+                                <img src="<?= base_url('assets/images/logos/logo-brix.svg') ?>" alt="BRIX Performance Logo">
                             </a>
                         </div>
-                    <?php endfor; ?>
-                </div>
-            </div>
-        </div>
-    </section>
+                        <a class="menu__bar__toggle" href="#0"><span>Menu</span></a>
+                    </div>
 
-    <!-- Articles Preview -->
-    <section class="recent-articles">
-        <div class="recent-articles-head">
-            <div class="column">
-                <h1 class="recent-articles-title">RECENT ARTICLES</h1>
-            </div>
-        </div>
-        <div class="recent-articles-body">
-            <div class="column">
-                <div class="recent-articles-body-wrapper">
-                    <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='<?= site_url('article/brix-performance-at-campus-auto-contest-2025') ?>'">
-                        <div class="recent-articles-card">
-                            <div class="recent-articles-category"><p>EVENT</p></div>
-                            <div class="recent-articles-img">
-                                <img src="<?= base_url('assets/images/photos/articles/18/header.jpg') ?>" alt="">
+                    <nav class="menu__navigation">
+                        <ul class="menu__navigation__page">
+                            <li class="list" onclick="location.href='<?= site_url('/') ?>'">
+                                <button>
+                                    <a href="<?= site_url('/') ?>" style="text-decoration: none; color: white">Home</a>
+                                </button>
+                            </li>
+                            <li class="list products">
+                                <button class="btn-products">
+                                    <a>Products</a>
+                                    <img src="<?= base_url('assets/images/icons/icon-arrow.svg') ?>" alt="Homepage">
+                                </button>
+                                <img src="<?= base_url('assets/images/icons/icon-arrow.svg') ?>" class="mobile-arrow-products">
+                                <div class="dropdown__wrapper">
+                                    <div class="dropdown">
+                                        <ul class="list-items-with-description">
+                                            <a href="<?= site_url('street-series') ?>">
+                                                <li>
+                                                    <img src="<?= base_url('assets/images/icons/icon-disc-street.svg') ?>" alt="Homepage">
+                                                    <div class="item-title">
+                                                        <div class="item-subtitle">Street Series</div>
+                                                        <p>Better Cooling. Daily Confidence.</p>
+                                                    </div>
+                                                </li>
+                                            </a>
+                                            <a href="<?= site_url('competition-series') ?>">
+                                                <li>
+                                                    <img src="<?= base_url('assets/images/icons/icon-disc-competition.svg') ?>" alt="Homepage">
+                                                    <div class="item-title">
+                                                        <div class="item-subtitle">Competition Series</div>
+                                                        <p>Track-Proven. Maximum Durability.</p>
+                                                    </div>
+                                                </li>
+                                            </a>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <!-- Mobile Products -->
+                            <a href="<?= site_url('street-series') ?>" style="text-decoration: none; color: white">
+                                <li class="list products list-mobile-products">
+                                    <button>
+                                        <img src="<?= base_url('assets/images/icons/icon-disc-street.svg') ?>" alt="Homepage">
+                                        <a>Street Series</a>
+                                    </button>
+                                </li>
+                            </a>
+                            <a href="<?= site_url('competition-series') ?>">
+                                <li class="list products list-mobile-products">
+                                    <button>
+                                        <img src="<?= base_url('assets/images/icons/icon-disc-competition.svg') ?>" alt="Homepage">
+                                        <a>Competition Series</a>
+                                    </button>
+                                </li>
+                            </a>
+
+                            <li class="list information">
+                                <button class="btn-information">
+                                    <a>Informations</a>
+                                    <img src="<?= base_url('assets/images/icons/icon-arrow.svg') ?>" alt="Homepage">
+                                </button>
+                                <img src="<?= base_url('assets/images/icons/icon-arrow.svg') ?>" class="mobile-arrow-information">
+                                <div class="dropdown__wrapper">
+                                    <div class="dropdown">
+                                        <ul class="list-items-with-description">
+                                            <a href="<?= site_url('testimony') ?>">
+                                                <li>
+                                                    <img src="<?= base_url('assets/images/icons/icon-testimony.svg') ?>" alt="Homepage">
+                                                    <div class="item-title">
+                                                        <div class="item-subtitle">Testimony</div>
+                                                        <p>Customer's testimony</p>
+                                                    </div>
+                                                </li>
+                                            </a>
+                                            <a href="<?= site_url('warranty-statement') ?>">
+                                                <li>
+                                                    <img src="<?= base_url('assets/images/icons/icon-warranty-statement.svg') ?>" alt="Homepage">
+                                                    <div class="item-title">
+                                                        <div class="item-subtitle">Warranty Statement</div>
+                                                        <p>Read our warranty statement</p>
+                                                    </div>
+                                                </li>
+                                            </a>
+                                            <a href="<?= site_url('privacy-policy') ?>">
+                                                <li>
+                                                    <img src="<?= base_url('assets/images/icons/icon-privacy-policy.svg') ?>" alt="Homepage">
+                                                    <div class="item-title">
+                                                        <div class="item-subtitle">Privacy Policy</div>
+                                                        <p>Read our privacy policy</p>
+                                                    </div>
+                                                </li>
+                                            </a>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <!-- Mobile Informations -->
+                            <a>
+                                <li class="list information list-mobile-information" onclick="location.href='<?= site_url('testimony') ?>'">
+                                    <button>
+                                        <img src="<?= base_url('assets/images/icons/icon-testimony.svg') ?>" alt="Homepage">
+                                        <a>Testimony</a>
+                                    </button>
+                                </li>
+                            </a>
+                            <a>
+                                <li class="list information list-mobile-information" onclick="location.href='<?= site_url('warranty-statement') ?>'">
+                                    <button>
+                                        <img src="<?= base_url('assets/images/icons/icon-warranty-statement.svg') ?>" alt="Homepage">
+                                        <a>Warranty Statement</a>
+                                    </button>
+                                </li>
+                            </a>
+                            <a>
+                                <li class="list information list-mobile-information" onclick="location.href='<?= site_url('privacy-policy') ?>'">
+                                    <button>
+                                        <img src="<?= base_url('assets/images/icons/icon-privacy-policy.svg') ?>" alt="Homepage">
+                                        <a>Privacy Policy</a>
+                                    </button>
+                                </li>
+                            </a>
+
+                            <li class="list" onclick="location.href='<?= site_url('distributors') ?>'">
+                                <button>
+                                    <a href="<?= site_url('distributors') ?>" style="text-decoration: none; color: white">Distributors</a>
+                                </button>
+                            </li>
+                            <li class="list article" onclick="location.href='<?= site_url('article') ?>'">
+                                <button>
+                                    <a href="<?= site_url('article') ?>" style="text-decoration: none; color: white">Article</a>
+                                </button>
+                            </li>
+                        </ul>
+
+                        <ul class="menu__navigation__social">
+                            <li>
+                                <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">
+                                    <span class="icon icon-whatsapp"></span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/brixperformanceid" target="_blank" rel="noopener noreferrer">
+                                    <span class="icon icon-instagram"></span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.tiktok.com/@brixperformance?_t=ZS-8uJPDgflzdJ&_r=1" target="_blank" rel="noopener noreferrer">
+                                    <span class="icon icon-tiktok"></span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.tokopedia.com/brix" target="_blank" rel="noopener noreferrer">
+                                    <span class="icon icon-tokopedia"></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </header>
+
+            <section class="hero">
+                <div class="hero-bg"></div>
+
+                <div class="hero-content">
+                    <div class="column lg-6 tab-4 mob-2">
+                        <h1 id="hero-title">
+                            BRIX&reg;&nbsp;PERFORMANCE
+                        </h1>
+                        <h2 id="hero-subtitle">
+                            is&nbsp;all&nbsp;about&nbsp;motorsports
+                        </h2>
+                        <div id="hero-trailer">
+                            <a href="<?= base_url('assets/videos/trailer-competition-series.mp4') ?>" id="hero-trailer-btn">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill: #fff;">
+                                    <path d="M7 6v12l10-6z"></path>
+                                </svg>
+                                COMPETITION SERIES TRAILER
+                            </a>
+                        </div>
+                    </div>
+                    <div class="column lg-6 tab-8 mob-10">
+                        <img id="hero-photo" src="<?= base_url('assets/images/photos/index/intro-bg.jpg') ?>" alt="">
+                    </div>
+                </div>
+            </section>
+
+            <footer class="s-footer">
+                <div class="s-footer__bottom_mid row-footer">
+                    <div class="column lg-3 md-4 stack-on-1000 s-footer__bottom-left">
+
+                        <h4 class="footer-title">Contact</h4>
+
+                        <div class="footer__contact">
+                            <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">
+                                <p class="whatsapp">0812-8474-6544</p>
+                            </a>
+                            <p class="phone">0812-8474-6544</p>
+                            <a href="mailto:brixperformance@gmail.com">
+                                <p class="mail">brixperformance@gmail.com</p>
+                            </a>
+                        </div>
+
+                        <div class="footer__social_media">
+                            <ul class="footer__social_media__list">
+                                <li>
+                                    <a href="https://www.instagram.com/brixperformanceid" target="_blank" rel="noopener noreferrer">
+                                        <span class="icon icon-instagram"></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.tiktok.com/@brixperformance?_t=ZS-8uJPDgflzdJ&_r=1" target="_blank" rel="noopener noreferrer">
+                                        <span class="icon icon-tiktok"></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.tokopedia.com/brix" target="_blank" rel="noopener noreferrer">
+                                        <span class="icon icon-tokopedia"></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.linkedin.com/company/brix-performance" target="_blank" rel="noopener noreferrer">
+                                        <span class="icon icon-linkedin"></span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="column lg-7 md-6 stack-on-1000 s-footer__bottom-left">
+                        <h4 class="footer-title">Stay Connected!</h4>
+                        <p class="footer-contact">Get the latest updates through our newsletter.</p>
+
+                        <div class="column footersletter">
+                            <div class="subscribe-form s-footer__subscribe">
+                                <form id="mc-form" class="mc-form" style="max-width: 500px;">
+                                    <input type="email" name="EMAIL" id="mce-EMAIL" class="u-fullwidth text-center"
+                                        placeholder="Your Email"
+                                        title="The domain portion of the email address is invalid (the portion after the @)."
+                                        pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\\.\w{2,})+$"
+                                        required>
+                                    <input type="submit" name="subscribe" value="Subscribe" class="btn btn--primary u-fullwidth">
+                                </form>
                             </div>
-                            <div class="recent-articles-caption">
-                                <div class="date"><p>April 28, 2025</p></div>
-                                <div class="title"><a>BRIX Performance at Campus Auto Contest 2025.</a></div>
-                                <div class="subtitle"><p>Connecting with the Next Generation of Automotive Enthusiasts.</p></div>
-                            </div>
                         </div>
+
+                        <p class="footer-subtitle">Your personal information is protected. View our <a href="<?= site_url('privacy-policy') ?>">Privacy Policy</a>.</p>
                     </div>
                 </div>
-            </div>
+            </footer>
+        
         </div>
-    </section>
 
-    <!-- Modals -->
-    <div id="showcase-modal-street" hidden>
-        <div class="modal-popup">
-            <div class="row block-tab-one-half block-tab-whole">
-                <div class="column collapse modal-video">
-                    <iframe src="<?= base_url('assets/videos/product-street.mp4') ?>" frameborder='0' style="aspect-ratio: 1 !important;" allow="loop"></iframe>
-                </div>
-                <div class="column">
-                    <div class="modal-popup__desc">
-                        <h5>STREET SERIES BRAKE DISC</h5>
-                        <p>High-performance street disc with SOLIDCAST&reg; heat treatment. Built for everyday performance and OEM plug & play installation.</p>
-                        <div class="modal-popup__learn-more">
-                            <a href="<?= site_url('street-series') ?>" class="btn btn--stroke modal-popup__learn-more-btn smoothscroll">Learn More</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div id="showcase-modal-competition" hidden>
-        <div class="modal-popup">
-            <div class="row block-tab-one-half block-tab-whole">
-                <div class="column collapse modal-video">
-                    <iframe src="<?= base_url('assets/videos/product-competition.mp4') ?>" frameborder='0' style="aspect-ratio: 1 !important;" allow="loop"></iframe>
-                </div>
-                <div class="column">
-                    <div class="modal-popup__desc">
-                        <h5>COMPETITION SERIES BRAKE DISC</h5>
-                        <p>Slotted pattern with FC250 material and SOLIDCAST&reg;. Designed for heat resistance and linear braking on track.</p>
-                        <div class="modal-popup__learn-more">
-                            <a href="<?= site_url('competition-series') ?>" class="btn btn--stroke modal-popup__learn-more-btn smoothscroll">Learn More</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-</div>
-
-<?php $this->include('templates/footer-bar'); ?>
-<?php $this->include('templates/footer'); ?>
+        <script src="<?= base_url('assets/vendor/js/plugins.js') ?>"></script>
+        <script src="<?= base_url('assets/js/script.js') ?>"></script>
+    </body>
+</html>
