@@ -13,9 +13,59 @@
  */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Manrope:wght@500;600;700&display=swap");
 
+@font-face {
+    font-family: 'Monument Extended Ultra Bold'; /* Or your chosen font name */
+    src: url('../font/MonumentExtended-UltraBold.otf') format('woff'); /* Path to your font file */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monument Extended Regular'; /* Or your chosen font name */
+    src: url('../font/MonumentExtended-Regular.otf') format('woff'); /* Path to your font file */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monument Extended Light'; /* Or your chosen font name */
+    src: url('../font/MonumentExtended-Light.otf') format('woff'); /* Path to your font file */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat Regular'; /* Or your chosen font name */
+    src: url('../font/Montserrat-Regular.ttf') format('woff'); /* Path to your font file */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat Medium'; /* Or your chosen font name */
+    src: url('../font/Montserrat-Medium.ttf') format('woff'); /* Path to your font file */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat SemiBold'; /* Or your chosen font name */
+    src: url('../font/Montserrat-SemiBold.ttf') format('woff'); /* Path to your font file */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat Bold'; /* Or your chosen font name */
+    src: url('../font/Montserrat-Bold.ttf') format('woff'); /* Path to your font file */
+    font-weight: normal;
+    font-style: normal;
+}
+
 :root {
     --font-1    : "Inter", sans-serif;
     --font-2    : "Manrope", sans-serif;
+    --font-3    : "Monument Extended Regular";
 
     /* monospace
      */
@@ -121,13 +171,14 @@
     --color-body                   : white;
     --color-border                 : rgba(0, 0, 0, .08);
     --border-radius                : 3px;
+    --color-blue                    : #0e58a7;
 }
 
 /* ------------------------------------------------------------------- 
  * ## spacing and typescale
  * ------------------------------------------------------------------- 
  */
- :root {
+:root {
 
     /* spacing
      * base font size: 18px 
@@ -161,6 +212,7 @@
     --vspace-6         : calc(6 * var(--space));
     --vspace-7_5         : calc(7.5 * var(--space));
     --vspace-8         : calc(8 * var(--space));
+    --vspace-8_75        : calc(8.75 * var(--space));
     --vspace-10         : calc(10 * var(--space));
     --vspace-12         : calc(12 * var(--space));
     --vspace-15         : calc(15 * var(--space));
@@ -217,7 +269,7 @@
 /* ------------------------------------------------------------------- 
  * ## grid variables
  * ------------------------------------------------------------------- */
- :root {
+:root {
 
     /* widths for rows and containers
      */
@@ -232,14 +284,14 @@
 
     /* gutter
      */
-    --gutter         : 2.2rem;
+    --gutter         : 4.4rem;
 }
 
 /* on medium screen devices
  */
 @media screen and (max-width: 1200px) {
     :root {
-        --gutter : 2rem;
+        --gutter : 4rem;
     }
 }
 
@@ -247,7 +299,7 @@
  */
 @media screen and (max-width: 600px) {
     :root {
-        --gutter : 1rem;
+        --gutter : 2rem;
     }
 }
 
@@ -256,7 +308,7 @@
  *
  *
  * ------------------------------------------------------------------- */
- html {
+html {
     font-size  : var(--base-size);
     box-sizing : border-box;
 }
@@ -295,6 +347,12 @@ img,
 video {
     max-width : 100%;
     height    : auto;
+}
+
+video {
+    max-width : 100%;
+    height    : auto;
+    margin-bottom: -10px;
 }
 
 pre {
@@ -361,59 +419,58 @@ textarea {
 
 /* headings
  */
- h1,
- h2,
- h3,
- h4,
- h5,
- h6,
- .h1,
- .h2,
- .h3,
- .h4,
- .h5,
- .h6 {
-     font-family            : var(--font-2);
-     font-weight            : 600;
-     color                  : var(--color-text-dark);
-     font-variant-ligatures : common-ligatures;
-     text-rendering         : optimizeLegibility;
-     letter-spacing         : -.010em;
- }
- 
- h1,
- .h1 {
-     margin-top    : var(--vspace-2_5);
-     margin-bottom : var(--vspace-0_75);
- }
- 
- h2,
- .h2,
- h3,
- .h3,
- h4,
- .h4 {
-     margin-top    : var(--vspace-2);
-     margin-bottom : var(--vspace-0_75);
- }
- 
- h5,
- .h5,
- h6,
- .h6 {
-     margin-top    : var(--vspace-1_75);
-     margin-bottom : var(--vspace-0_5);
- }
- 
- h1,
- .h1 {
-     font-size      : var(--text-display-2);
-     line-height    : calc(2.25 * var(--space));
-     letter-spacing : -.020em;
- }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family            : var(--font-2);
+    font-weight            : 600;
+    color                  : var(--color-text-dark);
+    font-variant-ligatures : common-ligatures;
+    text-rendering         : optimizeLegibility;
+    letter-spacing         : -.010em;
+}
 
- @media screen and (max-width: 500px) {
+h1,
+.h1 {
+    margin-top    : var(--vspace-2_5);
+    margin-bottom : var(--vspace-0_75);
+}
 
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4 {
+    margin-top    : var(--vspace-2);
+    margin-bottom : var(--vspace-0_75);
+}
+
+h5,
+.h5,
+h6,
+.h6 {
+    margin-top    : var(--vspace-1_75);
+    margin-bottom : var(--vspace-0_5);
+}
+
+h1,
+.h1 {
+    font-size      : var(--text-display-2);
+    line-height    : calc(2.25 * var(--space));
+    letter-spacing : -.020em;
+}
+
+@media screen and (max-width: 500px) {
     h1,
     .h1 {
         font-size   : var(--text-display-1);
@@ -460,7 +517,7 @@ h6,
  * ------------------------------------------------------------------- 
  */
 
- #preloader {
+#preloader {
     position : fixed;
     display : flex;
     flex-flow : row wrap;
@@ -511,7 +568,7 @@ h6,
 
 /* row 
  */
- .row {
+.row {
     width     : 92%;
     max-width : var(--width-grid-max);
     margin    : 0 auto;
@@ -541,6 +598,11 @@ h6,
 
 /* row utility classes
  */
+.row.collapse {
+    padding: 0;
+    margin: 0;
+}
+
 .row.row-wrap {
     flex-wrap : wrap;
 }
@@ -1014,8 +1076,9 @@ h6,
         margin-right : 0;
     }
 
-    .block-stack>.column,
-    .column {
+    .block-stack>.column
+    /* .column { */
+    {
         flex         : none;
         width        : 100%;
         margin-left  : 0;
@@ -1162,7 +1225,7 @@ button.btn--stroke {
     border                  : 2px solid var(--color-btn);
     -webkit-font-smoothing  : antialiased;
     -moz-osx-font-smoothing : grayscale;
-    background  : transparent !important;
+    background  : var(--color-1) !important;
     font-weight : 400;
     border      : 2px solid var(--color-btn-stroke);
     color       : var(--color-btn-stroke-text);
@@ -1172,9 +1235,9 @@ button.btn--stroke {
 button.btn--stroke:focus,
 .btn--stroke:hover,
 button.btn--stroke:hover {
-    background : var(--color-1) !important;
-    border     : 2px solid var(--color-1);
-    color      : var(--color-white);
+    background : var(--color-1-dark) !important;
+    border     : 2px solid var(--color-white) !important;
+    color      : var(--color-white) !important;
 }
 
 /* ------------------------------------------------------------------- 
@@ -1409,7 +1472,6 @@ button.btn--stroke:hover {
 }
 
 .basicLightbox iframe {
-    width        : 880px;
     aspect-ratio : 16/9;
 }
 
@@ -1447,7 +1509,7 @@ button.btn--stroke:hover {
  *
  *
  * ------------------------------------------------------------------- */
- .s-pagewrap {
+.s-pagewrap {
     display        : flex;
     flex-direction : column;
     min-height     : 100%;
@@ -1460,7 +1522,7 @@ button.btn--stroke:hover {
  *
  *
  * ------------------------------------------------------------------- */
- fieldset {
+fieldset {
     border  : none;
     padding : 0;
 }
@@ -1639,84 +1701,88 @@ select:-webkit-autofill:focus {
  *
  *
  * ------------------------------------------------------------------- */
- /* .btn,
+/* .btn,
  button, */
- input[type="submit"],
- input[type="reset"],
- input[type="button"] {
-     --btn-height            : var(--vspace-btn);
-     display                 : inline-block;
-     font-family             : var(--font-2);
-     font-weight             : 400;
-     font-size               : calc(var(--text-size) * 0.6667);
-     text-transform          : uppercase;
-     letter-spacing          : .3em;
-     height                  : var(--btn-height);
-     line-height             : calc(var(--btn-height) - 4px);
-     padding                 : 0 3.6rem;
-     margin                  : 0 0.4rem var(--vspace-0_5) 0;
-     color                   : var(--color-btn-text);
-     text-decoration         : none;
-     text-align              : center;
-     white-space             : nowrap;
-     cursor                  : pointer;
-     transition              : all .3s;
-     background-color        : var(--color-btn);
-     border                  : 2px solid var(--color-btn);
-     -webkit-font-smoothing  : antialiased;
-     -moz-osx-font-smoothing : grayscale;
- }
- 
- .btn:focus,
- button:focus,
- input[type="submit"]:focus,
- input[type="reset"]:focus,
- input[type="button"]:focus,
- .btn:hover,
- button:hover,
- input[type="submit"]:hover,
- input[type="reset"]:hover,
- input[type="button"]:hover {
-     background-color : var(--color-btn-hover);
-     border-color     : var(--color-btn-hover);
-     /* color            : var(--color-btn-hover-text); */
-     color            : white;
-     outline          : 0;
- }
- 
- /* button primary
-  */
- .btn.btn--primary,
- button.btn--primary,
- input[type="submit"].btn--primary,
- input[type="reset"].btn--primary,
- input[type="button"].btn--primary {
-     /* background   : var(--color-btn-primary);
-     border-color : var(--color-btn-primary);
-     color        : var(--color-btn-primary-text); */
-     background   : var(--color-1);
-     border-color : var(--color-1);
-     color        : var(--color-white);
- }
- 
- .btn.btn--primary:focus,
- button.btn--primary:focus,
- input[type="submit"].btn--primary:focus,
- input[type="reset"].btn--primary:focus,
- input[type="button"].btn--primary:focus,
- .btn.btn--primary:hover,
- button.btn--primary:hover,
- input[type="submit"].btn--primary:hover,
- input[type="reset"].btn--primary:hover,
- input[type="button"].btn--primary:hover {
-     /* background   : var(--color-btn-primary-hover);
-     border-color : var(--color-btn-primary-hover);
-     color        : var(--color-btn-primary-hover-text); */
-     background   : var(--color-1-dark);
-     border-color : var(--color-1-dark);
-     color        : var(--color-white);
- }
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+    --btn-height            : var(--vspace-btn);
+    display                 : inline-block;
+    font-family             : var(--font-2);
+    font-weight             : 400;
+    font-size               : calc(var(--text-size) * 0.6667);
+    text-transform          : uppercase;
+    letter-spacing          : .3em;
+    height                  : var(--btn-height);
+    line-height             : calc(var(--btn-height) - 4px);
+    padding                 : 0 3.6rem;
+    margin                  : 0 0.4rem var(--vspace-0_5) 0;
+    color                   : var(--color-btn-text);
+    text-decoration         : none;
+    text-align              : center;
+    white-space             : nowrap;
+    cursor                  : pointer;
+    transition              : all .3s;
+    background-color        : var(--color-btn);
+    border                  : 2px solid var(--color-btn);
+    -webkit-font-smoothing  : antialiased;
+    -moz-osx-font-smoothing : grayscale;
+}
 
- .flipper {
-    rotate: 180deg;
-  }
+.btn:focus,
+button:focus,
+input[type="submit"]:focus,
+input[type="reset"]:focus,
+input[type="button"]:focus,
+.btn:hover,
+button:hover,
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+input[type="button"]:hover {
+    background-color : var(--color-btn-hover);
+    border-color     : var(--color-btn-hover);
+    /* color            : var(--color-btn-hover-text); */
+    color            : white;
+    outline          : 0;
+}
+
+/* button primary
+*/
+.btn.btn--primary,
+button.btn--primary,
+input[type="submit"].btn--primary,
+input[type="reset"].btn--primary,
+input[type="button"].btn--primary {
+    /* background   : var(--color-btn-primary);
+    border-color : var(--color-btn-primary);
+    color        : var(--color-btn-primary-text); */
+    background   : var(--color-1);
+    border-color : var(--color-1);
+    color        : var(--color-white);
+}
+
+.btn.btn--primary:focus,
+button.btn--primary:focus,
+input[type="submit"].btn--primary:focus,
+input[type="reset"].btn--primary:focus,
+input[type="button"].btn--primary:focus,
+.btn.btn--primary:hover,
+button.btn--primary:hover,
+input[type="submit"].btn--primary:hover,
+input[type="reset"].btn--primary:hover,
+input[type="button"].btn--primary:hover {
+    /* background   : var(--color-btn-primary-hover);
+    border-color : var(--color-btn-primary-hover);
+    color        : var(--color-btn-primary-hover-text); */
+    background   : var(--color-1-dark);
+    border-color : var(--color-1-dark);
+    color        : var(--color-white);
+}
+
+.flipper {
+rotate: 180deg;
+}
+
+monument {
+    font-family: 'Monument Extended Regular';
+}

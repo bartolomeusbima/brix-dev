@@ -114,7 +114,7 @@
         // video lightbox
         const videoLightbox = function() {
 
-            const videoLink = document.querySelector('.s-intro__content-btn');
+            const videoLink = document.querySelector('#hero-trailer-btn');
             if (!videoLink) return;
     
             videoLink.addEventListener('click', function(event) {
@@ -133,6 +133,68 @@
 
         // portfolio lightbox
         const folioLightbox = function() {
+
+            const folioLinks = document.querySelectorAll('.showcase .showcase-modal-link');
+            const modals = [];
+
+            folioLinks.forEach(function(link) {
+                let modalbox = link.getAttribute('href');
+                let instance = basicLightbox.create(
+                    document.querySelector(modalbox),
+                    {
+                        onShow: function(instance) {
+                            //detect Escape key press
+                            document.addEventListener("keydown", function(event) {
+                                event = event || window.event;
+                                if (event.key === "Escape") {
+                                    instance.close();
+                                }
+                            });
+                            
+                            // const video = instance.element().querySelector('.iframe').contentWindow;
+                            // console.log(video)
+                            // const video1 = video.contentWindow.document.querySelector('video');
+                            // const video1 = video.document;
+                            // console.log(video1)
+
+                            // modals.push(instance);
+
+                        }
+                    }
+                )
+                modals.push(instance);
+                // });
+
+                // console.log(modals)
+    
+        
+                folioLinks.forEach(function(link, index) {
+                    link.addEventListener("click", function(event) {
+                        event.preventDefault();
+                        modals[index].show();
+
+                        console.log(modals[index].element().querySelector('iframe').contentWindow)
+
+                        const iframe = modals[index].element().querySelector('iframe');
+
+                        iframe.onload = () => {
+                            const video = iframe.contentWindow.document.querySelector('video');
+                            if (video) {
+                                video.currentTime = 0;
+                                video.play();
+                            } else {
+                                console.warn('Video not found inside iframe');
+                            }
+                        };
+                    });
+                });
+            });
+    
+            
+    
+        };
+
+        const testimonyLightbox = function() {
 
             const folioLinks = document.querySelectorAll('.brick .entry__link');
             const modals = [];
@@ -167,6 +229,7 @@
 
         videoLightbox();
         folioLightbox();
+        testimonyLightbox();
  
     };
 
@@ -239,10 +302,10 @@
     (function Init() {
 
         ssPreloader();
-        // ssMobileMenu();
-        // ssLightbox();
-        // ssSwiper();  
-        // ssSwiperTestimony();    
+        ssMobileMenu();
+        ssLightbox();
+        ssSwiper();  
+        ssSwiperTestimony();
 
     })();
 

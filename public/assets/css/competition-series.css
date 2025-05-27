@@ -1,0 +1,793 @@
+/* ===================================================================
+ * # HERO SECTION
+ *
+ *
+ * ------------------------------------------------------------------- */
+.hero {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 80px;
+    background-color: var(--color-black);
+}
+
+/* --------------------------------------------------------------------
+ * # BACKGROUND
+ * -------------------------------------------------------------------- */
+
+.hero-content {
+    margin: 0;
+    padding: calc(var(--gutter) * 2);
+    display: flex;
+    flex-flow: row wrap;
+}
+
+#hero-top-title {
+    line-height: 1.25;
+    color: var(--color-1);
+    font-weight: 400;
+    position: relative;
+    font-family: 'Monument Extended Regular';
+    margin: 0;
+    text-shadow: 0px 0px 30px rgba(0, 0, 0, 1);
+    text-align: center;
+}
+
+#hero-title {
+    line-height: 1.5;
+    color: var(--color-white);
+    position: relative;
+    font-family: 'Monument Extended Ultra Bold';
+    margin: 0;
+    text-shadow: 0px 0px 30px rgba(0, 0, 0, 1);
+    text-align: center;
+}
+
+#hero-subtitle {
+    line-height: 1.25;
+    color: var(--color-gray-15);
+    font-weight: 400;
+    position: relative;
+    font-family: 'Monument Extended Regular';
+    margin: 0;
+    text-shadow: 0px 0px 30px rgba(0, 0, 0, 1);
+    text-align: center;
+}
+
+#hero-photo {
+    width: 100%;
+    object-fit: cover;
+    aspect-ratio: 3/2;
+}
+
+@media screen and (max-width: 1100px) {
+    .hero-content {
+        padding: var(--gutter) calc(var(--gutter) * 0.75) var(--gutter) 0;
+    }
+
+    #hero-title {
+        font-size: var(--text-display-1);
+    }
+
+    #hero-top-title,
+    #hero-subtitle {
+        font-size: var(--text-xl);
+    }
+}
+
+@media screen and (max-width: 900px) {
+    #hero-title {
+        font-size: var(--text-xxxl);
+        padding: 0 0 0 calc(var(--gutter) * 1);
+    }
+
+    #hero-top-title,
+    #hero-subtitle {
+        font-size: var(--text-md);
+        padding: 0 0 0 calc(var(--gutter) * 1);
+    }
+}
+
+@media screen and (max-width: 750px) {
+    #hero-title {
+        font-size: var(--text-xxl);
+        padding: 0 0 0 calc(var(--gutter) * 0.5);
+    }
+
+    #hero-top-title,
+    #hero-subtitle {
+        font-size: var(--text-sm);
+        padding: 0 0 0 calc(var(--gutter) * 0.5);
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #hero-title {
+        font-size: var(--text-xl);
+        padding: 0 0 0 calc(var(--gutter) * 1);
+    }
+
+    #hero-top-title,
+    #hero-subtitle {
+        font-size: var(--text-xs);
+        padding: 0 0 0 calc(var(--gutter) * 1);
+    }
+}
+
+@media screen and (max-width: 450px) {
+    #hero-title {
+        font-size: var(--text-lg);
+        padding: 0 0 0 calc(var(--gutter) * 0.5);
+    }
+
+    #hero-top-title,
+    #hero-subtitle {
+        padding: 0 0 0 calc(var(--gutter) * 0.5);
+    }
+}
+
+@media screen and (max-width: 375px) {
+    #hero-title {
+        font-size: var(--text-md);
+    }
+}
+
+/* ===================================================================
+ * # VIDEO SECTION
+ *
+ *
+ * ------------------------------------------------------------------- */
+
+.responsive-video {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    object-position: center;
+}
+
+@media screen and (max-width: 900px) {
+    .responsive-video {
+        height: 80vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .responsive-video {
+        height: 60vh;
+    }
+}
+
+/* ===================================================================
+ * # NARRATIVE-TEXT SECTION
+ *
+ *
+ * ------------------------------------------------------------------- */
+.narrative-text {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.narrative-text.bg-1 {
+    background-image: url(../images/backgrounds/competition-series/narrative-text-bg-1.png);
+    background-size: cover;
+}
+
+.narrative-text.bg-2 {
+    background-image: url(../images/backgrounds/competition-series/narrative-text-bg-2.jpg);
+    background-position-y: center;
+}
+
+.narrative-text.bg-3 {
+    background-image: url(../images/backgrounds/competition-series/narrative-text-bg-3.jpg);
+    background-position-y: center;
+    background-size: cover;
+}
+
+.narrative-text.bg-4 {
+    background-image: url(../images/backgrounds/competition-series/narrative-text-bg-4.jpg);
+    background-position-y: center;
+    background-size: cover;
+}
+
+.narrative-text::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: var(--color-black);
+    pointer-events: none;
+    opacity: 85%;
+}
+
+/* --------------------------------------------------------------------
+ * # NARRATIVE-TEXT - HEAD
+ * -------------------------------------------------------------------- */
+#narrative-text-head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+    padding: calc(var(--gutter) * 2) 0 0 0;
+    height: auto;
+    margin: 0 0 var(--vspace-0_5);
+}
+
+#narrative-text-title {
+    line-height: 1;
+    color: var(--color-white);
+    padding: 0 var(--vspace-5) calc(var(--gutter) * 0.25) calc(var(--vspace-5));
+    position: relative;
+    font-family: 'Monument Extended Regular';
+    margin: 0;
+    text-align: center;
+}
+
+#narrative-text-subtitle {
+    line-height: 1.25;
+    font-weight: 400;
+    padding: 0 var(--vspace-5) calc(var(--gutter) * 0.75) calc(var(--vspace-5));
+    position: relative;
+    font-family: 'Monument Extended Regular';
+    margin: 0;
+    text-align: center;
+    color: var(--color-white);
+}
+
+orange {
+    color: var(--color-1);
+}
+
+/* --------------------------------------------------------------------
+ * # NARRATIVE-TEXT - BODY
+ * -------------------------------------------------------------------- */
+
+#narrative-text-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+    padding: 0 0 calc(var(--gutter) * 1.5) 0;
+}
+
+.narrative-text-text {
+    padding: 0 calc(var(--vspace-5)) calc(var(--gutter) * 0.75) calc(var(--vspace-5));
+    font-family: var(--font-1);
+    font-size: var(--text-lg);
+    font-weight: 400;
+    line-height: var(--vspace-1_25);
+    text-align: center;
+    font-family: 'Montserrat Regular';
+    color: var(--color-white);
+}
+
+@media screen and (max-width: 1200px) {
+    /* #narrative-text-head { */
+        /* height: var(--vspace-); */
+    /* } */
+
+    #narrative-text-title {
+        font-size: var(--text-md);
+    }
+
+    #narrative-text-subtitle {
+        font-size: var(--text-md);
+    }
+
+    .narrative-text-text {
+        font-size: var(--text-md);
+        line-height: var(--vspace-1);
+    }
+}
+
+@media screen and (max-width: 900px) {
+    #narrative-text-head {
+        height: auto;
+        margin: 0 0 var(--vspace-0_5);
+    }
+
+    #narrative-text-title {
+        padding: 0 0 0 calc(var(--gutter) * 1);
+    }
+
+    #narrative-text-subtitle {
+        padding: 0 0 0 calc(var(--gutter) * 1);
+    }
+
+    .narrative-text-text {
+        padding: 0 calc(var(--gutter)* 1) calc(var(--gutter)* 0.75) calc(var(--gutter) * 1);
+    }
+}
+
+@media screen and (max-width: 750px) {
+    #narrative-text-head {
+        height: auto;
+        margin: 0 0 var(--vspace-0_5);
+    }
+
+    #narrative-text-title {
+        padding: 0 0 0 calc(var(--gutter) * 0.5);
+    }
+
+    #narrative-text-subtitle {
+        padding: 0 0 0 calc(var(--gutter) * 0.5);
+    }
+
+    .narrative-text-text {
+        padding: 0 calc(var(--gutter)* 1) calc(var(--gutter)* 0.75) calc(var(--gutter) * 0.5);
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .narrative-text-text {
+        font-size: var(--text-sm);
+        line-height: var(--vspace-0_75);
+    }
+}
+
+@media screen and (max-width: 550px) {
+    #narrative-text-head {
+        height: auto;
+        margin: 0 0 var(--vspace-0_5);
+    }
+
+    h1#narrative-text-title {
+        font-size   : var(--text-xxxl);
+    }
+
+    h3#narrative-text-subtitle {
+        font-size   : var(--text-lg);
+    }
+}
+
+@media screen and (max-width: 400px) {
+    #narrative-text-head {
+        height: auto;
+        margin: 0 0 var(--vspace-0_5);
+    }
+
+    h1#narrative-text-title {
+        font-size   : var(--text-xxl);
+    }
+
+    h3#narrative-text-subtitle {
+        font-size   : var(--text-md);
+    }
+}
+
+/* ===================================================================
+ * # COMPETITION SERIES SHOT SECTION
+ *
+ *
+ * ------------------------------------------------------------------- */
+
+/* --------------------------------------------------------------------
+ * # BRIX ON TRACKS
+ * -------------------------------------------------------------------- */
+.competition-series-shot {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#competition-series-shot-wrapper {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+#competition-series-shot-photo {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    aspect-ratio: 4/2;
+}
+
+/* ===================================================================
+ * # SOLIDCAST SECTION
+ *
+ *
+ * ------------------------------------------------------------------- */
+.solidcast {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+/* --------------------------------------------------------------------
+ * # SOLIDCAST - BODY
+ * -------------------------------------------------------------------- */
+
+.solidcast-body-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.solidcast-body-wrapper .key-points {
+    height: var(--vspace-7_5);
+}
+
+.solidcast-key-points-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    height: 100%;
+    padding: 0 var(--vspace-1);
+}
+
+.key-points-title {
+    font-size: var(--text-sm);
+    font-family: 'Monument Extended Regular';
+    display: flex;    
+    align-items: flex-end;
+    justify-content: center;
+    padding: 0 0 var(--vspace-0_5) 0;
+}
+
+.title-wrapper {
+    display: flex;
+    gap: 10px;
+}
+
+.key-points-detail p {
+    font-size: var(--text-sm);
+    font-family: 'Montserrat Regular';
+    display: flex;
+    align-items: flex-start;
+    text-align: center;
+}
+
+/* --------------------------------------------------------------------
+ * # SOLIDCAST - BODY - KEY POINTS BACKGROUND
+ * -------------------------------------------------------------------- */
+
+.key-points::before {
+    content: "";
+    position: absolute;
+    background: var(--color-white);
+    pointer-events: none;
+    width: inherit;
+    height: inherit;
+    z-index: -1;
+}
+
+.key-points:nth-child(odd)::before {
+    background: var(--color-1);
+}
+
+.key-points:nth-child(even)::before {
+    background: var(--color-black);
+}
+
+.key-points:nth-child(even) .solidcast-key-points-wrapper .key-points-title .title-wrapper p,
+.key-points:nth-child(even) .solidcast-key-points-wrapper .key-points-detail p {
+    color: var(--color-white);
+}
+
+/* --------------------------------------------------------------------
+ * # SOLIDCAST - BODY - KEY POINTS FONTS
+ * -------------------------------------------------------------------- */
+
+.solidcast-text-head {
+    line-height: 1.25;
+    font-weight: 100;
+    position: relative;
+    font-family: 'Monument Extended Regular';
+    margin: 0;
+}
+
+.solidcast-text-head#sth-2 {
+    color: var(--color-1);
+}
+
+.solidcast-text-head#sth-3 {
+    color: var(--color-gray-19);
+    letter-spacing: 0em;
+    font-size: calc(var(--text-size) * 1);
+}
+
+.solidcast-text {
+    padding: 0 calc(var(--gutter) * 1) calc(var(--gutter) * 0.75) calc(var(--gutter) * 2);
+    font-family: var(--font-1);
+    font-size: var(--base-font-size);
+    font-weight: 400;
+    line-height: var(--vspace-1);
+    text-align: justify;
+    font-family: 'Montserrat Regular';
+}
+
+.solidcast-text monument {
+    font-family: 'Monument Extended Regular';
+}
+
+.solidcast-text#stt-1 {
+    padding: 0;
+}
+
+/* ===================================================================
+ * # PRODUCT-COMPARISON SECTION
+ *
+ *
+ * ------------------------------------------------------------------- */
+.product-comparison {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    padding: calc(var(--gutter) * 2) var(--gutter);
+    background-color: var(--color-black);
+}
+
+/* --------------------------------------------------------------------
+ * # PRODUCT-COMPARISON - HEAD
+ * -------------------------------------------------------------------- */
+#product-comparison-head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+}
+
+#product-comparison-title {
+    line-height: 1;
+    color: var(--color-white);
+    padding: 0 var(--vspace-5) calc(var(--gutter) * 0.25) calc(var(--vspace-5));
+    position: relative;
+    font-family: 'Monument Extended Regular';
+    margin: 0;
+    text-align: center;
+}
+
+@media screen and (max-width: 1200px) {
+    #product-comparison-title {
+        font-size: var(--text-md);
+    }
+}
+
+@media screen and (max-width: 900px) {
+    #product-comparison-title {
+        padding: 0 0 0 calc(var(--gutter) * 1);
+    }
+}
+
+@media screen and (max-width: 750px) {
+    #product-comparison-title {
+        padding: 0 0 0 calc(var(--gutter) * 0.5);
+    }
+}
+
+@media screen and (max-width: 550px) {
+    h1#product-comparison-title {
+        font-size   : var(--text-xxxl);
+    }
+}
+
+@media screen and (max-width: 400px) {
+    h1#product-comparison-title {
+        font-size   : var(--text-xxl);
+    }
+}
+
+/* ===================================================================
+ * # RECENT ARTICLES SECTION
+ *
+ *
+ * ------------------------------------------------------------------- */
+.recent-articles {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    padding: var(--vspace-2) 0;
+}
+
+/* --------------------------------------------------------------------
+ * # PRODUCTS - HEAD
+ * -------------------------------------------------------------------- */
+.recent-articles-head {
+    display: flex;
+    align-items: center;
+    padding: 0 0 var(--vspace-1_5) 0;
+}
+
+.recent-articles-head::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.recent-articles-title {
+    line-height: 1;
+    color: var(--color-white);
+    padding: 0 0 0 calc(var(--gutter) * 2);
+    position: relative;
+    font-family: 'Monument Extended Ultra Bold';
+    margin: 0;
+}
+
+/* --------------------------------------------------------------------
+ * # RECENT ARTICLES - BODY
+ * -------------------------------------------------------------------- */
+
+.recent-articles-body {
+    height: fit-content;
+}
+
+.recent-articles-body::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /* background: var(--color-gray-1); */
+}
+
+.recent-articles-body-wrapper {
+    margin: 0;
+    padding: 0 calc(var(--gutter)* 2);
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.recent-articles-body-wrapper .column {
+    margin: 0 0 var(--vspace-0_5) 0;
+}
+
+.recent-articles-card {
+    position: relative;
+    margin: 0 var(--vspace-0_25);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.recent-articles-card:hover {
+    transform: scale(1.025);
+    z-index: 1;
+}
+
+.recent-articles-card:hover .recent-articles-caption .title a {
+    font-size: calc(var(--text-sm) * 1.01);
+    color: #fc3f00;
+}
+
+.recent-articles-category {
+    width: fit-content;
+    position: absolute;
+    margin: var(--vspace-0_25);
+    opacity: 90%;
+}
+
+.recent-articles-category p {
+    background: var(--color-gray-10);
+    padding: var(--vspace-0_25);
+    font-family: 'Monument Extended Regular';
+    font-size: calc(var(--text-xs) * 0.75);
+    color: var(--color-black);
+}
+
+.recent-articles-img img {
+    width: 100%;
+    aspect-ratio: 4/3;
+    display: block;
+}
+
+.recent-articles-caption {
+    background: var(--color-white);
+    width: 100%;
+    transition: all 0.4s ease-out 0s;
+    background-color: var(--color-gray-5);
+    aspect-ratio: 4/3;
+    padding: var(--vspace-0_5);
+    font-family: 'Monument Extended Regular';
+}
+
+.recent-articles-caption .date {
+    height: fit-content;
+    margin-bottom: var(--vspace-0_25);
+}
+
+.recent-articles-caption .date p {
+    font-family: 'Montserrat Medium';
+    font-size: var(--text-xs);
+    color: var(--color-black);
+}
+
+.recent-articles-caption .title {
+    height: fit-content;
+    margin-bottom: var(--vspace-0_25);
+}
+
+.recent-articles-caption .title a {
+    font-family: 'Monument Extended Regular';
+    font-size: var(--text-sm);
+    transition: 0.5s;
+    font-weight: 400;
+    color: var(--color-black);
+}
+
+.recent-articles-caption .subtitle {
+    height: fit-content;
+    margin-bottom: var(--vspace-0_25);
+}
+
+.recent-articles-caption .subtitle p {
+    font-family: 'Montserrat Medium';
+    font-size: var(--text-sm);
+    transition: 0.5s;
+    font-weight: 400;
+    color: var(--color-black);
+}
+
+.recent-articles-caption span {
+    color: var(--color-black);
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 1;
+    display: inline-block;
+}
+
+.recent-articles-caption h4 {
+    margin: 0;
+    line-height: 1;
+}
+
+.recent-articles-caption h4 a {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.recent-articles-caption h3 {
+    margin: 0;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+@media screen and (max-width: 900px) {
+    .recent-articles-title {
+        padding: 0 0 0 calc(var(--gutter) * 1);
+    }
+
+    .recent-articles-subtitle {
+        padding: 0 0 0 calc(var(--gutter) * 1);
+    }
+
+    .recent-articles-body-wrapper {
+        padding: 0  calc(var(--gutter) * 1);
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .recent-articles-title {
+        padding: 0 0 0 calc(var(--gutter) * 0.5);
+        font-size: var(--text-xxxl);
+    }
+
+    .recent-articles-subtitle {
+        padding: 0 0 0 calc(var(--gutter) * 0.5);
+        font-size: var(--text-sm);
+    }
+
+    .recent-articles-body-wrapper {
+        padding: 0  calc(var(--gutter) * 0.5);
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .recent-articles-title {
+        font-size: var(--text-xxl);
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    .recent-articles-caption {
+        aspect-ratio: auto;
+    }
+}

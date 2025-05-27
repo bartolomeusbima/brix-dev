@@ -1,0 +1,316 @@
+/* ===================================================================
+ * # FOOTER
+ *
+ *
+ * ------------------------------------------------------------------- */
+.s-footer {
+    background-color : var(--color-gray-19);
+    margin-top       : auto;
+    position         : relative;
+}
+
+.row-footer {
+    display   : flex;
+    flex-flow : row wrap;
+}
+
+.s-footer h6 {
+    margin-top : 0;
+}
+
+.s-footer__bottom_mid {
+    border-top  : 0.1px solid var(--color-gray-10);
+    border-bottom  : 0.1px solid var(--color-gray-10);
+    margin  : var(--vspace-2) var(--gutter);
+    display: flex;
+}
+
+.footer-title {
+    position: relative;
+    display: inline-block;
+    font-size: var(--text-size);
+    color: var(--color-gray-2);
+    margin-top: 0;
+    margin-bottom: var(--vspace-0_125);
+}
+
+.footer-subtitle {
+    position: relative;
+    display: inline-block;
+    font-size: var(--text-xs);
+    color: var(--color-gray-2);
+    margin-top: var(--vspace-0_25);
+    margin-bottom: var(--vspace-0_125);
+}
+
+.footersletter {
+    padding: 0;
+}
+
+/* ------------------------------------------------------------------- 
+ * ## subscription form
+ * ------------------------------------------------------------------- */
+.s-footer__subscribe {
+    --input-height : 7.2rem;
+    --btn-width    : 180px;
+}
+
+.s-footer__subscribe h6 {
+    margin-bottom : var(--vspace-0_75);
+}
+
+.s-footer__subscribe form {
+    display       : flex;
+    flex-flow     : row wrap;
+    margin-bottom : 0;
+}
+
+.s-footer__subscribe input[type="email"],
+.s-footer__subscribe input[type="submit"] {
+    flex : none;
+}
+
+.s-footer__subscribe input[type="email"] {
+    --input-height   : 7.2rem;
+    width            : calc(100% - var(--btn-width));
+    background-color : var(--color-gray-6);
+    color            : var(--color-text);
+    border           : none;
+    padding          : var(--input-vpadding) calc(2.8rem - 1px);
+    text-align       : left;
+    margin           : 0;
+}
+
+.s-footer__subscribe input[type="email"]:focus,
+.s-footer__subscribe input[type="email"]:hover {
+    box-shadow : none;
+}
+
+.s-footer__subscribe input[type="submit"] {
+    --btn-height : var(--input-height);
+    width        : var(--btn-width);
+    margin       : 0;
+}
+
+/* ------------------------------------------------------------------- 
+ * ## copyright
+ * ------------------------------------------------------------------- */
+.ss-copyright span {
+    font-size   : calc(var(--text-size) * 0.8889);
+    line-height : var(--vspace-1);
+    display     : inline-block;
+    color   : var(--color-gray-2);
+}
+
+/* ------------------------------------------------------------------- 
+ * responsive:
+ * footer
+ * ------------------------------------------------------------------- */
+.s-footer__bottom-left {
+    margin: var(--vspace-0_5);
+    padding: 0;
+}
+
+@media screen and (max-width: 1200px) {
+    .s-footer__bottom-left {
+        margin-top: var(--vspace-0_5);
+        margin-bottom: var(--vspace-0_5);
+        padding-right : var(--gutter);
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .s-footer__btns {
+        margin-top : var(--vspace-1);
+    }
+
+    .s-footer__contact-btn {
+        margin-bottom : var(--vspace-0_5);
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .s-footer {
+        padding-bottom : var(--vspace-1_5);
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .s-footer__bottom-left {
+        margin-top: var(--vspace-0_5);
+        margin-bottom: var(--vspace-0_5);
+        padding-right : var(--vspace-0_123);
+    }
+
+    .s-footer__subscribe input[type="submit"] {
+        width: calc(90% - var(--btn-width));
+        padding: 0 3.6rem 0 1.8rem;
+    }
+}
+
+.footer-contact {
+    display: block;
+    padding: 0;
+    text-align: left;
+    color: #FFFFFF;
+    font-size: calc(var(--text-size) * 0.8889);
+    font-weight: normal;
+    transition: .3s;
+    margin-bottom: var(--vspace-0_25);
+}
+
+/* ======================================================================================================== */
+
+/* ------------------------------------------------------------------- 
+ * ## footer social
+ * ------------------------------------------------------------------- */
+
+.footer__contact {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: flex-start;
+}
+
+.footer__contact p {
+    display: block;
+    padding: 0;
+    text-align: left;
+    color: #FFFFFF;
+    font-size: calc(var(--text-size) * 0.8889);
+    font-weight: normal;
+    transition: .3s;
+    margin-bottom: var(--vspace-0_25);
+}
+
+.footer__contact p.whatsapp::before {
+    content: "";
+    display: inline-block;
+    width: calc(var(--text-size) * 1.25);
+    height: calc(var(--text-size) * 1.25);
+    background-image: url('../images/icons/whatsapp.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    margin-bottom: var(--vspace-0_125);
+    margin-right: var(--vspace-0_25);
+    transition: all 0.2s ease-in-out;
+}
+
+.footer__contact p.whatsapp:hover::before {
+    background-image: url('../images/icons/whatsapp-colored.svg');
+}
+
+.footer__contact p.phone::before {
+    content: "";
+    display: inline-block;
+    width: calc(var(--text-size) * 1.25);
+    height: calc(var(--text-size) * 1.25);
+    background-image: url('../images/icons/icon-phone.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    margin-bottom: var(--vspace-0_125);
+    margin-right: var(--vspace-0_25);
+    transition: all 0.2s ease-in-out;
+}
+
+.footer__contact p.phone:hover::before {
+    background-image: url('../images/icons/icon-phone-rotated.svg');
+}
+
+.footer__contact p.mail::before {
+    content: "";
+    display: inline-block;
+    width: calc(var(--text-size) * 1.25);
+    height: calc(var(--text-size) * 1.25);
+    background-image: url('../images/icons/icon-mail.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    margin-bottom: var(--vspace-0_125);
+    margin-right: var(--vspace-0_25);
+    transition: all 0.2s ease-in-out;
+}
+
+.footer__contact p.mail:hover::before {
+    background-image: url('../images/icons/icon-mail-opened.svg');
+}
+
+
+
+
+
+
+
+.footer__social_media {
+    border-top  : 0.1px solid var(--color-gray-10);
+    margin-top  : var(--vspace-0_5);
+    padding-top  : var(--vspace-0_5);
+    display: inline-block;
+}
+
+.footer__social_media__list {
+    list-style  : none;
+    display     : flex;
+    line-height : 1;
+    margin      : 0;
+}
+
+.footer__social_media__list li {
+    padding-left : 0;
+    margin-right : .8rem;
+}
+
+.footer__social_media__list .icon {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-size: cover;
+    transition: all 0.2s ease-in-out; /* Applies to all properties at once */
+}
+
+/* WhatsApp */
+.footer__social_media__list .icon-whatsapp {
+    background-image: url("../images/icons/whatsapp.svg");
+}
+
+.footer__social_media__list .icon-whatsapp:hover {
+    background-image: url("../images/icons/whatsapp-colored.svg");
+}
+
+/* Instagram */
+.footer__social_media__list .icon-instagram {
+    background-image: url("../images/icons/instagram.svg");
+}
+
+.footer__social_media__list .icon-instagram:hover {
+    background-image: url("../images/icons/instagram-colored.svg");
+}
+
+/* Tiktok */
+.footer__social_media__list .icon-tiktok {
+    background-image: url("../images/icons/tiktok.svg");
+}
+
+.footer__social_media__list .icon-tiktok:hover {
+    background-image: url("../images/icons/tiktok-colored.svg");
+}
+
+/* Tokopedia */
+.footer__social_media__list .icon-tokopedia {
+    background-image: url("../images/icons/tokopedia.svg");
+}
+
+.footer__social_media__list .icon-tokopedia:hover {
+    background-image: url("../images/icons/tokopedia-colored.svg");
+}
+
+/* Linkedin */
+.footer__social_media__list .icon-linkedin {
+    background-image: url("../images/icons/linkedin.svg");
+}
+
+.footer__social_media__list .icon-linkedin:hover {
+    background-image: url("../images/icons/linkedin-colored.svg");
+}

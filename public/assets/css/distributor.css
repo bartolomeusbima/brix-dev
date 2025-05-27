@@ -1,0 +1,296 @@
+/* ===================================================================
+ * # RECENT ARTICLES SECTION
+ *
+ *
+ * ------------------------------------------------------------------- */
+.distributor {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    padding: var(--vspace-2) 0;
+    margin-top: 80px;
+}
+
+/* --------------------------------------------------------------------
+ * # PRODUCTS - HEAD
+ * -------------------------------------------------------------------- */
+.distributor-head {
+    display: flex;
+    align-items: center;
+    padding: 0 0 var(--vspace-1_5) 0;
+}
+
+.distributor-title {
+    line-height: 1;
+    color: var(--color-black);
+    padding: 0 0 0 calc(var(--gutter) * 2);
+    position: relative;
+    font-family: 'Monument Extended Ultra Bold';
+    margin: 0;
+}
+
+.distributor-map {
+    line-height: 1;
+    color: var(--color-black);
+    padding: 0 calc(var(--gutter) * 2) 0 calc(var(--gutter) * 2);
+    position: relative;
+    font-family: 'Monument Extended Ultra Bold';
+    margin: 0;
+}
+
+/* --------------------------------------------------------------------
+ * # RECENT ARTICLES - BODY
+ * -------------------------------------------------------------------- */
+
+.distributor-body {
+    height: fit-content;
+}
+
+.distributor-body::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /* background: var(--color-gray-1); */
+}
+
+.distributor-body-wrapper {
+    margin: 0;
+    padding: 0 calc(var(--gutter)* 2);
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.distributor-body-wrapper .column {
+    margin: 0 0 var(--vspace-0_5) 0;
+}
+
+.distributor-card {
+    position: relative;
+    margin: 0 var(--vspace-0_25);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.distributor-category {
+    width: fit-content;
+    position: absolute;
+    margin: var(--vspace-0_25);
+    opacity: 90%;
+}
+
+.distributor-category p {
+    background: var(--color-gray-10);
+    padding: var(--vspace-0_25);
+    font-family: 'Monument Extended Regular';
+    font-size: calc(var(--text-xs) * 0.75);
+}
+
+.distributor-img iframe {
+    width: 100%;
+    aspect-ratio: 4/3;
+    display: block;
+    border-radius: 0 !important;
+}
+
+.distributor-detail {
+    background: var(--color-white);
+    width: 100%;
+    transition: all 0.4s ease-out 0s;
+    background-color: var(--color-gray-5);
+    aspect-ratio: 4/3;
+    padding: var(--vspace-0_5) var(--vspace-0_5) 0 var(--vspace-0_5);
+    font-family: 'Monument Extended Regular';
+}
+
+.distributor-detail .row {
+    flex-direction: row;
+}
+
+.distributor-detail .row .column svg {
+    padding-top: var(--text-xs);
+}
+
+.distributor-detail .date {
+    height: fit-content;
+    margin-bottom: var(--vspace-0_25);
+}
+
+.distributor-detail .date p {
+    font-family: 'Montserrat Medium';
+    font-size: var(--text-xs);
+}
+
+.distributor-detail .header {
+    height: fit-content;
+    margin-bottom: var(--vspace-0_375);
+}
+
+.distributor-detail .header a {
+    font-family: 'Monument Extended Ultra Bold';
+    font-size: var(--text-md);
+    transition: 0.5s;
+    font-weight: 400;
+    color: var(--color-black);
+}
+
+.distributor-detail .title {
+    height: fit-content;
+    margin-bottom: var(--vspace-0_25);
+}
+
+.distributor-detail .title a {
+    font-family: 'Monument Extended Regular';
+    font-size: var(--text-sm);
+    transition: 0.5s;
+    font-weight: 400;
+    color: var(--color-black);
+}
+
+.distributor-detail .subtitle {
+    height: fit-content;
+    margin-bottom: var(--vspace-0_25);
+}
+
+.distributor-detail .subtitle p {
+    font-family: 'Montserrat Medium';
+    font-size: var(--text-sm);
+    transition: 0.5s;
+    font-weight: 400;
+    color: var(--color-black);
+}
+
+.distributor-detail span {
+    color: var(--color-black);
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 1;
+    display: inline-block;
+}
+
+.distributor-detail h4 {
+    margin: 0;
+    line-height: 1;
+}
+
+.distributor-detail h4 a {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.distributor-detail h3 {
+    margin: 0;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+@media screen and (max-width: 1200px) {
+    .distributor-detail {
+        aspect-ratio: 4/2.25;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .distributor-title {
+        padding: 0 0 0 calc(var(--gutter) * 1);
+    }
+
+    .distributor-map {
+        padding: 0 0 0 calc(var(--gutter) * 1);
+    }
+
+    .distributor-subtitle {
+        padding: 0 0 0 calc(var(--gutter) * 1);
+    }
+
+    .distributor-body-wrapper {
+        padding: 0  calc(var(--gutter) * 1);
+    }
+
+    .distributor-detail {
+        aspect-ratio: 4/3;
+    }
+
+    .distributor-detail .row {
+        margin: 0;
+    }
+
+    .distributor-detail .header a {
+        font-size: var(--text-size);
+    }
+
+    .distributor-detail .title a {
+        font-size: var(--text-xs);
+    }
+
+    .distributor-detail .subtitle p {
+        font-size: var(--text-xs);
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .distributor-title {
+        padding: 0 0 0 calc(var(--gutter) * 0.5);
+        font-size: var(--text-xxxl);
+    }
+
+    .distributor-map {
+        padding: 0 0 0 calc(var(--gutter) * 0.5);
+        font-size: var(--text-xxxl);
+    }
+
+    .distributor-subtitle {
+        padding: 0 0 0 calc(var(--gutter) * 0.5);
+        font-size: var(--text-sm);
+    }
+
+    .distributor-body-wrapper {
+        padding: 0  calc(var(--gutter) * 0.5);
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .distributor-title {
+        font-size: var(--text-xxl);
+    }
+
+    .distributor-map {
+        font-size: var(--text-xxl);
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    .distributor-detail {
+        aspect-ratio: auto;
+    }
+
+    .distributor-detail .row {
+        padding: 0;
+    }
+}
+
+.filters {
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 0 var(--gutter);
+}
+.filters button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    background: #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.filters button.active {
+    background-color: #333;
+    color: white;
+}
+
+.distributor-card-wrapper.hidden {
+    display: none;
+}
