@@ -1509,7 +1509,7 @@ button.btn--stroke:hover {
  *
  *
  * ------------------------------------------------------------------- */
-.s-pagewrap {
+.page-wrapper {
     display        : flex;
     flex-direction : column;
     min-height     : 100%;

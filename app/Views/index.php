@@ -22,7 +22,7 @@
             <img src="assets/images/gifs/preloader.gif" alt="Loading..." id="loader">
         </div>
 
-        <div class="s-pagewrap">
+        <div class="page-wrapper">
 
             <header class="menu__wrapper">
                 <div class="menu__bar">
