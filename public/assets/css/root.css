@@ -1515,7 +1515,7 @@ button.btn--stroke:hover {
     min-height     : 100%;
     overflow       : hidden;
     position       : relative;
-    background-color: var(--color-gray-19);
+    background-color: var(--color-gray-19) !important;
 }
 
 /* ===================================================================
