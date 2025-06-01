@@ -1,10 +1,7 @@
 body {
     font-family: "Manrope", sans-serif;
     font-size: 16px;
-}
-
-body:not(.ss-show) .page-wrapper {
-    display: none;
+    background-color: var(--color-gray-19);
 }
 
 .row {
