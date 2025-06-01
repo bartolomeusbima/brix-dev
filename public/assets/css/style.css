@@ -3,6 +3,10 @@ body {
     font-size: 16px;
 }
 
+body:not(.ss-show) .page-wrapper {
+    display: none;
+}
+
 .row {
     width     : 92%;
     max-width : var(--width-grid-max);
