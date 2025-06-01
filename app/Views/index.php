@@ -39,7 +39,7 @@
                         <ul class="menu__navigation__page">
                             <li class="list" onclick="location.href='<?= site_url('/') ?>'">
                                 <button>
-                                    <a href="<?= site_url('/') ?>" class="nav-link">Home</a>
+                                    <a href="<?= site_url('/') ?>" style="text-decoration: none; color: white">Home</a>
                                 </button>
                             </li>
                             <li class="list products">
