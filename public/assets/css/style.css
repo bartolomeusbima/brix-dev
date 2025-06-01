@@ -17,10 +17,6 @@ body {
     box-sizing: border-box;
 }
 
-.page-wrapper {
-    background-color: var(--color-gray-19);
-}
-
 /* ===================================================================
  * # INTRO
  *
