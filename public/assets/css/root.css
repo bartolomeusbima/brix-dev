@@ -168,7 +168,7 @@
 
     /* others
      */
-    --color-body                   : white;
+    --color-body                   : var(--color-gray-19);
     --color-border                 : rgba(0, 0, 0, .08);
     --border-radius                : 3px;
     --color-blue                    : #0e58a7;
