@@ -13,9 +13,7 @@
         <link rel="stylesheet" href="assets/css/root.css">
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/navbar.css">
-        <link rel="stylesheet" href="assets/css/index.css">
         <link rel="stylesheet" href="assets/css/footer.css">
-        <link rel="stylesheet" href="assets/vendor/css/vendor.css">
     </head>
     <body>
         <div id="preloader">
@@ -242,7 +240,6 @@
         
         </div>
 
-        <script src="assets/vendor/js/plugins.js"></script>
         <script src="assets/js/script.js"></script>
     </body>
 </html>
