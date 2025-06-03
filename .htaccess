@@ -1,9 +1,17 @@
-RewriteEngine On 
+RewriteEngine On
 
-# Remove .html extension from URLs 
-RewriteCond %{REQUEST_FILENAME} !-d 
-RewriteCond %{REQUEST_FILENAME}\.html -f 
-RewriteRule ^(.*)$ $1.html [NC,L] 
+# Force HTTPS (if you have SSL installed)
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
-# Set default directory index to index.html 
-DirectoryIndex index.html
+# Remove .php extension
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
+
+# Set default page
+DirectoryIndex index.php
+
+# Optional: Remove trailing slashes (e.g., /about/ → /about)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)/$ /$1 [L,R=301]
