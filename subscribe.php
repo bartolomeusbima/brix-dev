@@ -1,11 +1,11 @@
 <?php
 require 'db_config.php';
-
 header('Content-Type: text/plain');
 
 if (!empty($_POST['email'])) {
     $email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
 
+    // Validate email format
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
         echo "Invalid email format";
         exit;
@@ -21,7 +21,7 @@ if (!empty($_POST['email'])) {
         if ($e->getCode() == 23000) {
             echo "Email already subscribed";
         } else {
-            echo "Database error";
+            echo "Something went wrong";
         }
         exit;
     }
