@@ -109,10 +109,62 @@
 
     };
 
+    const ssNewsletterSubscribe = function() {
+        const form = document.getElementById("newsletter-form");
+        const emailInput = document.getElementById("newsletter-email");
+
+        // Dynamically create the dialog
+        const dialog = document.createElement("div");
+        dialog.id = "newsletter-dialog";
+        dialog.className = "newsletter-popup hidden";
+        dialog.innerHTML = `
+            <button class="close-btn" onclick="this.parentElement.classList.remove('visible')">×</button>
+            <p id="newsletter-message">Loading...</p>
+        `;
+        document.body.appendChild(dialog);
+
+        const message = dialog.querySelector("#newsletter-message");
+
+        if (!form || !emailInput) return;
+
+        form.addEventListener("submit", function (e) {
+            e.preventDefault();
+
+            const email = emailInput.value;
+
+            fetch("subscribe.php", {
+                method: "POST",
+                headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                body: new URLSearchParams({ email })
+            })
+            .then(res => res.text())
+            .then(res => {
+                if (res.includes("Thanks") || res.includes("success")) {
+                    message.innerText = "You’re now subscribed! Stay tuned for updates.";
+                } else if (res.includes("already subscribed")) {
+                    message.innerText = "You're already on the list!";
+                } else {
+                    message.innerText = "Oops! Something went wrong. Try again.";
+                }
+                dialog.classList.add("visible");
+            })
+            .catch(() => {
+                message.innerText = "Connection failed. Please try again later.";
+                dialog.classList.add("visible");
+            });
+        });
+    };
+
+    window.closeNewsletterDialog = function() {
+        const dialog = document.getElementById("newsletter-dialog");
+        if (dialog) dialog.classList.remove("visible");
+    };
+
     (function Init() {
 
         ssPreloader();
         ssMobileMenu();
+        ssNewsletterSubscribe
 
     })();
 

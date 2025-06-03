@@ -221,13 +221,8 @@
 
                         <div class="column footersletter">
                             <div class="subscribe-form s-footer__subscribe">
-                                <?php if (isset($_GET['success'])): ?>
-                                    <p class="footer-subtitle" style="color: green;">Thanks for subscribing!</p>
-                                <?php elseif (isset($_GET['error'])): ?>
-                                    <p class="footer-subtitle" style="color: red;"><?= htmlspecialchars($_GET['error']) ?></p>
-                                <?php endif; ?>
-                                <form action="subscribe.php" method="POST" style="max-width: 500px;">
-                                    <input type="email" name="email" class="u-fullwidth text-center" placeholder="Your Email" required>
+                                <form id="newsletter-form" style="max-width: 500px;">
+                                    <input type="email" name="email" id="newsletter-email" class="u-fullwidth text-center" placeholder="Your Email" required>
                                     <input type="submit" value="Subscribe" class="btn btn--primary u-fullwidth">
                                 </form>
                             </div>
@@ -237,6 +232,11 @@
                     </div>
                 </div>
             </footer>
+
+            <div id="newsletter-dialog" class="newsletter-popup hidden">
+                <button class="close-btn" onclick="closeNewsletterDialog()">×</button>
+                <p id="newsletter-message">Loading...</p>
+            </div>
         
         </div>
 
