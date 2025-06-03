@@ -228,7 +228,7 @@
                                             <img src="assets/images/icons/icon-arrow.svg" alt="Subscribe" style="transform: rotate(-90deg); height: 25px;">
                                         </button>
                                     </div>
-                                    <p id="thank-you-msg" class="footer-subtitle">Thanks for subscribing!</p>
+                                    <p id="thank-you-msg" class="footer-subtitle" style="display: none; margin-top: 1rem;">Thanks for subscribing!</p>
                                 </form>
 
                             </div>
