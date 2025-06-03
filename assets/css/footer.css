@@ -314,3 +314,26 @@
 .footer__social_media__list .icon-linkedin:hover {
     background-image: url("../images/icons/linkedin-colored.svg");
 }
+
+
+
+
+#form-fields {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: stretch;
+    justify-content: flex-start;
+}
+
+#newsletter-form input[type="email"] {
+    flex: 1 1 auto;
+}
+
+#thank-you-msg {
+    display: none;
+    font-size: var(--text-size);
+    color: var(--color-green, #4CAF50);
+    animation: fadeIn 0.3s ease-in-out forwards;
+    margin-top: 1rem;
+}

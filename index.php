@@ -222,12 +222,13 @@
                         <div class="column footersletter">
                             <div class="subscribe-form s-footer__subscribe">
                                 <form id="newsletter-form" style="max-width: 500px;">
-                                    <div id="form-fields">
+                                    <div id="form-fields" style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
                                         <input type="email" name="email" id="newsletter-email" class="u-fullwidth text-center" placeholder="Your Email" required>
                                         <input type="submit" value="Subscribe" class="btn btn--primary u-fullwidth">
                                     </div>
-                                    <p id="thank-you-msg" class="footer-subtitle" style="display: none; color: green;">Thanks for subscribing!</p>
+                                    <p id="thank-you-msg" class="footer-subtitle" style="display: none; margin-top: 1rem;">Thanks for subscribing!</p>
                                 </form>
+
                             </div>
                         </div>
 
