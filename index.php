@@ -225,6 +225,11 @@
                                     <input type="email" name="email" id="newsletter-email" class="u-fullwidth text-center" placeholder="Your Email" required>
                                     <input type="submit" value="Subscribe" class="btn btn--primary u-fullwidth">
                                 </form>
+
+                                <div id="newsletter-dialog" class="newsletter-popup hidden">
+                                    <button class="close-btn" onclick="closeNewsletterDialog()">×</button>
+                                    <p id="newsletter-message">Loading...</p>
+                                </div>
                             </div>
                         </div>
 
@@ -232,11 +237,6 @@
                     </div>
                 </div>
             </footer>
-
-            <div id="newsletter-dialog" class="newsletter-popup hidden">
-                <button class="close-btn" onclick="closeNewsletterDialog()">×</button>
-                <p id="newsletter-message">Loading...</p>
-            </div>
         
         </div>
 
