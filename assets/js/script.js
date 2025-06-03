@@ -113,16 +113,6 @@
         const form = document.getElementById("newsletter-form");
         const emailInput = document.getElementById("newsletter-email");
 
-        // Dynamically create the dialog
-        const dialog = document.createElement("div");
-        dialog.id = "newsletter-dialog";
-        dialog.className = "newsletter-popup hidden";
-        dialog.innerHTML = `
-            <button class="close-btn" onclick="this.parentElement.classList.remove('visible')">×</button>
-            <p id="newsletter-message">Loading...</p>
-        `;
-        document.body.appendChild(dialog);
-
         const message = dialog.querySelector("#newsletter-message");
 
         if (!form || !emailInput) return;
