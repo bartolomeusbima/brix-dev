@@ -61,7 +61,7 @@
     margin-bottom : 0;
 }
 
-.s-footer__subscribe form #form-fields {
+.s-footer__subscribe form div {
     display       : flex;
 }
 
