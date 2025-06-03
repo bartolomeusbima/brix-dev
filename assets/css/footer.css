@@ -61,6 +61,11 @@
     margin-bottom : 0;
 }
 
+.s-footer__subscribe form .form-fields {
+    display: flex; 
+    width: 100%
+}
+
 .s-footer__subscribe input[type="email"],
 .s-footer__subscribe input[type="submit"] {
     flex : none;
@@ -68,7 +73,7 @@
 
 .s-footer__subscribe input[type="email"] {
     --input-height   : 7.2rem;
-    width            : calc(100% - var(--btn-width));
+    width            : 75%;
     background-color : var(--color-gray-6);
     color            : var(--color-text);
     border           : none;
@@ -82,10 +87,14 @@
     box-shadow : none;
 }
 
-.s-footer__subscribe input[type="submit"] {
+.s-footer__subscribe button[type="submit"] {
     --btn-height : var(--input-height);
-    width        : var(--btn-width);
+    width        : 25%;
     margin       : 0;
+}
+
+#thank-you-msg {
+    display: none; margin-top: 1rem;
 }
 
 /* ------------------------------------------------------------------- 
@@ -311,25 +320,3 @@
     background-image: url("../images/icons/linkedin-colored.svg");
 }
 
-
-
-
-#form-fields {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    align-items: stretch;
-    justify-content: flex-start;
-}
-
-#newsletter-form input[type="email"] {
-    flex: 1 1 auto;
-}
-
-#thank-you-msg {
-    display: none;
-    font-size: var(--text-size);
-    color: var(--color-green, #4CAF50);
-    animation: fadeIn 0.3s ease-in-out forwards;
-    margin-top: 1rem;
-}
