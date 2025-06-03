@@ -55,11 +55,7 @@
     --btn-width    : 180px;
 }
 
-.s-footer__subscribe h6 {
-    margin-bottom : var(--vspace-0_75);
-}
-
-.s-footer__subscribe form {
+.s-footer__subscribe form #form-fields {
     display       : flex;
     flex-flow     : row wrap;
     margin-bottom : 0;
