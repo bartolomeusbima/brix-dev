@@ -222,7 +222,7 @@
                         <div class="column footersletter">
                             <div class="subscribe-form s-footer__subscribe">
                                 <form id="newsletter-form">
-                                    <div class="form-fields">
+                                    <div id="form-fields">
                                         <input type="email" name="email" id="newsletter-email" class="u-fullwidth text-center" placeholder="Your Email" required>
                                         <button type="submit" class="btn btn--primary u-fullwidth subscribe-button">
                                             <img src="assets/images/icons/icon-arrow.svg" alt="Subscribe" style="transform: rotate(-90deg); height: 25px;">

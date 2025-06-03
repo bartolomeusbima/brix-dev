@@ -61,7 +61,7 @@
     margin-bottom : 0;
 }
 
-.s-footer__subscribe form .form-fields {
+.form-fields {
     display: flex; 
     width: 100%
 }
