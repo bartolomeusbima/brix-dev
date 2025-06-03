@@ -10,27 +10,26 @@ document.addEventListener("DOMContentLoaded", function () {
         e.preventDefault();
 
         const email = emailInput.value;
+        const formData = new URLSearchParams({ email });
 
         fetch("subscribe.php", {
             method: "POST",
-            headers: { "Content-Type": "application/x-www-form-urlencoded" },
-            body: new URLSearchParams({ email })
+            headers: {
+                "Content-Type": "application/x-www-form-urlencoded"
+            },
+            body: formData
         })
-            .then((res) => res.text())
-            .then((resText) => {
-                if (
-                    resText.includes("Thanks") ||
-                    resText.includes("success") ||
-                    resText.includes("subscribed")
-                ) {
-                    formFields.style.display = "none";
-                    thankYouMsg.style.display = "block";
-                } else {
-                    alert("Oops! Something went wrong.\n" + resText);
-                }
-            })
-            .catch(() => {
-                alert("Connection failed. Please try again later.");
-            });
+        .then(response => response.text())
+        .then(result => {
+            if (result === "success") {
+                formFields.style.display = "none";
+                thankYouMsg.style.display = "block";
+            } else {
+                alert(result);
+            }
+        })
+        .catch(() => {
+            alert("Connection failed. Please try again.");
+        });
     });
 });

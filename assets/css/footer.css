@@ -338,39 +338,3 @@
     animation: fadeIn 0.3s ease-in-out forwards;
     margin-top: 1rem;
 }
-
-
-
-
-
-
-.subscribe-btn {
-    width: var(--btn-width);
-    background: none;
-    border: none;
-    padding: 0;
-    cursor: pointer;
-    transform: rotate(-90deg);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.subscribe-btn svg {
-    width: 100%;
-    height: auto;
-    fill: var(--color-text, white);
-}
-
-#thank-you-msg {
-    display: none;
-    color: var(--color-green, #4CAF50);
-    margin-top: var(--vspace-0_5);
-    font-size: var(--text-size);
-    animation: fadeIn 0.3s ease-in-out forwards;
-}
-
-@keyframes fadeIn {
-    from { opacity: 0; }
-    to   { opacity: 1; }
-}

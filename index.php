@@ -194,7 +194,6 @@
 
             <footer class="s-footer">
                 <div class="s-footer__bottom_mid row-footer">
-
                     <div class="column lg-3 md-4 stack-on-1000 s-footer__bottom-left">
                         <h4 class="footer-title">Contact</h4>
                         <div class="footer__contact">
@@ -220,23 +219,23 @@
                         <h4 class="footer-title">Stay Connected!</h4>
                         <p class="footer-contact">Get the latest updates through our newsletter.</p>
 
-                        <div class="footersletter">
-                            <form id="newsletter-form" class="s-footer__subscribe">
-                                <div id="form-fields">
-                                    <input type="email" name="email" id="newsletter-email" placeholder="Your Email" required>
-                                    <button type="submit" class="subscribe-btn" aria-label="Subscribe">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                                            <path d="M4 4h16v2H4V4zm0 7h10v2H4v-2zm0 7h16v2H4v-2z"/>
-                                        </svg>
-                                    </button>
-                                </div>
-                                <p id="thank-you-msg">Thank you for subscribing!</p>
-                            </form>
+                        <div class="column footersletter">
+                            <div class="subscribe-form s-footer__subscribe">
+                                <form id="newsletter-form">
+                                    <div id="form-fields" style="display: flex; width: 100%">
+                                        <input type="email" name="email" id="newsletter-email" class="u-fullwidth text-center" style="width: 75%;" placeholder="Your Email" required>
+                                        <button type="submit" class="btn btn--primary u-fullwidth subscribe-button" style="width: 25%;">
+                                            <img src="assets/images/icons/icon-arrow.svg" alt="Subscribe" style="transform: rotate(-90deg); height: 25px;">
+                                        </button>
+                                    </div>
+                                    <p id="thank-you-msg" class="footer-subtitle" style="display: none; margin-top: 1rem;">Thanks for subscribing!</p>
+                                </form>
+
+                            </div>
                         </div>
 
                         <p class="footer-subtitle">Your personal information is protected. View our Privacy Policy.</p>
                     </div>
-
                 </div>
             </footer>
         
