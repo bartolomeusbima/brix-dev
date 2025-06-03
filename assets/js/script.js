@@ -112,10 +112,10 @@
     const ssNewsletterSubscribe = function() {
         const form = document.getElementById("newsletter-form");
         const emailInput = document.getElementById("newsletter-email");
+        const dialog = document.getElementById("newsletter-dialog");
+        const message = document.getElementById("newsletter-message");
 
-        const message = dialog.querySelector("#newsletter-message");
-
-        if (!form || !emailInput) return;
+        if (!form || !emailInput || !dialog || !message) return;
 
         form.addEventListener("submit", function (e) {
             e.preventDefault();
