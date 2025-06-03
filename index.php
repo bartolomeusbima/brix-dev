@@ -222,7 +222,7 @@
                         <div class="column footersletter">
                             <div class="subscribe-form s-footer__subscribe">
                                 <form id="newsletter-form">
-                                    <div id="form-fields">
+                                    <div id="form-fields" style="display: flex;">
                                         <input type="email" name="email" id="newsletter-email" class="u-fullwidth text-center" placeholder="Your Email" required>
                                         <input type="submit" value="Subscribe" class="btn btn--primary u-fullwidth">
                                     </div>
