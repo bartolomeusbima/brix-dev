@@ -224,7 +224,10 @@
                                 <form id="newsletter-form">
                                     <div id="form-fields" style="display: flex;">
                                         <input type="email" name="email" id="newsletter-email" class="u-fullwidth text-center" placeholder="Your Email" required>
-                                        <input type="submit" value="Subscribe" class="btn btn--primary u-fullwidth">
+                                        <!-- <input type="submit" value="Subscribe" class="btn btn--primary u-fullwidth"> -->
+                                        <button type="submit" class="btn btn--primary u-fullwidth subscribe-button">
+                                            <img src="assets/images/icons/icon-arrow.svg" alt="Subscribe" style="rotate(-90deg);">
+                                        </button>
                                     </div>
                                     <p id="thank-you-msg" class="footer-subtitle" style="display: none; margin-top: 1rem;">Thanks for subscribing!</p>
                                 </form>
