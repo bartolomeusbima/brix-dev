@@ -164,7 +164,7 @@
 
         ssPreloader();
         ssMobileMenu();
-        ssNewsletterSubscribe
+        ssNewsletterSubscribe();
 
     })();
 
