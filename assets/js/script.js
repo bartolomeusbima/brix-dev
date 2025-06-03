@@ -109,52 +109,10 @@
 
     };
 
-    const ssNewsletterSubscribe = function() {
-        const form = document.getElementById("newsletter-form");
-        const emailInput = document.getElementById("newsletter-email");
-        const dialog = document.getElementById("newsletter-dialog");
-        const message = document.getElementById("newsletter-message");
-
-        if (!form || !emailInput || !dialog || !message) return;
-
-        form.addEventListener("submit", function (e) {
-            e.preventDefault();
-
-            const email = emailInput.value;
-
-            fetch("subscribe.php", {
-                method: "POST",
-                headers: { "Content-Type": "application/x-www-form-urlencoded" },
-                body: new URLSearchParams({ email })
-            })
-            .then(res => res.text())
-            .then(res => {
-                if (res.includes("Thanks") || res.includes("success")) {
-                    message.innerText = "You’re now subscribed! Stay tuned for updates.";
-                } else if (res.includes("already subscribed")) {
-                    message.innerText = "You're already on the list!";
-                } else {
-                    message.innerText = "Oops! Something went wrong. Try again.";
-                }
-                dialog.classList.add("visible");
-            })
-            .catch(() => {
-                message.innerText = "Connection failed. Please try again later.";
-                dialog.classList.add("visible");
-            });
-        });
-    };
-
-    window.closeNewsletterDialog = function() {
-        const dialog = document.getElementById("newsletter-dialog");
-        if (dialog) dialog.classList.remove("visible");
-    };
-
     (function Init() {
 
         ssPreloader();
         ssMobileMenu();
-        ssNewsletterSubscribe();
 
     })();
 

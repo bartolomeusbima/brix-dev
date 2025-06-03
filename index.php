@@ -221,8 +221,8 @@
 
                         <div class="column footersletter">
                             <div class="subscribe-form s-footer__subscribe">
-                                <form id="newsletter-form" style="max-width: 500px;">
-                                    <input type="email" name="email" id="newsletter-email" class="u-fullwidth text-center" placeholder="Your Email" required>
+                                <form action="subscribe.php" method="POST" style="max-width: 500px;">
+                                    <input type="email" name="email" class="u-fullwidth text-center" placeholder="Your Email" required>
                                     <input type="submit" value="Subscribe" class="btn btn--primary u-fullwidth">
                                 </form>
                             </div>
@@ -233,11 +233,6 @@
                 </div>
             </footer>
         
-        </div>
-
-        <div id="newsletter-dialog" class="newsletter-popup">
-            <button class="close-btn" onclick="closeNewsletterDialog()">×</button>
-            <p id="newsletter-message">Loading...</p>
         </div>
 
         <script src="assets/js/script.js"></script>
