@@ -215,18 +215,17 @@
                         </div>
                     </div>
 
-                    <div class="column lg-7 md-6 stack-on-1000 s-footer__bottom-left">
+                    <div class="column lg-4 md-6 stack-on-1000 s-footer__bottom-left">
                         <h4 class="footer-title">Stay Connected!</h4>
                         <p class="footer-contact">Get the latest updates through our newsletter.</p>
 
                         <div class="column footersletter">
                             <div class="subscribe-form s-footer__subscribe">
                                 <form id="newsletter-form">
-                                    <div id="form-fields" style="display: flex;">
-                                        <input type="email" name="email" id="newsletter-email" class="u-fullwidth text-center" placeholder="Your Email" required>
-                                        <!-- <input type="submit" value="Subscribe" class="btn btn--primary u-fullwidth"> -->
-                                        <button type="submit" class="btn btn--primary u-fullwidth subscribe-button">
-                                            <img src="assets/images/icons/icon-arrow.svg" alt="Subscribe" style="rotate(-90deg);">
+                                    <div id="form-fields" style="display: flex; width: 100%">
+                                        <input type="email" name="email" id="newsletter-email" class="u-fullwidth text-center" style="width: 75%;" placeholder="Your Email" required>
+                                        <button type="submit" class="btn btn--primary u-fullwidth subscribe-button" style="width: 25%;">
+                                            <img src="assets/images/icons/icon-arrow.svg" alt="Subscribe" style="transform: rotate(-90deg); height: 25px;">
                                         </button>
                                     </div>
                                     <p id="thank-you-msg" class="footer-subtitle" style="display: none; margin-top: 1rem;">Thanks for subscribing!</p>
