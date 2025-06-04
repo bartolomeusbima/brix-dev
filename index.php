@@ -387,7 +387,7 @@
                         </h1>
                     </div>
                 </div>
-                <div class="distributor-body">
+                <!-- <div class="distributor-body">
                     <div class="column">
     
                         <div class="row clients-list block-lg-one-sixth block-md-one-fourth block-tab-one-half block-stack">
@@ -453,6 +453,13 @@
                                 </a>
                             </div>
 
+                        </div>
+                    </div>
+                </div> -->
+                <div class="distributor-head">
+                    <div class="column">
+                        <div class="distributor-map">
+                            <iframe src="https://www.google.com/maps/d/embed?mid=11XE3-pjJwty4I0LfzHxwjB7OENokqwc&ehbc=2E312F" width="100%" height="500"></iframe>
                         </div>
                     </div>
                 </div>
