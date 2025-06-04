@@ -285,6 +285,7 @@
     background: #ddd;
     border-radius: 5px;
     cursor: pointer;
+    font-family: 'Monument Extended Regular';
 }
 .filters button.active {
     background-color: #333;
