@@ -13,9 +13,9 @@
         <link rel="stylesheet" href="assets/css/root.css">
         <link rel="stylesheet" href="assets/css/style.css">
         <link rel="stylesheet" href="assets/css/navbar.css">
+        <link rel="stylesheet" href="assets/css/article.css">
         <link rel="stylesheet" href="assets/css/footer.css">
         <link rel="stylesheet" href="assets/vendor/css/vendor.css">
-        <link rel="stylesheet" href="assets/css/article.css">
     </head>
     <body>
         <div id="preloader">
@@ -204,10 +204,10 @@
                 </div>
 
                 <div class="filters">
-                    <button class="filter-btn active" data-filter="filter-all">ALL</button>
-                    <button class="filter-btn" data-filter="filter-competition-series">COMPETITION-SERIES</button>
-                    <button class="filter-btn" data-filter="filter-street-series">STREET-SERIES</button>
-                    <button class="filter-btn" data-filter="filter-event">EVENTS</button>
+                    <button style="font-family: 'Monument Extended Regular' !important;" class="filter-btn active" data-filter="filter-all">ALL</button>
+                    <button style="font-family: 'Monument Extended Regular' !important;" class="filter-btn" data-filter="filter-competition-series">COMPETITION-SERIES</button>
+                    <button style="font-family: 'Monument Extended Regular' !important;" class="filter-btn" data-filter="filter-street-series">STREET-SERIES</button>
+                    <button style="font-family: 'Monument Extended Regular' !important;" class="filter-btn" data-filter="filter-event">EVENTS</button>
                 </div>
 
                 <div class="recent-articles-body">
