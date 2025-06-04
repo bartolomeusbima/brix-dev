@@ -654,5 +654,6 @@
 
         <script src="assets/vendor/js/plugins.js"></script>
         <script src="assets/js/script.js"></script>
+        <script src="assets/js/newsletter.js"></script>
     </body>
 </html>
