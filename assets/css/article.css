@@ -232,6 +232,7 @@
     border-radius: 5px;
     cursor: pointer;
 }
+
 .filters button.active {
     background-color: #333;
     color: white;
