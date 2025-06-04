@@ -244,7 +244,7 @@
                                         Are used under normal driving conditions.
                                     </li>
                                     <li>
-                                        Have not been modified, misused, or subjected to abuse (e.g. competitive racing, off-road use unless specified).
+                                        Have not been modified, misused, or subjected to abuse (competitive racing or off-road use unless specified).
                                     </li>
                                 </ul>
                             </div>
@@ -259,7 +259,7 @@
                                 </p>
                                 <ul>
                                     <li>
-                                        Normal wear and tear (e.g. brake pads, rotor surface discoloration).
+                                        Normal wear and tear (brake pads, rotor surface discoloration).
                                     </li>
                                     <li>
                                         Improper installation or use with incorrect vehicle specs.
@@ -295,7 +295,7 @@
                                         Provide proof of purchase and a clear explanation of the issue (photos, mechanic report, etc.).
                                     </li>
                                     <li>
-                                        If requested, return the defective part for inspection.
+                                        If requested, provide any additional documentation and return the defective part needed for verification.
                                     </li>
                                 </ol>
                                 <p>

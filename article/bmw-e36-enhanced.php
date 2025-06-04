@@ -207,7 +207,7 @@
                             Dominating the Track with BRIX Performance Competition Series.
                         </h5>
                         <div class="date">
-                            <p>April 18, 2025</p>
+                            <p>April 19, 2025</p>
                         </div>
                     </div>
                 </div>
