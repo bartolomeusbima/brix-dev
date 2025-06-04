@@ -1,0 +1,136 @@
+/* ===================================================================
+ * # CAROUSEL SECTION
+ * ------------------------------------------------------------------- */
+
+/* Common wrapper */
+.carousel-section {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    padding: 10px;
+}
+
+/* Base carousel layout */
+.carousel {
+    position: relative;
+    width: 100vw;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    touch-action: pan-y;
+    padding: 10px 0;
+}
+
+/* Background variations */
+.carousel--street {
+    background-color: var(--color-white);
+}
+
+.carousel--competition {
+    background-color: var(--color-black);
+}
+
+/* View window */
+.carousel-view {
+    width: 100vw;
+    overflow: hidden;
+}
+
+/* Track */
+.carousel-track {
+    display: flex;
+    transition: transform 0.4s ease;
+    will-change: transform;
+}
+
+/* Carousel item */
+.carousel-item {
+    flex: 0 0 33.3333%;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+/* Image wrapper */
+.img-wrapper {
+    width: 100%;
+    height: 100%;
+    transform: none !important;
+    opacity: 1 !important;
+    filter: none !important;
+    transition: none !important;
+}
+
+.img-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    pointer-events: none;
+}
+
+/* Arrows - shared base style */
+.arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    border: none;
+    color: white;
+    font-size: 2rem;
+    padding: 10px 16px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+/* Street arrow color */
+.carousel--street .arrow {
+    background: #0e58a7;
+}
+.carousel--street .arrow:hover {
+    background: #084382;
+}
+
+/* Competition arrow color */
+.carousel--competition .arrow {
+    background: hsla(19, 89%, 54%, 1);
+}
+.carousel--competition .arrow:hover {
+    background: hsla(19, 89%, 44%, 1);
+}
+
+/* Arrow positioning */
+.arrow-left {
+    left: 0;
+}
+.arrow-right {
+    right: 0;
+}
+
+/* Responsive */
+@media (max-width: 799px) {
+    .carousel-track {
+        width: 500vw;
+        transition: transform 0.3s ease;
+    }
+
+    .carousel-item {
+        flex: 0 0 100vw;
+        padding: 0;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 1199px) {
+    .carousel-item {
+        flex: 0 0 50%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .carousel-item {
+        flex: 0 0 33.3333%;
+    }
+}

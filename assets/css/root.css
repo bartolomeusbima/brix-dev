@@ -66,6 +66,10 @@
     --font-1    : "Inter", sans-serif;
     --font-2    : "Manrope", sans-serif;
     --font-3    : "Monument Extended Regular";
+
+    /* monospace
+     */
+    --font-mono : Consolas, "Andale Mono", Courier, "Courier New", monospace;
 }
 
 /* ------------------------------------------------------------------- 
