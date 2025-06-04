@@ -212,12 +212,12 @@
                 </div>
 
                 <div class="filters">
-                    <button class="filter-btn active" data-filter="filter-all">ALL</button>
-                    <button class="filter-btn" data-filter="filter-banten">BANTEN</button>
-                    <button class="filter-btn" data-filter="filter-dki-jakarta">DKI JAKARTA</button>
-                    <button class="filter-btn" data-filter="filter-central-java">CENTRAL JAVA</button>
-                    <button class="filter-btn" data-filter="filter-di-yogyakarta">DI YOGYAKARTA</button>
-                    <button class="filter-btn" data-filter="filter-east-java">EAST JAVA</button>
+                    <button style="font-family: 'Monument Extended Regular' !important;" class="filter-btn active" data-filter="filter-all">ALL</button>
+                    <button style="font-family: 'Monument Extended Regular' !important;" class="filter-btn" data-filter="filter-banten">BANTEN</button>
+                    <button style="font-family: 'Monument Extended Regular' !important;" class="filter-btn" data-filter="filter-dki-jakarta">DKI JAKARTA</button>
+                    <button style="font-family: 'Monument Extended Regular' !important;" class="filter-btn" data-filter="filter-central-java">CENTRAL JAVA</button>
+                    <button style="font-family: 'Monument Extended Regular' !important;" class="filter-btn" data-filter="filter-di-yogyakarta">DI YOGYAKARTA</button>
+                    <button style="font-family: 'Monument Extended Regular' !important;" class="filter-btn" data-filter="filter-east-java">EAST JAVA</button>
                 </div>
 
                 <div class="distributor-body">

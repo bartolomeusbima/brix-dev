@@ -204,10 +204,10 @@
                 </div>
 
                 <div class="filters">
-                    <button class="filter-btn active" data-filter="filter-all">ALL</button>
-                    <button class="filter-btn" data-filter="filter-competition-series">COMPETITION-SERIES</button>
-                    <button class="filter-btn" data-filter="filter-street-series">STREET-SERIES</button>
-                    <button class="filter-btn" data-filter="filter-event">EVENTS</button>
+                    <button style="font-family: 'Monument Extended Regular' !important;" class="filter-btn active" data-filter="filter-all">ALL</button>
+                    <button style="font-family: 'Monument Extended Regular' !important;" class="filter-btn" data-filter="filter-competition-series">COMPETITION-SERIES</button>
+                    <button style="font-family: 'Monument Extended Regular' !important;" class="filter-btn" data-filter="filter-street-series">STREET-SERIES</button>
+                    <button style="font-family: 'Monument Extended Regular' !important;" class="filter-btn" data-filter="filter-event">EVENTS</button>
                 </div>
 
                 <div class="recent-articles-body">
