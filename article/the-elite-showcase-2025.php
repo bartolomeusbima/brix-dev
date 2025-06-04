@@ -28,18 +28,18 @@
                 <div class="menu__bar">
                     <div class="menu__block">
                         <div class="menu__bar__logo">
-                            <a class="logo" href="../index.html">
+                            <a class="logo" href="../index.php">
                                 <img src="../assets/images/logos/logo-brix.svg" alt="BRIX Performance Logo">
                             </a>
                         </div>
 
-                        <a class="menu__bar__toggle" href="/index.html"><span>Menu</span></a>
+                        <a class="menu__bar__toggle" href="/index.php"><span>Menu</span></a>
                     </div>
                     <nav class="menu__navigation">
                         <ul class="menu__navigation__page">
-                            <li class="list" onclick="location.href='../index.html'">
+                            <li class="list" onclick="location.href='../index.php'">
                                 <button>
-                                    <a href="../index.html" style="text-decoration: none; color: white">Home</a>
+                                    <a href="../index.php" style="text-decoration: none; color: white">Home</a>
                                 </button>
                             </li>
                             <li class="list products">
@@ -51,7 +51,7 @@
                                 <div class="dropdown__wrapper">
                                     <div class="dropdown">
                                         <ul class="list-items-with-description">
-                                            <a href="../street-series.html">
+                                            <a href="../street-series.php">
                                                 <li>
                                                     <img src="../assets/images/icons/icon-disc-street.svg" alt="Homepage">
                                                     <div class="item-title">
@@ -60,7 +60,7 @@
                                                     </div>
                                                 </li>
                                             </a>
-                                            <a href="../competition-series.html">
+                                            <a href="../competition-series.php">
                                                 <li>
                                                     <img src="../assets/images/icons/icon-disc-competition.svg" alt="Homepage">
                                                     <div class="item-title">
@@ -74,16 +74,16 @@
                                 </div>
                             </li>
                             <!-- START MOBILE VIEW DROPDOWN PRODUCTS -->
-                            <a href="../street-series.html" style="text-decoration: none; color: white">
-                                <li class="list products list-mobile-products" onclick="location.href='street-series.html'">
+                            <a href="../street-series.php" style="text-decoration: none; color: white">
+                                <li class="list products list-mobile-products" onclick="location.href='street-series.php'">
                                     <button>
                                         <img src="../assets/images/icons/icon-disc-street.svg" alt="Homepage">
                                         <a>Street Series</a>
                                     </button>
                                 </li>
                             </a>
-                            <a href="../competition-series.html">
-                                <li class="list products list-mobile-products" onclick="location.href='competition-series.html'">
+                            <a href="../competition-series.php">
+                                <li class="list products list-mobile-products" onclick="location.href='competition-series.php'">
                                     <button>
                                         <img src="../assets/images/icons/icon-disc-competition.svg" alt="Homepage">
                                         <a>Competition Series</a>
@@ -100,7 +100,7 @@
                                 <div class="dropdown__wrapper">
                                     <div class="dropdown">
                                         <ul class="list-items-with-description">
-                                            <a href="../testimony.html">
+                                            <a href="../testimony.php">
                                                 <li>
                                                     <img src="../assets/images/icons/icon-testimony.svg" alt="Homepage">
                                                     <div class="item-title">
@@ -109,7 +109,7 @@
                                                     </div>
                                                 </li>
                                             </a>
-                                            <a href="../warranty-statement.html">
+                                            <a href="../warranty-statement.php">
                                                 <li>
                                                     <img src="../assets/images/icons/icon-warranty-statement.svg" alt="Homepage">
                                                     <div class="item-title">
@@ -118,7 +118,7 @@
                                                     </div>
                                                 </li>
                                             </a>
-                                            <a href="../privacy-policy.html">
+                                            <a href="../privacy-policy.php">
                                                 <li>
                                                     <img src="../assets/images/icons/icon-privacy-policy.svg" alt="Homepage">
                                                     <div class="item-title">
@@ -133,7 +133,7 @@
                             </li>
                             <!-- START MOBILE VIEW DROPDOWN INFORMATIONS -->
                             <a>
-                                <li class="list information list-mobile-information" onclick="location.href='testimony.html'">
+                                <li class="list information list-mobile-information" onclick="location.href='testimony.php'">
                                     <button>
                                         <img src="../assets/images/icons/icon-testimony.svg" alt="Homepage">
                                         <a>Testimony</a>
@@ -141,7 +141,7 @@
                                 </li>
                             </a>
                             <a>
-                                <li class="list information list-mobile-information" onclick="location.href='warranty-statement.html'">
+                                <li class="list information list-mobile-information" onclick="location.href='warranty-statement.php'">
                                     <button>
                                         <img src="../assets/images/icons/icon-warranty-statement.svg" alt="Homepage">
                                         <a>Warranty Statement</a>
@@ -149,7 +149,7 @@
                                 </li>
                             </a>
                             <a>
-                                <li class="list information list-mobile-information" onclick="location.href='index.html'">
+                                <li class="list information list-mobile-information" onclick="location.href='index.php'">
                                     <button>
                                         <img src="../assets/images/icons/icon-privacy-policy.svg" alt="Homepage">
                                         <a>Privacy Policy</a>
@@ -157,14 +157,14 @@
                                 </li>
                             </a>
                             <!-- END MOBILE VIEW DROPDOWN INFORMATIONS -->
-                            <li class="list" onclick="location.href='distributors.html'">
+                            <li class="list" onclick="location.href='distributors.php'">
                                 <button>
-                                    <a href="../distributors.html" style="text-decoration: none; color: white">Distributors</a>
+                                    <a href="../distributors.php" style="text-decoration: none; color: white">Distributors</a>
                                 </button>
                             </li>
-                            <li class="list article" onclick="location.href='../article.html'" style="margin-top: 0;">
+                            <li class="list article" onclick="location.href='../article.php'" style="margin-top: 0;">
                                 <button>
-                                    <a href="../article.html" style="text-decoration: none; color: white">Article</a>
+                                    <a href="../article.php" style="text-decoration: none; color: white">Article</a>
                                 </button>
                             </li>
                         </ul>
@@ -286,7 +286,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.html'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -308,7 +308,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.html'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -330,7 +330,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/bmw-e36-enhanced.html'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/bmw-e36-enhanced.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -352,7 +352,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-wrx-vb-equipped-with-competition-series.html'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-wrx-vb-equipped-with-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -411,7 +411,7 @@
                                     <div id="form-fields" style="display: flex; width: 100%">
                                         <input type="email" name="email" id="newsletter-email" class="u-fullwidth text-center" style="width: 75%;" placeholder="Your Email" required>
                                         <button type="submit" class="btn btn--primary u-fullwidth subscribe-button" style="width: 25%;">
-                                            <img src="assets/images/icons/icon-arrow.svg" alt="Subscribe" style="transform: rotate(-90deg); height: 25px;">
+                                            <img src="../assets/images/icons/icon-arrow.svg" alt="Subscribe" style="transform: rotate(-90deg); height: 25px;">
                                         </button>
                                     </div>
                                     <p id="thank-you-msg" class="footer-subtitle" style="display: none; margin-top: 1rem;">Thanks for subscribing!</p>
@@ -427,8 +427,8 @@
         
         </div>
 
-        <script src="assets/vendor/js/plugins.js"></script>
-        <script src="assets/js/script.js"></script>
-        <script src="assets/js/newsletter.js"></script>
+        <script src="../assets/vendor/js/plugins.js"></script>
+        <script src="../assets/js/script.js"></script>
+        <script src="../assets/js/newsletter.js"></script>
     </body>
 </html>
