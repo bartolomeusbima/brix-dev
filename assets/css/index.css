@@ -864,15 +864,6 @@
     padding: 0 0 var(--vspace-1_5) 0;
 }
 
-.distributor-title {
-    line-height: 1;
-    color: var(--color-black);
-    padding: 0 0 0 calc(var(--gutter) * 2);
-    position: relative;
-    font-family: 'Monument Extended Ultra Bold';
-    margin: 0;
-}
-
 .distributor-map {
     line-height: 1;
     color: var(--color-black);
