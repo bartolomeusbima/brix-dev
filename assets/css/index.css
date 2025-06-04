@@ -836,7 +836,7 @@
  * # DISTRIBUTORS - BODY
  * -------------------------------------------------------------------- */
 
-.distributor-body::before {
+/* .distributor-body::before {
     content: "";
     position: absolute;
     width: 100%;
@@ -853,6 +853,33 @@
 
 .distributor-body-wrapper .column {
     margin: 0 0 var(--vspace-0_5) 0;
+} */
+
+/* --------------------------------------------------------------------
+ * # DISTRIBUTORS - BODY
+ * -------------------------------------------------------------------- */
+.distributor-body {
+    display: flex;
+    align-items: center;
+    padding: 0 0 var(--vspace-1_5) 0;
+}
+
+.distributor-title {
+    line-height: 1;
+    color: var(--color-black);
+    padding: 0 0 0 calc(var(--gutter) * 2);
+    position: relative;
+    font-family: 'Monument Extended Ultra Bold';
+    margin: 0;
+}
+
+.distributor-map {
+    line-height: 1;
+    color: var(--color-black);
+    padding: 0 calc(var(--gutter) * 2) 0 calc(var(--gutter) * 2);
+    position: relative;
+    font-family: 'Monument Extended Ultra Bold';
+    margin: 0;
 }
 
 /* ===================================================================
