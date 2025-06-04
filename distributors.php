@@ -420,7 +420,7 @@
                                             <p>Auto Parts Store</p>
                                         </div>
                                         <div class="header">
-                                            <a>YH Brake's (Big Brake Kit)</a>
+                                            <a>YH Brake's (Brake Avenue)</a>
                                         </div>
                                         <div class="row">
                                             <div class="column collapse lg-2 mob-2">
