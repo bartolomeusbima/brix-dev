@@ -28,7 +28,7 @@
                 <div class="menu__bar">
                     <div class="menu__block">
                         <div class="menu__bar__logo">
-                            <a class="logo" href="index.html">
+                            <a class="logo" href="index.php">
                                 <img src="assets/images/logos/logo-brix.svg" alt="BRIX Performance Logo">
                             </a>
                         </div>
@@ -37,9 +37,9 @@
                     </div>
                     <nav class="menu__navigation">
                         <ul class="menu__navigation__page">
-                            <li class="list" onclick="location.href='index.html'">
+                            <li class="list" onclick="location.href='index.php'">
                                 <button>
-                                    <a href="index.html" style="text-decoration: none; color: white">Home</a>
+                                    <a href="index.php" style="text-decoration: none; color: white">Home</a>
                                 </button>
                             </li>
                             <li class="list products">
@@ -51,7 +51,7 @@
                                 <div class="dropdown__wrapper">
                                     <div class="dropdown">
                                         <ul class="list-items-with-description">
-                                            <a href="street-series.html">
+                                            <a href="street-series.php">
                                                 <li>
                                                     <img src="assets/images/icons/icon-disc-street.svg" alt="Homepage">
                                                     <div class="item-title">
@@ -60,7 +60,7 @@
                                                     </div>
                                                 </li>
                                             </a>
-                                            <a href="competition-series.html">
+                                            <a href="competition-series.php">
                                                 <li>
                                                     <img src="assets/images/icons/icon-disc-competition.svg" alt="Homepage">
                                                     <div class="item-title">
@@ -74,16 +74,16 @@
                                 </div>
                             </li>
                             <!-- START MOBILE VIEW DROPDOWN PRODUCTS -->
-                            <a href="street-series.html" style="text-decoration: none; color: white">
-                                <li class="list products list-mobile-products" onclick="location.href='street-series.html'">
+                            <a href="street-series.php" style="text-decoration: none; color: white">
+                                <li class="list products list-mobile-products" onclick="location.href='street-series.php'">
                                     <button>
                                         <img src="assets/images/icons/icon-disc-street.svg" alt="Homepage">
                                         <a>Street Series</a>
                                     </button>
                                 </li>
                             </a>
-                            <a href="competition-series.html">
-                                <li class="list products list-mobile-products" onclick="location.href='competition-series.html'">
+                            <a href="competition-series.php">
+                                <li class="list products list-mobile-products" onclick="location.href='competition-series.php'">
                                     <button>
                                         <img src="assets/images/icons/icon-disc-competition.svg" alt="Homepage">
                                         <a>Competition Series</a>
@@ -100,7 +100,7 @@
                                 <div class="dropdown__wrapper">
                                     <div class="dropdown">
                                         <ul class="list-items-with-description">
-                                            <a href="testimony.html">
+                                            <a href="testimony.php">
                                                 <li>
                                                     <img src="assets/images/icons/icon-testimony.svg" alt="Homepage">
                                                     <div class="item-title">
@@ -109,7 +109,7 @@
                                                     </div>
                                                 </li>
                                             </a>
-                                            <a href="warranty-statement.html">
+                                            <a href="warranty-statement.php">
                                                 <li>
                                                     <img src="assets/images/icons/icon-warranty-statement.svg" alt="Homepage">
                                                     <div class="item-title">
@@ -118,7 +118,7 @@
                                                     </div>
                                                 </li>
                                             </a>
-                                            <a href="privacy-policy.html">
+                                            <a href="privacy-policy.php">
                                                 <li>
                                                     <img src="assets/images/icons/icon-privacy-policy.svg" alt="Homepage">
                                                     <div class="item-title">
@@ -133,7 +133,7 @@
                             </li>
                             <!-- START MOBILE VIEW DROPDOWN INFORMATIONS -->
                             <a>
-                                <li class="list information list-mobile-information" onclick="location.href='testimony.html'">
+                                <li class="list information list-mobile-information" onclick="location.href='testimony.php'">
                                     <button>
                                         <img src="assets/images/icons/icon-testimony.svg" alt="Homepage">
                                         <a>Testimony</a>
@@ -141,7 +141,7 @@
                                 </li>
                             </a>
                             <a>
-                                <li class="list information list-mobile-information" onclick="location.href='warranty-statement.html'">
+                                <li class="list information list-mobile-information" onclick="location.href='warranty-statement.php'">
                                     <button>
                                         <img src="assets/images/icons/icon-warranty-statement.svg" alt="Homepage">
                                         <a>Warranty Statement</a>
@@ -149,7 +149,7 @@
                                 </li>
                             </a>
                             <a>
-                                <li class="list information list-mobile-information" onclick="location.href='index.html'">
+                                <li class="list information list-mobile-information" onclick="location.href='index.php'">
                                     <button>
                                         <img src="assets/images/icons/icon-privacy-policy.svg" alt="Homepage">
                                         <a>Privacy Policy</a>
@@ -157,14 +157,14 @@
                                 </li>
                             </a>
                             <!-- END MOBILE VIEW DROPDOWN INFORMATIONS -->
-                            <li class="list" onclick="location.href='distributors.html'">
+                            <li class="list" onclick="location.href='distributors.php'">
                                 <button>
-                                    <a href="distributors.html" style="text-decoration: none; color: white">Distributors</a>
+                                    <a href="distributors.php" style="text-decoration: none; color: white">Distributors</a>
                                 </button>
                             </li>
-                            <li class="list article" onclick="location.href='article.html'">
+                            <li class="list article" onclick="location.href='article.php'">
                                 <button>
-                                    <a href="article.html" style="text-decoration: none; color: white">Article</a>
+                                    <a href="article.php" style="text-decoration: none; color: white">Article</a>
                                 </button>
                             </li>
                         </ul>
@@ -214,7 +214,7 @@
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/brix-performance-at-campus-auto-contest-2025.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -236,7 +236,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/subaru-crosstrek-by-garasi-drift.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -258,7 +258,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/bmw-e36-enhanced.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/bmw-e36-enhanced.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -280,7 +280,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/subaru-wrx-vb-equipped-with-competition-series.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/subaru-wrx-vb-equipped-with-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -302,7 +302,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/upgrade-your-ford-fiestas-stopping-power-with-street-series.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/upgrade-your-ford-fiestas-stopping-power-with-street-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -324,7 +324,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/pushing-braking-limits-street-series-rotors-tested-at-sentul-circuit.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/pushing-braking-limits-street-series-rotors-tested-at-sentul-circuit.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -346,7 +346,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/honda-city-hatchback-at-sentul-international-circuit.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/honda-city-hatchback-at-sentul-international-circuit.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -368,7 +368,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/brix-performance-competition-series-for-honda-city-hatchback.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/brix-performance-competition-series-for-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -390,7 +390,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/brix-performance-street-series-for-mazda-6.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/brix-performance-street-series-for-mazda-6.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -412,7 +412,7 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/the-elite-showcase-2025.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/the-elite-showcase-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENTS</p>
@@ -434,7 +434,7 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/brix-in-community.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/brix-in-community.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENTS</p>
@@ -456,7 +456,7 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/brio-dd1.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/brio-dd1.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -478,7 +478,7 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/mitsubishi-pajero-sport-4n15.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/mitsubishi-pajero-sport-4n15.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -491,7 +491,7 @@
                                             <p>November 21, 2024</p>
                                         </div>
                                         <div class="title">
-                                            <a href="article/mitsubishi-pajero-sport-4n15.html">Mitsubishi Pajero Sport 4N15</a>
+                                            <a href="article/mitsubishi-pajero-sport-4n15.php">Mitsubishi Pajero Sport 4N15</a>
                                         </div>
                                         <div class="subtitle">
                                             <p>Confidence Drive for Sonny Willim's Mitsubishi Pajero Sport 4N15.</p>
@@ -500,7 +500,7 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/p2-wdc-pro-am-final-round.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/p2-wdc-pro-am-final-round.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -513,7 +513,7 @@
                                             <p>November 7, 2024</p>
                                         </div>
                                         <div class="title">
-                                            <a href="article/p2-wdc-pro-am-final-round.html">P2 Women's Drift Challenge 2024 PRO AM Final Round.</a>
+                                            <a href="article/p2-wdc-pro-am-final-round.php">P2 Women's Drift Challenge 2024 PRO AM Final Round.</a>
                                         </div>
                                         <div class="subtitle">
                                             <p>BRIX on Tracks: Street Series at P2 WDC PRO-AM Finals.</p>
@@ -522,7 +522,7 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/jazz-gd3-garage-one.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/jazz-gd3-garage-one.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -535,7 +535,7 @@
                                             <p>October 31, 2024</p>
                                         </div>
                                         <div class="title">
-                                            <a href="article/jazz-gd3-garage-one.html">Jazz GD3 Garage One</a>
+                                            <a href="article/jazz-gd3-garage-one.php">Jazz GD3 Garage One</a>
                                         </div>
                                         <div class="subtitle">
                                             <p>Garage One's Honda Jazz GD3 Enhanced with BRIX Competition Series.</p>
@@ -544,7 +544,7 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/imx-2024.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/imx-2024.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENTS</p>
@@ -566,7 +566,7 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/vios-siantarman-racing-team-with-brix.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/vios-siantarman-racing-team-with-brix.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -588,7 +588,7 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/bmw-e36-with-brix.html'">
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/bmw-e36-with-brix.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
