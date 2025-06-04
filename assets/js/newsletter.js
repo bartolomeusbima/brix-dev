@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const email = emailInput.value;
         const formData = new URLSearchParams({ email });
 
-        fetch("subscribe.php", {
+        fetch("/subscribe.php", {
             method: "POST",
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded"
