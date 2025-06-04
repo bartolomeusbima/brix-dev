@@ -389,70 +389,8 @@
                 </div>
                 <div class="distributor-body">
                     <div class="column">
-    
-                        <div class="row clients-list block-lg-one-sixth block-md-one-fourth block-tab-one-half block-stack">
-    
-                            <div class="column clients-list__item">
-                                <a href="distributors.php">
-                                    <img src="assets/images/icons/distributors/1.svg" alt="">
-                                </a>
-                            </div>
-                            <div class="column clients-list__item">
-                                <a href="distributors.php">
-                                    <img src="assets/images/icons/distributors/2.svg" alt="">
-                                </a>
-                            </div>
-                            <div class="column clients-list__item">
-                                <a href="distributors.php">
-                                    <img src="assets/images/icons/distributors/3.svg" alt="">
-                                </a>
-                            </div>
-                            <div class="column clients-list__item">
-                                <a href="distributors.php">
-                                    <img src="assets/images/icons/distributors/4.svg" alt="">
-                                </a>
-                            </div>
-                            <div class="column clients-list__item">
-                                <a href="distributors.php">
-                                    <img src="assets/images/icons/distributors/5.svg" alt="">
-                                </a>
-                            </div>
-                            <div class="column clients-list__item">
-                                <a href="distributors.php">
-                                    <img src="assets/images/icons/distributors/6.svg" alt="">
-                                </a>
-                            </div>
-                            <div class="column clients-list__item">
-                                <a href="distributors.php">
-                                    <img src="assets/images/icons/distributors/7.svg" alt="">
-                                </a>
-                            </div>
-                            <div class="column clients-list__item">
-                                <a href="distributors.php">
-                                    <img src="assets/images/icons/distributors/8.svg" alt="">
-                                </a>
-                            </div>
-                            <div class="column clients-list__item">
-                                <a href="distributors.php">
-                                    <img src="assets/images/icons/distributors/9.svg" alt="">
-                                </a>
-                            </div>
-                            <div class="column clients-list__item">
-                                <a href="distributors.php">
-                                    <img src="assets/images/icons/distributors/10.svg" alt="">
-                                </a>
-                            </div>
-                            <div class="column clients-list__item">
-                                <a href="distributors.php">
-                                    <img src="assets/images/icons/distributors/11.svg" alt="">
-                                </a>
-                            </div>
-                            <div class="column clients-list__item">
-                                <a href="distributors.php">
-                                    <img src="assets/images/icons/distributors/12.svg" alt="">
-                                </a>
-                            </div>
-
+                        <div class="distributor-map">
+                            <iframe src="https://www.google.com/maps/d/embed?mid=11XE3-pjJwty4I0LfzHxwjB7OENokqwc&ehbc=2E312F" width="100%" height="500"></iframe>
                         </div>
                     </div>
                 </div>
