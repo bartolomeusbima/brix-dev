@@ -46,13 +46,13 @@
                             <p>COMPETITION SERIES</p>
                         </div>
                         <h2 class="article-title">
-                            Competition Series on Honda City Hatchback at Sentul International Circuit.
+                            Unleashing the EVO 6 with BRIX Performance Competition Series.
                         </h2>
                         <h5 class="article-subtitle">
-                            Unlock Maximum Braking Performance for Speed Control on the Track.
+                            Proven on the Street. Engineered for the Track.
                         </h5>
                         <div class="date">
-                            <p>November 28, 2024</p>
+                            <p>June 5, 2025</p>
                         </div>
                     </div>
                 </div>
@@ -60,44 +60,95 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/12/header.jpg">
+                                <img src="../assets/images/photos/articles/20/header.jpg">
                             </div>
                             <div class="column lg-12 text">
                                 <p>
-                                    Located in Bogor, West Java, Sentul International Circuit is Indonesia’s premier motorsport venue, known for hosting various racing events, from national touring championships to international motorsport series. With a 4.12-kilometers track length featuring high-speed straights, technical corners, and challenging elevation changes, Sentul provides the perfect environment to push both driver and machine to their limits. A true test of performance, this circuit demands precision braking, making it an ideal location to showcase the capabilities of the BRIX Performance Competition Series.
-                                </p>
-                                <p>
-                                    For automotive enthusiasts who crave precision, control, and speed, the Sentul International Circuit is the ultimate playground. Pairing the Honda City Hatchback with the BRIX Performance Competition Series braking system transforms this compact powerhouse into a track-ready machine. Whether you’re an amateur racer or a seasoned track day enthusiast, upgrading your brakes is the key to pushing limits with confidence.
-                                </p>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/12/01.jpg">
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/12/04.jpg">
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/12/03.jpg">
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/12/02.jpg">
-                            </div>
-                            <div class="column lg-12 text">
-                                <p>
-                                    The Honda City Hatchback is a versatile and lightweight platform that offers excellent handling and agility. Its sporty design, coupled with a well-balanced chassis, makes it a favorite among track day enthusiasts. However, factory brakes often struggle with high temperatures and fade under aggressive driving conditions. That’s where the BRIX Performance Competition Series comes in. Designed for high-performance applications, the BRIX Performance Competition Series delivers enhanced stopping power, durability, and heat dissipation.
-                                </p>
-                            </div>
-                            <div class="column lg-12 text where-to-buy">
-                                <p>
-                                    Where to Buy?
-                                </p>
-                                <p>
-                                    Elevate your track day experience with BRIX Performance. Visit our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia</a>, or contact us via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a>, or check our <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">official BRIX Performance partners</a> to secure your upgrade before your next session.
+                                    The Mitsubishi Lancer Evolution VI is already a motorsport legend: aggressive, raw, and made to dominate. But even a car this iconic can reach the next level with the right upgrades. That’s where the BRIX Performance Competition Series comes in.    
                                 </p>
                             </div>
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/12/05.jpg">
+                                <img src="../assets/images/photos/articles/20/01.jpg">
+                                <div class="caption">
+                                    <p>
+                                        BRIX Performance Competition Series on Mitsubishi Lancer Evolution VI.
+                                    </p>
+                                </div>
                             </div>
+                            <div class="column lg-12 text">
+                                <p>
+                                    Mitsubishi Lancer Evolution VI fitted with Competition Series rotors, parked in front of container.
+                                </p>
+                            </div>
+
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/20/02.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Close-up of BRIX Performance Competition Series slotted rotor and Brembo caliper.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/20/03.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Rear perspective view of Subaru WRX VB at Sentul Circuit.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/20/04.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Red Mitsubishi EVO 6 in motion equipped with BRIX Performance Competition Series.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/20/05.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Rear view of Mitsubishi EVO 6 driving with BRIX Performance Competition Series rotors.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="column lg-12 text">
+                                <p>
+                                    From the slotted face design to the performance-first metallurgy, every aspect of the Competition Series is engineered for drivers who push limits. It’s the same technology trusted by racers in Indonesia’s top motorsport series, now proven on a machine as aggressive as this EVO 6.
+                                </p>
+                                <P>
+                                    Looking to build something track-ready? Or just want peace of mind during spirited weekend drives? The BRIX Competition Series isn’t just an upgrade, it’s a commitment to performance without compromise.
+                                </P>
+                            </div>
+
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/20/06.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Rear angle of Mitsubishi Lancer Evolution VI equipped with BRIX Performance Competition Series rotors.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/20/07.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Low-angle front shot of Mitsubishi EVO 6 equipped with Competition Series brakes.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="column lg-12 text where-to-buy">
+                                <p>
+                                    Where to find BRIX Performance?
+                                </p>
+                                <p>
+                                    You can get the Competition Series through our network of our <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">Official Distributors</a>, <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">Tokopedia Official Store</a>, or consult directly through <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp</a> for free product matching and upgrade advice.
+                                </p>
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -115,7 +166,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -137,7 +188,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -159,7 +210,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -181,7 +232,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>

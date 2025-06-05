@@ -46,13 +46,13 @@
                             <p>COMPETITION SERIES</p>
                         </div>
                         <h2 class="article-title">
-                            Subaru WRX VB equipped with Competition Series.
+                            Competition Series on Honda City Hatchback at Sentul International Circuit.
                         </h2>
                         <h5 class="article-subtitle">
-                            Maximizing Track Precision with BRIX Performance.
+                            Unlock Maximum Braking Performance for Speed Control on the Track.
                         </h5>
                         <div class="date">
-                            <p>April 1, 2025</p>
+                            <p>November 28, 2024</p>
                         </div>
                     </div>
                 </div>
@@ -60,72 +60,31 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/15/header.jpg">
+                                <img src="../assets/images/photos/articles/12/header.jpg">
                             </div>
                             <div class="column lg-12 text">
                                 <p>
-                                    The Subaru WRX VB has always been known for its rally-inspired performance, aggressive styling, and impressive power output. However, to truly unlock the WRX's potential, especially on demanding circuits and spirited drives, upgrading the braking system is essential. Enter the BRIX Performance Competition Series, a braking solution designed explicitly for those who demand the absolute best in stopping power and consistency.
+                                    Located in Bogor, West Java, Sentul International Circuit is Indonesia’s premier motorsport venue, known for hosting various racing events, from national touring championships to international motorsport series. With a 4.12-kilometers track length featuring high-speed straights, technical corners, and challenging elevation changes, Sentul provides the perfect environment to push both driver and machine to their limits. A true test of performance, this circuit demands precision braking, making it an ideal location to showcase the capabilities of the BRIX Performance Competition Series.
                                 </p>
                                 <p>
-                                    When looking at this particular Subaru WRX VB equipped with the BRIX Competition Series, one thing immediately stands out: its purposeful stance and undeniable track-ready presence. The braking system, prominently featuring BRIX's distinctive slotted and ventilated rotors, signals serious performance intentions.
+                                    For automotive enthusiasts who crave precision, control, and speed, the Sentul International Circuit is the ultimate playground. Pairing the Honda City Hatchback with the BRIX Performance Competition Series braking system transforms this compact powerhouse into a track-ready machine. Whether you’re an amateur racer or a seasoned track day enthusiast, upgrading your brakes is the key to pushing limits with confidence.
                                 </p>
                             </div>
-                            <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/15/01.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Detailed shot of WRX VB front wheel setup featuring BRIX Performance calipers and rotors.
-                                    </p>
-                                </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/12/01.jpg">
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/12/04.jpg">
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/12/03.jpg">
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/12/02.jpg">
                             </div>
                             <div class="column lg-12 text">
                                 <p>
-                                    The BRIX Performance Competition Series rotors are designed to excel under intense conditions, utilizing advanced materials and treatments to resist high temperatures, reducing brake fade, and ensuring maximum grip when paired with high-performance pads. This translates into consistently reliable stopping power, lap after lap.
-                                </p>
-                                <p>
-                                    The Subaru WRX VB isn’t just about raw performance, it’s about precision, confidence, and control. The car sits assertively on aggressive wheels and performance tires, complementing the rotor upgrade and further enhancing handling and grip. Each detail, from the precision-crafted calipers to the robust rotor design, showcases BRIX Performance’s commitment to track-proven reliability and street-level refinement.
-                                </p>
-                                <p>
-                                    BRIX’s unique SOLIDCAST® heat treatment further enhances the rotor's structural integrity, making it resilient against cracking and warping even under repeated heavy braking and extreme thermal cycling, conditions frequently encountered in high-performance and track-driving environments.
-                                </p>
-                            </div>
-
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/15/02.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Close-up of BRIX Performance Competition Series rotor, highlighting the precision-machined design.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/15/03.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Rear perspective view of Subaru WRX VB at Sentul Circuit.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/15/04.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Subaru WRX VB side angle at Sentul Circuit paddock area.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/15/05.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Subaru WRX VB side view with focus on high-performance wheels.
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="column lg-12 text">
-                                <p>
-                                    Enthusiasts know that the WRX VB, equipped with BRIX Performance components, doesn't just stop better; it inspires greater confidence at every braking point. With the BRIX Performance Competition Series installed, Subaru WRX VB drivers can expect not only improved track times but also the assurance of a braking system engineered to perform flawlessly in the most demanding scenarios.
+                                    The Honda City Hatchback is a versatile and lightweight platform that offers excellent handling and agility. Its sporty design, coupled with a well-balanced chassis, makes it a favorite among track day enthusiasts. However, factory brakes often struggle with high temperatures and fade under aggressive driving conditions. That’s where the BRIX Performance Competition Series comes in. Designed for high-performance applications, the BRIX Performance Competition Series delivers enhanced stopping power, durability, and heat dissipation.
                                 </p>
                             </div>
                             <div class="column lg-12 text where-to-buy">
@@ -136,40 +95,9 @@
                                     Elevate your track day experience with BRIX Performance. Visit our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia</a>, or contact us via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a>, or check our <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">official BRIX Performance partners</a> to secure your upgrade before your next session.
                                 </p>
                             </div>
-
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/15/06.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Subaru WRX VB dynamic angle at Sentul Circuit paddock area.
-                                    </p>
-                                </div>
+                            <div class="column lg-12 photo">
+                                <img src="../assets/images/photos/articles/12/05.jpg">
                             </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/15/07.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Rear perspective view of Subaru WRX VB.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/15/08.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Close-up detail that shows rear perspective view of Subaru WRX VB.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/15/09.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Front angle view of Subaru WRX VB showcasing BRIX Performance Competition Series.
-                                    </p>
-                                </div>
-                            </div>
-
                         </div>
                     </div>
                 </div>
@@ -187,7 +115,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -209,7 +137,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -231,7 +159,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -253,7 +181,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>

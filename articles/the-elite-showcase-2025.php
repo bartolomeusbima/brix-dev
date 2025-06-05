@@ -43,16 +43,16 @@
                 <div class="article-head">
                     <div class="column">
                         <div class="article-category">
-                            <p>COMPETITION SERIES</p>
+                            <p>EVENTS</p>
                         </div>
                         <h2 class="article-title">
-                            BMW E36 Enhanced.
+                            The Elite Showcase 2025
                         </h2>
                         <h5 class="article-subtitle">
-                            Dominating the Track with BRIX Performance Competition Series.
+                            A Weekend of Style, Speed, and Innovation.
                         </h5>
                         <div class="date">
-                            <p>April 19, 2025</p>
+                            <p>February 20, 2025</p>
                         </div>
                     </div>
                 </div>
@@ -60,83 +60,60 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/16/header.jpg">
+                                <img src="../assets/images/photos/articles/09/header.jpg">
                             </div>
                             <div class="column lg-12 text">
                                 <p>
-                                    When it comes to legendary automotive platforms, the BMW E36 stands as an enthusiast favorite, revered for its agile handling, balanced chassis, and timeless design. Enthusiasts know that while the E36 offers an excellent foundation, true performance lies in the details, particularly braking performance.
-                                </p>
-                                <p>
-                                    Enter the BRIX Performance Competition Series brake system. Specifically engineered for rigorous track conditions, the Competition Series rotors transform this BMW E36 from a spirited road car into a formidable track contender.
+                                    Another spectacular showcase by The Elite Indonesia took place at the Indonesia Convention Exhibition (ICE) BSD on February 15-16, 2025. The Elite Showcase 2025 was packed with excitement and adrenaline-fueled activations, featuring hundreds of meticulously curated modified cars and motorcycles. With an impressive lineup of 225 custom cars and 80 modified motorcycles, the event highlighted Indonesia’s thriving automotive scene and its passion for innovation in automotive modifications.
                                 </p>
                             </div>
+
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/09/01.jpg">
+                                <div class="caption">
+                                    <p>Modified Nissan GT-R on display at the Elite Showcase 2025 booth with hood open.</p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/09/02.jpg">
+                                <div class="caption">
+                                    <p>White Mitsubishi Lancer Evolution VI with widebody kit showcased at the Elite Showcase 2025 in Indonesia.</p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/09/03.jpg">
+                                <div class="caption">
+                                    <p>Close-up of high-performance engine bay featuring HKS components at the Elite Showcase 2025.</p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/09/04.jpg">
+                                <div class="caption">
+                                    <p>Red Nissan Skyline Infiniti G coupe with aggressive stance and widebody kit at the Elite Showcase 2025.</p>
+                                </div>
+                            </div>
+
+                            <div class="column lg-12 text">
+                                <p>
+                                    Bringing the best in the industry, The Elite Indonesia hosted a stellar lineup of world-renowned automotive builders, including Kenji Sumino from Greddy Performance, Sakamoto from Garage Active, Lawrence Ojas from Intec Racing, and many more. Their presence reaffirmed The Elite Showcase 2025 as a known stage for high-caliber automotive craftsmanship and cutting-edge modifications.
+                                </p>
+                                <p>
+                                    This year, The Elite Showcase elevated the experience by introducing exciting new activities and collaborations with top-tier partners. Indonesia Diecast Expo brought a dedicated diecast zone, Garasi Drift delivered an adrenaline-pumping drifting experience, and Tamiya 4WD created an exclusive area for Tamiya Mini 4WD racing enthusiasts. These activations ensured there was something for every automotive fan, whether they were into full-sized builds or scale-model replicas.
+                                </p>
+                                <p>
+                                    For those who couldn’t make it to the venue, The Elite Indonesia live-streamed the event on their official YouTube channel, ensuring the energy and excitement of The Elite Showcase 2025 reached audiences beyond ICE BSD.
+                                </p>
+                                <p>
+                                    With its unmatched lineup of modified vehicles, legendary automotive figures, and immersive activities, The Elite Showcase 2025 once again proved why it’s one of the most highly anticipated automotive events of the year.
+                                </p>
+                            </div>
+
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/16/01.jpg">
+                                <img src="../assets/images/photos/articles/09/01.jpg">
                                 <div class="caption">
-                                    <p>
-                                        Detailed shot highlighting BRIX Performance Competition Series on BMW E36.
-                                    </p>
+                                    <p>Rear lineup of customized Honda Civic EG hatchbacks at The Elite Showcase 2025.</p>
                                 </div>
                             </div>
-                            <div class="column lg-12 text">
-                                <p>
-                                    The BRIX Performance Competition Series is not just another aftermarket brake upgrade; it’s a precision-engineered solution tailored for extreme demands. These rotors feature an advanced design, incorporating optimized venting and superior materials, ensuring effective heat dissipation and exceptional stopping power even under prolonged high-speed usage.
-                                </p>
-                                <p>
-                                    Installed on the BMW E36, these rotors deliver remarkable improvement in braking consistency, reducing fade dramatically and allowing for confident, aggressive driving lap after lap.
-                                </p>
-                            </div>
-
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/16/02.jpg">
-                                <div class="caption">
-                                    <p>
-                                        BMW E36 equipped with Competition Series on Sentul International Circuit.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/16/03.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Front wheel and BRIX Performance Competition Series rotor on BMW E36.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/16/04.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Front quarter view of BMW E36 with BRIX Performance Competition Series rotors.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/16/05.jpg">
-                                <div class="caption">
-                                    <p>
-                                        BMW E36 on track day at Sentul International Circuit.
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="column lg-12 text">
-                                <p>
-                                    The Competition Series is battle-tested in Indonesia's motorsport events like ISSOM and IDS, trusted by top-tier racers and hardcore track enthusiasts alike. The BMW E36 equipped with these rotors benefits from enhanced pedal feel, greater durability, and significantly improved thermal management.
-                                </p>
-                                <p>
-                                    For those seeking the utmost from their BMW E36, upgrading to the BRIX Performance Competition Series isn't just a modification, it's an essential step towards achieving peak track performance.
-                                </p>
-                            </div>
-                            <div class="column lg-12 text where-to-buy">
-                                <p>
-                                    Where to Buy?
-                                </p>
-                                <p>
-                                    Elevate your track day experience with BRIX Performance. Visit our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia</a>, or contact us via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a>, or check our <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">official BRIX Performance partners</a> to secure your upgrade before your next session.
-                                </p>
-                            </div>
-
                         </div>
                     </div>
                 </div>
@@ -154,7 +131,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -176,7 +153,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -198,7 +175,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -220,7 +197,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>

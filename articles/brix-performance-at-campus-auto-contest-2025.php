@@ -43,16 +43,16 @@
                 <div class="article-head">
                     <div class="column">
                         <div class="article-category">
-                            <p>STREET SERIES</p>
+                            <p>EVENT</p>
                         </div>
                         <h2 class="article-title">
-                            Precision Meets Practicality: Street Series on Honda City Hatchback.
+                            BRIX Performance at Campus Auto Contest 2025.
                         </h2>
                         <h5 class="article-subtitle">
-                            The Daily Brake Upgrade That Makes a Difference.
+                            Connecting with the Next Generation of Automotive Enthusiasts.
                         </h5>
                         <div class="date">
-                            <p>May 25, 2025</p>
+                            <p>April 28, 2025</p>
                         </div>
                     </div>
                 </div>
@@ -60,62 +60,59 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/19/header.jpg">
+                                <img src="../assets/images/photos/articles/18/header.jpg">
                             </div>
                             <div class="column lg-12 text">
                                 <p>
-                                    The Honda City Hatchback has earned its reputation as a smart daily driver: efficient, nimble, and easy to enjoy on city roads. But when it comes to braking, it deserves more than just stock performance. That’s where the BRIX Performance Street Series comes in.    
+                                    BRIX Performance took center stage at Campus Auto Contest 2025, an event hosted by BLEU Prasmul that united the automotive community’s brightest students, builders, and enthusiasts. With a striking booth display, BRIX delivered a clear message that real braking performance isn’t limited to the racetrack.
                                 </p>
                                 <p>
-                                    Designed for urban enthusiasts who demand more from their cars, the Street Series brake rotors offer a significant upgrade over OEM setups. In these photos, the City Hatchback is fitted with our Street Series, engineered for consistent performance during stop-and-go traffic, spirited weekend drives, and everything in between.
+                                    Throughout the day, the booth drew attention from car enthusiasts, students, and fellow exhibitors. Many were eager to learn more about BRIX’s Street Series and Competition Series, leading to in-depth discussions on braking reliability, heat resistance, and our proprietary SOLIDCAST® technology. The hands-on display gave visitors the chance to feel the weight, inspect the precision drilling, and appreciate the functional beauty of our rotors.
                                 </p>
                             </div>
-                            <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/19/01.jpg">
+                            
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/18/01.jpg">
                                 <div class="caption">
                                     <p>
-                                        BRIX Performance Street Series on Honda City Hatchback.
+                                        BMW M4 parked at QBIG BSD as one of the participant of Campus Auto Contest 2025.
                                     </p>
                                 </div>
                             </div>
-                            <div class="column lg-12 text">
-                                <p>
-                                    What makes it stand out?
-                                </p>
-                                <ul>
-                                    <li>
-                                        Even Cooling and Stable Performance<br>With carefully designed drilled and slotted faces, the Street Series provides better ventilation, helping dissipate heat faster and reduce brake fade. That’s crucial in city environments where braking is frequent and aggressive.
-                                    </li>
-                                    <li>
-                                        Reliable Bite in All Conditions<br>Thanks to our <monument>SOLIDCAST&reg;</monument> heat-treatment process, each rotor is stress-relieved after machining. The result? Strong initial bite, reduced warping, and better pedal feel over time.
-                                    </li>
-                                    <li>
-                                        Daily-Driven Comfort, Tuned for Performance<br>While many upgrades compromise comfort for performance, our Street Series finds the sweet spot. The rotors offer improved vibration damping and quieter operation, without sacrificing stopping power.
-                                    </li>
-                                </ul>
-                            </div>
-
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/19/02.jpg">
+                                <img src="../assets/images/photos/articles/18/02.jpg">
                                 <div class="caption">
-                                    <p>lose-up of BRIX Performance Street Series brake rotor installed on Honda City Hatchback.</p>
+                                    <p>
+                                        BRIX Performance booth display featuring Street and Competition Series rotors with spin-the-wheel giveaway.
+                                    </p>
                                 </div>
                             </div>
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/19/03.jpg">
+                                <img src="../assets/images/photos/articles/18/03.jpg">
                                 <div class="caption">
-                                    <p>Rear shot of Honda City Hatchback.</p>
+                                    <p>
+                                        Close-up of BRIX Performance merchandise, stickers, and product catalogues at our booth.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/18/04.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Rear view of modified cars at Campus Auto Contest 2025 hosted at QBIG BSD.
+                                    </p>
                                 </div>
                             </div>
 
                             <div class="column lg-12 text">
                                 <p>
-                                    For Honda City Hatchback owners looking to elevate their braking system without jumping into full track-spec territory, this is the smart choice. It’s the right upgrade that makes your daily car feel sharper, safer, and simply more fun to drive.
+                                    What truly set the BRIX booth apart was the level of interaction. Our team connected directly with visitors, answering questions, sharing installation insights, and explaining the importance of proper brake upgrades. These conversations helped fuel curiosity and build genuine trust in BRIX as a brand founded by real car enthusiasts.
                                 </p>
                                 <p>
-                                    Are you looking to equip your Honda City Hatchback with BRIX Performance Street Series? You can find our products through our network of <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">Official Distributors</a> across Indonesia, or shop conveniently via our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia Store</a>. Need help choosing the right setup? Chat with us directly for a free consultation on <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp</a>, our team is ready to assist you.
+                                    One of the highlights of the day was our giveaway campaign. Attendees who followed BRIX on social media and connected via WhatsApp Business received exclusive merchandise, reinforcing our commitment to engaging with the community both online and offline.
                                 </p>
                             </div>
+
                         </div>
                     </div>
                 </div>
@@ -133,7 +130,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -155,7 +152,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -177,7 +174,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -199,7 +196,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>

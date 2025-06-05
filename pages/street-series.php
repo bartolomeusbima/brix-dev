@@ -373,7 +373,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -395,7 +395,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -417,7 +417,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='article/brix-performance-at-campus-auto-contest-2025.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='articles/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -439,7 +439,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='article/subaru-crosstrek-by-garasi-drift.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='articles/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
