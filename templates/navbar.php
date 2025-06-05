@@ -142,9 +142,9 @@ $basePath = isset($basePath) ? $basePath : '';
                         <a href="<?= $basePath ?>distributors" style="text-decoration: none; color: white">Distributors</a>
                     </button>
                 </li>
-                <li class="list article" onclick="location.href='<?= $basePath ?>article'" style="margin-top: 0;">
+                <li class="list article" onclick="location.href='<?= $basePath ?>articles'" style="margin-top: 0;">
                     <button>
-                        <a href="<?= $basePath ?>article" style="text-decoration: none; color: white">Article</a>
+                        <a href="<?= $basePath ?>articles" style="text-decoration: none; color: white">Article</a>
                     </button>
                 </li>
                 <li class="list" onclick="location.href='<?= $basePath ?>warranty-statement'">
