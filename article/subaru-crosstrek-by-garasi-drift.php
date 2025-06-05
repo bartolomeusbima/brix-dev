@@ -46,13 +46,13 @@
                             <p>STREET SERIES</p>
                         </div>
                         <h2 class="article-title">
-                            Street Series on Mitsubishi Pajero Sport 4N15.
+                            Subaru Crosstrek by Garasi Drift.
                         </h2>
                         <h5 class="article-subtitle">
-                            Confidence Drive for Sonny Willim's Mitsubishi Pajero Sport 4N15.
+                            Built to Slide. Engineered to Stop.
                         </h5>
                         <div class="date">
-                            <p>November 21, 2024</p>
+                            <p>April 15, 2025</p>
                         </div>
                     </div>
                 </div>
@@ -60,55 +60,111 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/06/header.jpg">
+                                <img src="../assets/images/photos/articles/17/header.jpg">
                             </div>
-
                             <div class="column lg-12 text">
                                 <p>
-                                    Mitsubishi Pajero Sport 4N15, lovingly named Anin and owned by Sonny Willim, has gained a solid reputation among car enthusiasts in Indonesia. This vehicle is a standout not only for its powerful performance but also for its compatibility with Indonesia’s challenging road conditions, from urban traffic to rugged terrains. Equipped with a high-torque diesel engine, the Pajero Sport offers the ideal balance of fuel efficiency and strength, making it a favorite for both veteran drivers and younger adventurers looking for reliability and performance in one package.
+                                    Garasi Drift has taken the unconventional path with their latest build, turning a Subaru Crosstrek into a fully capable drift machine for the Southeast Asia Drift Series. Known for bold ideas and proven execution, Garasi Drift chose the BRIX Performance Street Series to handle one of the most critical aspects of drifting: braking.
                                 </p>
                                 <p>
-                                    One of the defining features of the Pajero Sport is its impressive torque, which delivers power on demand for tackling steep inclines, long drives, and heavy loads. However, with this level of performance, the standard brakes sometimes fall short of providing the stopping power that a vehicle of this size and capability requires. This has led many owners, including Sonny Willim, to seek braking solutions that match the Pajero’s high performance.
+                                    While the Crosstrek is typically seen as a mild crossover, this version has been completely transformed. With a stripped interior, reinforced chassis, and drift-tuned suspension, every component is built for purpose. But without consistent, reliable stopping power, none of it matters. That’s why the Street Series rotors are a key part of this setup.
                                 </p>
                             </div>
-
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/06/01.jpg">
+                                <img src="../assets/images/photos/articles/17/01.jpg">
                                 <div class="caption">
                                     <p>
-                                        Detailed image of the BRIX Performance Street Series on Pajero Sport 4N15.
+                                        Dipo Dwiki from Garasi Drift inside his Subaru Crosstrek at Southeast Asia Drift Series.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-12 text">
+                                <p>
+                                    Engineered with a drilled and slotted face, the BRIX Street Series delivers improved heat dissipation and pedal feel, essential during high-speed transitions and clutch kicks. Treated with our proprietary SOLIDCAST® heat-treatment process, these rotors resist warping and surface stress, making them ideal for repeated hard braking under extreme conditions.
+                                </p>
+                                <p>
+                                    Whether the car is entering a corner sideways or scrubbing speed mid-drift, the BRIX Performance Street Series ensures control stays in the driver's hands. It’s the perfect blend of daily driveability and track-focused reliability.
+                                </p>
+                            </div>
+
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/17/02.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Subaru Crosstrek on  tandem battle during Southeast Asia Drift Series.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/17/03.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Rear view of Subaru Crosstrek initiating drift with tire smoke during Southeast Asia Drift Series.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/17/04.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Side profile of drifting Subaru Crosstrek at Southeast Asia Drift Series showing aggressive angle.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/17/05.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Subaru Crosstrek and yellow S15 Silvia in close tandem run at Southeast Asia Drift Series.
                                     </p>
                                 </div>
                             </div>
 
                             <div class="column lg-12 text">
                                 <p>
-                                    To address this, Sonny made a strategic upgrade to BRIX Performance Street Series brake discs. This high-performance braking system is specifically designed to elevate the vehicle’s braking capacity and improve overall driving safety. According to Sonny, the transformation has been remarkable. With BRIX Performance discs installed, his confidence in the Pajero’s stopping power has significantly increased. He notes that not only has the braking response become more immediate, but it also feels much smoother and more controlled, giving him peace of mind when maneuvering this powerful SUV through traffic or rougher terrains.
-                                </p>
-                                <p>
-                                    BRIX Performance brakes bring both functionality and style, enhancing the Pajero Sport’s appearance while prioritizing safety. With a more reliable braking system in place, drivers can tackle even sudden stops without the usual worry, knowing they have precision and strength underfoot. Designed with durability and everyday use in mind, the BRIX Performance Street Series is an ideal upgrade for drivers who want to elevate their daily driving experience without sacrificing safety or longevity.
-                                </p>
-                                <p>
-                                    With these advanced brakes, drivers of larger vehicles like the Pajero Sport can enjoy a smoother, safer, and more confident ride, making BRIX Performance an essential choice for those who demand more from their vehicles. The Street Series delivers not only superior stopping power but also ensures that every journey is as safe as it is enjoyable.
+                                    Looking to upgrade your own build with BRIX Performance? Our full range, including the Street Series installed on this Crosstrek, is available through our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">Official Tokopedia Store</a> for fast and reliable access. Prefer to talk to a specialist? Chat with us directly via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a> for consultation, installation support, or custom setup advice. You can also check with our <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">official distributors</a> in your city for product availability and support.
                                 </p>
                             </div>
 
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/06/02.jpg">
+                                <img src="../assets/images/photos/articles/17/06.jpg">
                                 <div class="caption">
                                     <p>
-                                        Front-side view of a black Mitsubishi Pajero Sport equipped with BRIX Performance Street Series.
+                                        Subaru Crosstrek equipped with Street Series at Southeast Asia Drift Series.
                                     </p>
                                 </div>
                             </div>
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/06/03.jpg">
+                                <img src="../assets/images/photos/articles/17/07.jpg">
                                 <div class="caption">
                                     <p>
-                                        Side profile of Mitsubishi Pajero Sport.
+                                        Subaru Crosstrek and yellow S15 Silvia in close tandem run with tire smoke trailing both cars.
                                     </p>
                                 </div>
                             </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/17/08.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Subaru Crosstrek and BMW drifting side-by-side through a clipping point at Southeast Asia Drift Series.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/17/09.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Subaru Crosstrek mid-drift with heavy smoke and rear slip angle at Southeast Asia Drift Series
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="column lg-12 text">
+                                <p>
+                                    Catch the full behind-the-scenes build and track footage on <a href="https://youtu.be/p28K8Op_Gek?si=YXI1iXvtzSPq4R6b" target="_blank" rel="noopener noreferrer">Garasi Drift’s YouTube channel</a> and see why the right brakes make all the difference.
+                                </p>
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -126,7 +182,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -148,7 +204,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -170,7 +226,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/brix-performance-at-campus-auto-contest-2025.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -192,7 +248,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/subaru-crosstrek-by-garasi-drift.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>

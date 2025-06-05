@@ -43,16 +43,16 @@
                 <div class="article-head">
                     <div class="column">
                         <div class="article-category">
-                            <p>EVENTS</p>
+                            <p>STREET SERIES</p>
                         </div>
                         <h2 class="article-title">
-                            BRIX in Community: Rides Collective by Brill Hepa Filter.
+                            Pushing Braking Limits: Street Series Rotors Tested at Sentul Circuit.
                         </h2>
                         <h5 class="article-subtitle">
-                            Building Stronger Automotive Bonds Through Passion, Collaborations, and Local Car Culture.
+                            Precision and Power for the Honda Civic Type R FK8
                         </h5>
                         <div class="date">
-                            <p>February 12, 2025</p>
+                            <p>March 27, 2025</p>
                         </div>
                     </div>
                 </div>
@@ -60,71 +60,67 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/08/header.jpg">
+                                <img src="../assets/images/photos/articles/13/header.jpg">
                             </div>
-
                             <div class="column lg-12 text">
                                 <p>
-                                    Automotive passion was on full display at Rides Collective on last Sunday, February 9, 2025, as car enthusiasts gathered for a weekend filled with exhilarating drive and community engagement. Starting at Day Night District PIK 2, drivers embarked on a scenic morning ride to Astra Land Indonesia Marketing Gallery at Gatot Subroto, where varieties of automotive showcases awaited. The event accommodated a platform for drivers and fans to connect over their shared love for performance and innovation.
+                                    At BRIX Performance, our mission is clear. Engineered braking solutions that deliver maximum performance, reliability, and control in every scenario. To validate the real-world capability of our Street Series brake rotors, we took on Sentul International Circuit with the Honda Civic FK8 Type R, a platform renowned for its high-speed potential and demanding braking conditions.
                                 </p>
                             </div>
-
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/08/01.jpg">
+                                <img src="../assets/images/photos/articles/13/01.jpg">
                                 <div class="caption">
-                                    <p>BMW E36 and Subaru WRX VB displayed at BRIX Performance booth, featuring Street and Competition Series brake systems.</p>
+                                    <p>Close-up of BRIX Performance drilled and slotted brake rotors paired with Brembo calipers and Advan Racing wheels. Designed for maximum heat dissipation and track durability.</p>
                                 </div>
                             </div>
-
                             <div class="column lg-12 text">
                                 <p>
-                                    BRIX Performance was one of key tenants in Rides Collective, with a dedicated booth that showcased the BRIX Competition & Street Series braking solutions. Enthusiasts had the chance to witness the power of BRIX Competition Series in action, particularly on the 2024 Subaru WRX VB and The BMW E36, both equipped with BRIX high-performance. Beyond product presentations, BRIX team engaged with visitors, offering insights into the world of aftermarket performance upgrades.
+                                    Sentul Circuit’s mix of high-speed straights and technical corners provided the ultimate proving ground to test the limits of our Street Series rotors:
+                                </p>
+                                <ul>
+                                    <li>
+                                        High-Speed Braking: Confident deceleration, delivering stability under extreme loads.
+                                    </li>
+                                    <li>
+                                        Heat Dissipation: Maintained optimal performance across multiple hot laps.
+                                    </li>
+                                    <li>
+                                        Pedal Feel & Modulation: More consistent, precise braking response lap after lap.
+                                    </li>
+                                </ul>
+                                <p>
+                                    The results? Track-tested performance you can trust on the street. Whether pushing limits at the circuit or navigating urban roads, the BRIX Performance Street Series gives FK8 owners the stopping power they need.
+                                </p>
+                                <p>
+                                    Upgrade with confidence. Connect with our <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">official BRIX Performance partners</a>, reach out via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a>, or visit our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia Store</a> to equip your Civic Type R with the braking performance it truly deserves.
                                 </p>
                             </div>
 
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/08/02.jpg">
+                                <img src="../assets/images/photos/articles/13/02.jpg">
                                 <div class="caption">
-                                    <p>BRIX Performance booth display featuring branded keychains and promotional merchandise.</p>
+                                    <p>Civic FK8 Type R on Sentul Circuit’s main straight, pushing BRIX Performance Street Series rotors to their limit under high-speed braking conditions.</p>
                                 </div>
                             </div>
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/08/03.jpg">
+                                <img src="../assets/images/photos/articles/13/03.jpg">
                                 <div class="caption">
-                                    <p>Close-up of a BRIX Performance drilled and slotted brake rotor.</p>
+                                    <p>Honda Civic FK8 Type R at Sentul International Circuit paddock, equipped with BRIX Performance Street Series brake rotors. Track-tested for superior braking performance and heat dissipation.</p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/13/04.jpg">
+                                <div class="caption">
+                                    <p>Honda Civic Type R FK8 approaching the braking zone on Sentul International Circuit, equipped with BRIX Performance brake upgrades for enhanced deceleration and pedal feel.</p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/13/05.jpg">
+                                <div class="caption">
+                                    <p>Honda Civic Type R FK8 approaching the breaking zone on Sentul International Circuit.</p>
                                 </div>
                             </div>
 
-                            <div class="column lg-12 text">
-                                <p>
-                                    Adding to the excitement, BRIX hosted a Spin The Wheel, where participants could win exclusive merchandise and special discounts. The interactive experience drew a large crowd, reinforcing BRIX’s commitment to make high-performance braking solutions more accessible to the community. BRIX Performance will always have a strong dedication to support automotive enthusiasts by providing cutting-edge braking technology and fostering opportunities for learning and networking. The success of this event marks another step in strengthening the connection between BRIX and the vibrant automotive community.
-                                </p>
-                            </div>
-
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/08/04.jpg">
-                                <div class="caption">
-                                    <p>Bright yellow Honda S2000 with widebody kit parked near a fountain.</p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/08/05.jpg">
-                                <div class="caption">
-                                    <p>White Honda City Hatchback at Rides Collective.</p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/08/06.jpg">
-                                <div class="caption">
-                                    <p>Honda S2000 and Honda Prelude side by side.</p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/08/07.jpg">
-                                <div class="caption">
-                                    <p>Lineup of cars at Rides Collective.</p>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -142,7 +138,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -164,7 +160,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -186,7 +182,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/brix-performance-at-campus-auto-contest-2025.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -208,7 +204,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/subaru-crosstrek-by-garasi-drift.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>

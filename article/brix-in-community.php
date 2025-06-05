@@ -43,16 +43,16 @@
                 <div class="article-head">
                     <div class="column">
                         <div class="article-category">
-                            <p>COMPETITION SERIES</p>
+                            <p>EVENTS</p>
                         </div>
                         <h2 class="article-title">
-                            BMW E36 Enhanced.
+                            BRIX in Community: Rides Collective by Brill Hepa Filter.
                         </h2>
                         <h5 class="article-subtitle">
-                            Dominating the Track with BRIX Performance Competition Series.
+                            Building Stronger Automotive Bonds Through Passion, Collaborations, and Local Car Culture.
                         </h5>
                         <div class="date">
-                            <p>April 19, 2025</p>
+                            <p>February 12, 2025</p>
                         </div>
                     </div>
                 </div>
@@ -60,83 +60,71 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/16/header.jpg">
+                                <img src="../assets/images/photos/articles/08/header.jpg">
                             </div>
+
                             <div class="column lg-12 text">
                                 <p>
-                                    When it comes to legendary automotive platforms, the BMW E36 stands as an enthusiast favorite, revered for its agile handling, balanced chassis, and timeless design. Enthusiasts know that while the E36 offers an excellent foundation, true performance lies in the details, particularly braking performance.
-                                </p>
-                                <p>
-                                    Enter the BRIX Performance Competition Series brake system. Specifically engineered for rigorous track conditions, the Competition Series rotors transform this BMW E36 from a spirited road car into a formidable track contender.
+                                    Automotive passion was on full display at Rides Collective on last Sunday, February 9, 2025, as car enthusiasts gathered for a weekend filled with exhilarating drive and community engagement. Starting at Day Night District PIK 2, drivers embarked on a scenic morning ride to Astra Land Indonesia Marketing Gallery at Gatot Subroto, where varieties of automotive showcases awaited. The event accommodated a platform for drivers and fans to connect over their shared love for performance and innovation.
                                 </p>
                             </div>
+
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/16/01.jpg">
+                                <img src="../assets/images/photos/articles/08/01.jpg">
                                 <div class="caption">
-                                    <p>
-                                        Detailed shot highlighting BRIX Performance Competition Series on BMW E36.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-12 text">
-                                <p>
-                                    The BRIX Performance Competition Series is not just another aftermarket brake upgrade; it’s a precision-engineered solution tailored for extreme demands. These rotors feature an advanced design, incorporating optimized venting and superior materials, ensuring effective heat dissipation and exceptional stopping power even under prolonged high-speed usage.
-                                </p>
-                                <p>
-                                    Installed on the BMW E36, these rotors deliver remarkable improvement in braking consistency, reducing fade dramatically and allowing for confident, aggressive driving lap after lap.
-                                </p>
-                            </div>
-
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/16/02.jpg">
-                                <div class="caption">
-                                    <p>
-                                        BMW E36 equipped with Competition Series on Sentul International Circuit.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/16/03.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Front wheel and BRIX Performance Competition Series rotor on BMW E36.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/16/04.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Front quarter view of BMW E36 with BRIX Performance Competition Series rotors.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/16/05.jpg">
-                                <div class="caption">
-                                    <p>
-                                        BMW E36 on track day at Sentul International Circuit.
-                                    </p>
+                                    <p>BMW E36 and Subaru WRX VB displayed at BRIX Performance booth, featuring Street and Competition Series brake systems.</p>
                                 </div>
                             </div>
 
                             <div class="column lg-12 text">
                                 <p>
-                                    The Competition Series is battle-tested in Indonesia's motorsport events like ISSOM and IDS, trusted by top-tier racers and hardcore track enthusiasts alike. The BMW E36 equipped with these rotors benefits from enhanced pedal feel, greater durability, and significantly improved thermal management.
-                                </p>
-                                <p>
-                                    For those seeking the utmost from their BMW E36, upgrading to the BRIX Performance Competition Series isn't just a modification, it's an essential step towards achieving peak track performance.
-                                </p>
-                            </div>
-                            <div class="column lg-12 text where-to-buy">
-                                <p>
-                                    Where to Buy?
-                                </p>
-                                <p>
-                                    Elevate your track day experience with BRIX Performance. Visit our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia</a>, or contact us via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a>, or check our <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">official BRIX Performance partners</a> to secure your upgrade before your next session.
+                                    BRIX Performance was one of key tenants in Rides Collective, with a dedicated booth that showcased the BRIX Competition & Street Series braking solutions. Enthusiasts had the chance to witness the power of BRIX Competition Series in action, particularly on the 2024 Subaru WRX VB and The BMW E36, both equipped with BRIX high-performance. Beyond product presentations, BRIX team engaged with visitors, offering insights into the world of aftermarket performance upgrades.
                                 </p>
                             </div>
 
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/08/02.jpg">
+                                <div class="caption">
+                                    <p>BRIX Performance booth display featuring branded keychains and promotional merchandise.</p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/08/03.jpg">
+                                <div class="caption">
+                                    <p>Close-up of a BRIX Performance drilled and slotted brake rotor.</p>
+                                </div>
+                            </div>
+
+                            <div class="column lg-12 text">
+                                <p>
+                                    Adding to the excitement, BRIX hosted a Spin The Wheel, where participants could win exclusive merchandise and special discounts. The interactive experience drew a large crowd, reinforcing BRIX’s commitment to make high-performance braking solutions more accessible to the community. BRIX Performance will always have a strong dedication to support automotive enthusiasts by providing cutting-edge braking technology and fostering opportunities for learning and networking. The success of this event marks another step in strengthening the connection between BRIX and the vibrant automotive community.
+                                </p>
+                            </div>
+
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/08/04.jpg">
+                                <div class="caption">
+                                    <p>Bright yellow Honda S2000 with widebody kit parked near a fountain.</p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/08/05.jpg">
+                                <div class="caption">
+                                    <p>White Honda City Hatchback at Rides Collective.</p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/08/06.jpg">
+                                <div class="caption">
+                                    <p>Honda S2000 and Honda Prelude side by side.</p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/08/07.jpg">
+                                <div class="caption">
+                                    <p>Lineup of cars at Rides Collective.</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -154,7 +142,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -176,7 +164,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -198,7 +186,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/brix-performance-at-campus-auto-contest-2025.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -220,7 +208,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/subaru-crosstrek-by-garasi-drift.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>

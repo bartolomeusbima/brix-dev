@@ -43,16 +43,16 @@
                 <div class="article-head">
                     <div class="column">
                         <div class="article-category">
-                            <p>STREET SERIES</p>
+                            <p>COMPETITION SERIES</p>
                         </div>
                         <h2 class="article-title">
-                            P2 Women's Drift Challenge 2024 PRO AM Final Round.
+                            Jazz GD3 Garage One.
                         </h2>
                         <h5 class="article-subtitle">
-                            BRIX on Tracks: Street Series at P2 WDC PRO-AM Finals.
+                            Garage One's Honda Jazz GD3 Enhanced with BRIX Competition Series.
                         </h5>
                         <div class="date">
-                            <p>November 7, 2024</p>
+                            <p>October 31, 2024</p>
                         </div>
                     </div>
                 </div>
@@ -60,39 +60,48 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/05/header.jpg">
+                                <img src="../assets/images/photos/articles/04/header.jpg">
                             </div>
 
                             <div class="column lg-12 text">
                                 <p>
-                                    Congratulations to Anindita Hidayat for her incredible performance in the 2024 Indonesia Drift Series! Not only did she secure 2nd place in the WDC Pro Am Final Round, but she was also awarded the prestigious Most Valuable Drifter nomination in the WDC Pro Am category. Anindita’s skill, consistency, and determination have set her apart in this high-stakes competition, where she has proven herself a formidable presence across multiple categories, including both the WDC Pro Am and the intensely competitive PRO 2 class.
-                                </p>
-                                <p>
-                                    Her journey through this season has been nothing short of remarkable. Competing in a predominantly male-dominated sport, especially in the PRO 2 category, Anindita faced numerous challenges but handled each with strength and precision. Her tenacity has shown that gender is no barrier to excellence in drifting, as she held her own against experienced male competitors and showcased her well-honed techniques and strategic driving skills on the track. Her ability to adapt to different situations and maintain focus in high-pressure moments has earned her a well-deserved place on the podium, underscoring her talent and resilience.
+                                    The Honda Jazz, also known as the Honda FIT, has been an automotive legend in Indonesia since 2002. However, what's truly grabbing attention this time is the yellow, Pikachu-themed Honda Jazz GD3, driven by drifter @sara.choi and influencer @edwartanzil from the Garage One team. This car is always in the spotlight, especially when tearing up the track during track days at Sentul Circuit. Despite being around for a long time, the charm of this legendary Jazz never fades—always looking cool and ready for thrilling action at every opportunity!
                                 </p>
                             </div>
 
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/05/01.jpg">
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/05/02.jpg">
+                            <div class="column lg-12 photo">
+                                <img src="../assets/images/photos/articles/04/01.jpg">
+                                <div class="caption">
+                                    <p>Close-up of BRIX Performance Competition Series on Garage One's Jazz GD3.</p>
+                                </div>
                             </div>
 
                             <div class="column lg-12 text">
                                 <p>
-                                    Since the beginning of her drifting career, Anindita has achieved an impressive array of accolades and milestones, quickly rising through the ranks in a sport that demands both technical expertise and a fearless mindset. Driving her Nissan 180SX, she has consistently pushed the boundaries, demonstrating a deep understanding of her car's dynamics and an instinctive feel for the sport. Even with some mechanical issues arising in a few rounds, she managed to navigate these setbacks effectively, often adjusting her driving style mid-race to accommodate for any limitations her car faced. Her skill and adaptability allowed her to continue performing at her best, impressing both fans and fellow competitors alike.
+                                    During track days, braking performance is crucial to achieving the best times. Quick and accurate braking is essential to control the car in corners without losing speed. That’s where the BRIX Performance Competition Series comes in as the ultimate solution. This braking system is designed to deliver maximum braking feel, ideal for racing and track days. The braking setup used includes BRIX Performance Competition Series rotors with Endless ME20 brake pads.
                                 </p>
                                 <p>
-                                    Anindita’s accomplishments this season not only highlight her growth as an athlete but also serve as an inspiration for aspiring drifters, particularly women, showing them that dedication and perseverance can lead to exceptional achievements. Her success in this season of the Indonesia Drift Series is a testament to her passion, hard work, and determination to break new ground in the sport of drifting. We look forward to seeing what more she will accomplish in the future as she continues to make her mark on the drifting scene.
+                                    The @garage.one team has chosen BRIX Performance as their trusted braking partner to deliver the best performance on the track. With BRIX, you can experience safer and more optimal braking every time you hit the track!
                                 </p>
                             </div>
 
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/05/03.jpg">
+                                <img src="../assets/images/photos/articles/04/02.jpg">
+                                <div class="caption">
+                                    <p>Close-up of BRIX Performance Competition Series and Endless Brake Pad on Garage One's Jazz GD3.</p>
+                                </div>
                             </div>
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/05/04.jpg">
+                                <img src="../assets/images/photos/articles/04/03.jpg">
+                                <div class="caption">
+                                    <p>Close-up of BRIX Performance Competition Series and Endless Brake Pad without wheel installed on Garage One's Jazz GD3.</p>
+                                </div>
+                            </div>
+
+                            <div class="column lg-12 text">
+                                <p>
+                                    <b>Specification: </b> Brake Pad Endless, BRIX Competition Series Brake Disc.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -111,7 +120,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -133,7 +142,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -155,7 +164,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/brix-performance-at-campus-auto-contest-2025.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -177,7 +186,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/subaru-crosstrek-by-garasi-drift.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
