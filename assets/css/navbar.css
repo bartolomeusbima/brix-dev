@@ -322,7 +322,7 @@
     max-height: 45px;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1200px) {
 
     .dropdown__wrapper {
         display: none;

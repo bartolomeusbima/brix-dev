@@ -224,6 +224,7 @@
     margin-bottom: 20px;
     padding: 0 var(--gutter);
 }
+
 .filters button {
     margin: 5px;
     padding: 10px 20px;
@@ -237,10 +238,6 @@
 .filters button.active {
     background-color: #333;
     color: white;
-}
-
-.filters .filter-btn {
-    font-family: 'Monument Extended Regular';
 }
 
 .article-card-wrapper.hidden {

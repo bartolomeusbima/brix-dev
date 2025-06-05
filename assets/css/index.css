@@ -835,19 +835,16 @@
 /* --------------------------------------------------------------------
  * # DISTRIBUTORS - BODY
  * -------------------------------------------------------------------- */
-.distributor-body {
+
+.distributor-body-wrapper {
+    margin: 0;
+    padding: 0 calc(var(--gutter)* 2);
     display: flex;
-    align-items: center;
-    padding: 0 0 var(--vspace-1_5) 0;
+    flex-flow: row wrap;
 }
 
-.distributor-map {
-    line-height: 1;
-    color: var(--color-black);
-    padding: 0 calc(var(--gutter) * 2) 0 calc(var(--gutter) * 2);
-    position: relative;
-    font-family: 'Monument Extended Ultra Bold';
-    margin: 0;
+.distributor-body-wrapper .column {
+    margin: 0 0 var(--vspace-0_5) 0;
 }
 
 /* ===================================================================
@@ -873,16 +870,9 @@
     padding: 0 0 var(--vspace-1_5) 0;
 }
 
-.recent-articles-head::before {
-    content: "";
-    position: absolute;
-    width: 100%;
-    height: 100%;
-}
-
 .recent-articles-title {
     line-height: 1;
-    color: var(--color-black);
+    color: var(--color-white);
     padding: 0 0 0 calc(var(--gutter) * 2);
     position: relative;
     font-family: 'Monument Extended Ultra Bold';
@@ -896,14 +886,6 @@
 .recent-articles-body {
     height: fit-content;
 }
-
-/* .recent-articles-body::before {
-    content: "";
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background: var(--color-gray-1);
-} */
 
 .recent-articles-body-wrapper {
     margin: 0;

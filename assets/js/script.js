@@ -41,8 +41,8 @@
 
             link.addEventListener("click", function(event) {
 
-                // at 800px and below
-                if (window.matchMedia('(max-width: 800px)').matches) {
+                // at 1200px and below
+                if (window.matchMedia('(max-width: 1200px)').matches) {
                     toggleButton.classList.toggle('is-clicked');
                     siteBody.classList.toggle('menu-is-open');
                 }
@@ -51,8 +51,8 @@
 
         window.addEventListener('resize', function() {
 
-            // above 800px
-            if (window.matchMedia('(min-width: 801px)').matches) {
+            // above 1200px
+            if (window.matchMedia('(min-width: 1201px)').matches) {
                 if (siteBody.classList.contains('menu-is-open')) siteBody.classList.remove('menu-is-open');
                 if (toggleButton.classList.contains('is-clicked')) toggleButton.classList.remove('is-clicked');
             }
