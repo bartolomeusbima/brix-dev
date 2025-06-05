@@ -1,5 +1,5 @@
 <?php
-    include 'data/distributors.php';
+    include '../data/distributors.php';
 ?>
 
 <!DOCTYPE html>

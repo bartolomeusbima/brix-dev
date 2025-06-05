@@ -1,5 +1,5 @@
 <?php
-require 'db_config.php';
+require 'config/db_config.php';
 header('Content-Type: text/plain');
 
 if (!empty($_POST['email'])) {

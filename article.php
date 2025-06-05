@@ -1,3 +1,7 @@
+<?php
+    require 'data/articles.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en" class="no-js">
     <head>
@@ -59,7 +63,8 @@
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/unleashing-the-evo-6-with-brix-performance-competition-series.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -81,7 +86,8 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -103,7 +109,8 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/brix-performance-at-campus-auto-contest-2025.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/brix-performance-at-campus-auto-contest-2025.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -125,7 +132,8 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/subaru-crosstrek-by-garasi-drift.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/subaru-crosstrek-by-garasi-drift.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -135,7 +143,7 @@
                                     </div>
                                     <div class="recent-articles-caption">
                                         <div class="date">
-                                            <p>April 18, 2025</p>
+                                            <p>April 15, 2025</p>
                                         </div>
                                         <div class="title">
                                             <a>Subaru Crosstrek by Garasi Drift.</a>
@@ -147,7 +155,8 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/bmw-e36-enhanced.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/bmw-e36-enhanced.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -157,7 +166,7 @@
                                     </div>
                                     <div class="recent-articles-caption">
                                         <div class="date">
-                                            <p>April 18, 2025</p>
+                                            <p>April 19, 2025</p>
                                         </div>
                                         <div class="title">
                                             <a>BMW E36 Enhanced.</a>
@@ -169,7 +178,8 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/subaru-wrx-vb-equipped-with-competition-series.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/subaru-wrx-vb-equipped-with-competition-series.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -179,7 +189,7 @@
                                     </div>
                                     <div class="recent-articles-caption">
                                         <div class="date">
-                                            <p>April 18, 2025</p>
+                                            <p>April 1, 2025</p>
                                         </div>
                                         <div class="title">
                                             <a>Subaru WRX VB equipped with Competition Series.</a>
@@ -191,7 +201,8 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/upgrade-your-ford-fiestas-stopping-power-with-street-series.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/upgrade-your-ford-fiestas-stopping-power-with-street-series.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -213,7 +224,8 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/pushing-braking-limits-street-series-rotors-tested-at-sentul-circuit.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/pushing-braking-limits-street-series-rotors-tested-at-sentul-circuit.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -235,7 +247,8 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/honda-city-hatchback-at-sentul-international-circuit.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/honda-city-hatchback-at-sentul-international-circuit.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -257,7 +270,8 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/brix-performance-competition-series-for-honda-city-hatchback.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/brix-performance-competition-series-for-honda-city-hatchback.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -279,7 +293,8 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/brix-performance-street-series-for-mazda-6.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/brix-performance-street-series-for-mazda-6.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -301,7 +316,8 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/the-elite-showcase-2025.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/the-elite-showcase-2025.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENTS</p>
@@ -323,7 +339,8 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/brix-in-community.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/brix-in-community.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENTS</p>
@@ -345,7 +362,8 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/brio-dd1.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/brio-dd1.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -367,7 +385,8 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/mitsubishi-pajero-sport-4n15.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/mitsubishi-pajero-sport-4n15.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -380,7 +399,7 @@
                                             <p>November 21, 2024</p>
                                         </div>
                                         <div class="title">
-                                            <a href="article/mitsubishi-pajero-sport-4n15.php">Mitsubishi Pajero Sport 4N15</a>
+                                            <a>Mitsubishi Pajero Sport 4N15</a>
                                         </div>
                                         <div class="subtitle">
                                             <p>Confidence Drive for Sonny Willim's Mitsubishi Pajero Sport 4N15.</p>
@@ -389,7 +408,8 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/p2-wdc-pro-am-final-round.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/p2-wdc-pro-am-final-round.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -402,7 +422,7 @@
                                             <p>November 7, 2024</p>
                                         </div>
                                         <div class="title">
-                                            <a href="article/p2-wdc-pro-am-final-round.php">P2 Women's Drift Challenge 2024 PRO AM Final Round.</a>
+                                            <a>P2 Women's Drift Challenge 2024 PRO AM Final Round.</a>
                                         </div>
                                         <div class="subtitle">
                                             <p>BRIX on Tracks: Street Series at P2 WDC PRO-AM Finals.</p>
@@ -411,7 +431,8 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/jazz-gd3-garage-one.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/jazz-gd3-garage-one.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -424,7 +445,7 @@
                                             <p>October 31, 2024</p>
                                         </div>
                                         <div class="title">
-                                            <a href="article/jazz-gd3-garage-one.php">Jazz GD3 Garage One</a>
+                                            <a>Jazz GD3 Garage One</a>
                                         </div>
                                         <div class="subtitle">
                                             <p>Garage One's Honda Jazz GD3 Enhanced with BRIX Competition Series.</p>
@@ -433,7 +454,8 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/imx-2024.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-event" onclick="location.href='article/imx-2024.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENTS</p>
@@ -455,7 +477,8 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/vios-siantarman-racing-team-with-brix.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='article/vios-siantarman-racing-team-with-brix.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -477,7 +500,8 @@
                                 </div>
                             </div>
                             
-                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/bmw-e36-with-brix.php'">
+                            <!-- <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-street-series" onclick="location.href='article/bmw-e36-with-brix.php'"> -->
+                            <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-competition-series" onclick="location.href='articles/<?= $article['slug'] ?>">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
