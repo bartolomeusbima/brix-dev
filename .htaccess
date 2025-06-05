@@ -4,8 +4,13 @@ RewriteEngine On
 RewriteCond %{HTTPS} !=on
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
-# ✅ Route clean article URLs to article-loader.php
+# Route clean article URLs to article-loader.php
 RewriteRule ^article/([a-zA-Z0-9\-]+)$ article-loader.php?slug=$1 [L,QSA]
+
+# Clean URL for standard pages using index.php as router
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([a-zA-Z0-9\-]+)$ index.php?page=$1 [L,QSA]
 
 # Remove .php extension
 RewriteCond %{REQUEST_FILENAME} !-d

@@ -6,18 +6,18 @@ $basePath = isset($basePath) ? $basePath : '';
     <div class="menu__bar">
         <div class="menu__block">
             <div class="menu__bar__logo">
-                <a class="logo" href="<?= $basePath ?>index.php">
+                <a class="logo" href="<?= $basePath ?>index">
                     <img src="<?= $basePath ?>assets/images/logos/logo-brix.svg" alt="BRIX Performance Logo">
                 </a>
             </div>
 
-            <a class="menu__bar__toggle" href="<?= $basePath ?>index.php"><span>Menu</span></a>
+            <a class="menu__bar__toggle" href="<?= $basePath ?>index"><span>Menu</span></a>
         </div>
 
         <nav class="menu__navigation">
             <ul class="menu__navigation__page">
-                <li class="list" onclick="location.href='<?= $basePath ?>index.php'">
-                    <button><a href="<?= $basePath ?>index.php" style="text-decoration: none; color: white">Home</a></button>
+                <li class="list" onclick="location.href='<?= $basePath ?>index'">
+                    <button><a href="<?= $basePath ?>index" style="text-decoration: none; color: white">Home</a></button>
                 </li>
 
                 <li class="list products">
@@ -29,7 +29,7 @@ $basePath = isset($basePath) ? $basePath : '';
                     <div class="dropdown__wrapper">
                         <div class="dropdown">
                             <ul class="list-items-with-description">
-                                <a href="<?= $basePath ?>street-series.php">
+                                <a href="<?= $basePath ?>street-series">
                                     <li>
                                         <img src="<?= $basePath ?>assets/images/icons/icon-disc-street.svg" alt="Street">
                                         <div class="item-title">
@@ -38,7 +38,7 @@ $basePath = isset($basePath) ? $basePath : '';
                                         </div>
                                     </li>
                                 </a>
-                                <a href="<?= $basePath ?>competition-series.php">
+                                <a href="<?= $basePath ?>competition-series">
                                     <li>
                                         <img src="<?= $basePath ?>assets/images/icons/icon-disc-competition.svg" alt="Competition">
                                         <div class="item-title">
@@ -53,16 +53,16 @@ $basePath = isset($basePath) ? $basePath : '';
                 </li>
 
                 <!-- Mobile Products -->
-                <a href="<?= $basePath ?>street-series.php" style="text-decoration: none; color: white">
-                    <li class="list products list-mobile-products" onclick="location.href='<?= $basePath ?>street-series.php'">
+                <a href="<?= $basePath ?>street-series" style="text-decoration: none; color: white">
+                    <li class="list products list-mobile-products" onclick="location.href='<?= $basePath ?>street-series'">
                         <button>
                             <img src="<?= $basePath ?>assets/images/icons/icon-disc-street.svg" alt="Street">
                             <a>Street Series</a>
                         </button>
                     </li>
                 </a>
-                <a href="<?= $basePath ?>competition-series.php" style="text-decoration: none; color: white">
-                    <li class="list products list-mobile-products" onclick="location.href='<?= $basePath ?>competition-series.php'">
+                <a href="<?= $basePath ?>competition-series" style="text-decoration: none; color: white">
+                    <li class="list products list-mobile-products" onclick="location.href='<?= $basePath ?>competition-series'">
                         <button>
                             <img src="<?= $basePath ?>assets/images/icons/icon-disc-competition.svg" alt="Competition">
                             <a>Competition Series</a>
@@ -79,7 +79,7 @@ $basePath = isset($basePath) ? $basePath : '';
                     <div class="dropdown__wrapper">
                         <div class="dropdown">
                             <ul class="list-items-with-description">
-                                <a href="<?= $basePath ?>testimony.php">
+                                <a href="<?= $basePath ?>testimony">
                                     <li>
                                         <img src="<?= $basePath ?>assets/images/icons/icon-testimony.svg" alt="Testimony">
                                         <div class="item-title">
@@ -88,7 +88,7 @@ $basePath = isset($basePath) ? $basePath : '';
                                         </div>
                                     </li>
                                 </a>
-                                <a href="<?= $basePath ?>warranty-statement.php">
+                                <a href="<?= $basePath ?>warranty-statement">
                                     <li>
                                         <img src="<?= $basePath ?>assets/images/icons/icon-warranty-statement.svg" alt="Warranty">
                                         <div class="item-title">
@@ -97,7 +97,7 @@ $basePath = isset($basePath) ? $basePath : '';
                                         </div>
                                     </li>
                                 </a>
-                                <a href="<?= $basePath ?>privacy-policy.php">
+                                <a href="<?= $basePath ?>privacy-policy">
                                     <li>
                                         <img src="<?= $basePath ?>assets/images/icons/icon-privacy-policy.svg" alt="Privacy">
                                         <div class="item-title">
@@ -112,24 +112,24 @@ $basePath = isset($basePath) ? $basePath : '';
                 </li>
 
                 <!-- Mobile Info -->
-                <a href="<?= $basePath ?>testimony.php" style="text-decoration: none; color: white">
-                    <li class="list information list-mobile-information" onclick="location.href='<?= $basePath ?>testimony.php'">
+                <a href="<?= $basePath ?>testimony" style="text-decoration: none; color: white">
+                    <li class="list information list-mobile-information" onclick="location.href='<?= $basePath ?>testimony'">
                         <button>
                             <img src="<?= $basePath ?>assets/images/icons/icon-testimony.svg" alt="Testimony">
                             <a>Testimony</a>
                         </button>
                     </li>
                 </a>
-                <a href="<?= $basePath ?>warranty-statement.php" style="text-decoration: none; color: white">
-                    <li class="list information list-mobile-information" onclick="location.href='<?= $basePath ?>warranty-statement.php'">
+                <a href="<?= $basePath ?>warranty-statement" style="text-decoration: none; color: white">
+                    <li class="list information list-mobile-information" onclick="location.href='<?= $basePath ?>warranty-statement'">
                         <button>
                             <img src="<?= $basePath ?>assets/images/icons/icon-warranty-statement.svg" alt="Warranty">
                             <a>Warranty Statement</a>
                         </button>
                     </li>
                 </a>
-                <a href="<?= $basePath ?>privacy-policy.php" style="text-decoration: none; color: white">
-                    <li class="list information list-mobile-information" onclick="location.href='<?= $basePath ?>privacy-policy.php'">
+                <a href="<?= $basePath ?>privacy-policy" style="text-decoration: none; color: white">
+                    <li class="list information list-mobile-information" onclick="location.href='<?= $basePath ?>privacy-policy'">
                         <button>
                             <img src="<?= $basePath ?>assets/images/icons/icon-privacy-policy.svg" alt="Privacy">
                             <a>Privacy Policy</a>
@@ -137,19 +137,19 @@ $basePath = isset($basePath) ? $basePath : '';
                     </li>
                 </a>
 
-                <li class="list" onclick="location.href='<?= $basePath ?>distributors.php'">
+                <li class="list" onclick="location.href='<?= $basePath ?>distributors'">
                     <button>
-                        <a href="<?= $basePath ?>distributors.php" style="text-decoration: none; color: white">Distributors</a>
+                        <a href="<?= $basePath ?>distributors" style="text-decoration: none; color: white">Distributors</a>
                     </button>
                 </li>
-                <li class="list article" onclick="location.href='<?= $basePath ?>article.php'" style="margin-top: 0;">
+                <li class="list article" onclick="location.href='<?= $basePath ?>article'" style="margin-top: 0;">
                     <button>
-                        <a href="<?= $basePath ?>article.php" style="text-decoration: none; color: white">Article</a>
+                        <a href="<?= $basePath ?>article" style="text-decoration: none; color: white">Article</a>
                     </button>
                 </li>
-                <li class="list" onclick="location.href='<?= $basePath ?>warranty-statement.php'">
+                <li class="list" onclick="location.href='<?= $basePath ?>warranty-statement'">
                     <button>
-                        <a href="<?= $basePath ?>warranty-statement.php" style="text-decoration: none; color: white">Warranty Statement</a>
+                        <a href="<?= $basePath ?>warranty-statement" style="text-decoration: none; color: white">Warranty Statement</a>
                     </button>
                 </li>
             </ul>
