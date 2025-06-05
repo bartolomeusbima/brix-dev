@@ -1,5 +1,5 @@
 <?php
-$page = $_GET['page'] ?? 'home';
+$page = $_GET['page'] ?? 'index';
 $file = __DIR__ . "/pages/{$page}.php";
 
 if (file_exists($file)) {
