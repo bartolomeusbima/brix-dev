@@ -39,8 +39,8 @@
         <div class="s-pagewrap">
 
             <?php
-                $basePath = '/';
-                include '../templates/navbar.php';
+                $basePath = '';
+                include 'templates/navbar.php';
             ?>
 
             <section class="article">
