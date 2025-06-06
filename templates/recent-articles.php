@@ -1,7 +1,7 @@
 <?php
 // Auto-adjust base path BEFORE loading anything
 $scriptPath = $_SERVER['SCRIPT_NAME'];
-$basePath = (__DIR__, '/articles/') !== false) ? '../' : '';
+$basePath = (strpos(__DIR__, '/articles/') !== false) ? '../' : '';
 
 // Now load articles safely
 require_once $basePath . 'data/articles.php';
