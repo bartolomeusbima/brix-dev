@@ -1,5 +1,6 @@
 <?php
-$basePath = isset($basePath) ? $basePath : '';
+// $basePath = isset($basePath) ? $basePath : '';
+$basePath = $basePath ?? '';
 ?>
 
 <header class="menu__wrapper">
