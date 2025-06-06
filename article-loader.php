@@ -8,7 +8,7 @@ $articleMeta = null;
 // Find article with matching slug
 foreach ($articles as $article) {
     if ($article['slug'] === $slug) {
-        $articleFile = $article['path'];
+        $articleFile = $article['path'] . '.php' ;
         $articleMeta = $article;
         break;
     }
