@@ -1,5 +1,4 @@
 <?php
-// $basePath = isset($basePath) ? $basePath : '';
 $basePath = $basePath ?? '';
 ?>
 
