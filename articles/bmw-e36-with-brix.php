@@ -50,7 +50,7 @@
                             <p>STREET SERIES</p>
                         </div>
                         <h2 class="article-title">
-                            BMW E36 With BRIX.
+                            BMW E36 With BRIXX.
                         </h2>
                         <h5 class="article-subtitle">
                             Street-Ready Braking Upgrade for BMW Enthusiasts.
