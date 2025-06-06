@@ -40,7 +40,7 @@
 
             <?php
                 $basePath = '/';
-                include '../templates/navbar.php';
+                include '/templates/navbar.php';
             ?>
 
             <section class="article">
@@ -228,7 +228,7 @@
 
             <?php
                 $basePath = '/';
-                include '../templates/footer.php';
+                include '/templates/footer.php';
             ?>
         
         </div>
