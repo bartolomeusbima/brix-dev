@@ -36,7 +36,7 @@
 
             <?php
                 $basePath = '../';
-                include $_SERVER['DOCUMENT_ROOT'] . '/templates/navbar.php';
+                include '../templates/navbar.php';
             ?>
 
             <section class="article">
