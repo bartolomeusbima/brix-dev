@@ -6,41 +6,41 @@ $basePath = $basePath ?? '';
     <div class="menu__bar">
         <div class="menu__block">
             <div class="menu__bar__logo">
-                <a class="logo" href="<?= $basePath ?>index">
-                    <img src="<?= $basePath ?>assets/images/logos/logo-brix.svg" alt="BRIX Performance Logo">
+                <a class="logo" href="/index">
+                    <img src="/assets/images/logos/logo-brix.svg" alt="BRIX Performance Logo">
                 </a>
             </div>
 
-            <a class="menu__bar__toggle" href="<?= $basePath ?>index"><span>Menu</span></a>
+            <a class="menu__bar__toggle" href="/index"><span>Menu</span></a>
         </div>
 
         <nav class="menu__navigation">
             <ul class="menu__navigation__page">
-                <li class="list" onclick="location.href='<?= $basePath ?>index'">
-                    <button><a href="<?= $basePath ?>index" style="text-decoration: none; color: white">Home</a></button>
+                <li class="list" onclick="location.href='/index'">
+                    <button><a href="/index" style="text-decoration: none; color: white">Home</a></button>
                 </li>
 
                 <li class="list products">
                     <button class="btn-products">
                         <a>Products</a>
-                        <img src="<?= $basePath ?>assets/images/icons/icon-arrow.svg" alt="Arrow">
+                        <img src="/assets/images/icons/icon-arrow.svg" alt="Arrow">
                     </button>
-                    <img src="<?= $basePath ?>assets/images/icons/icon-arrow.svg" class="mobile-arrow-products">
+                    <img src="/assets/images/icons/icon-arrow.svg" class="mobile-arrow-products">
                     <div class="dropdown__wrapper">
                         <div class="dropdown">
                             <ul class="list-items-with-description">
-                                <a href="<?= $basePath ?>street-series">
+                                <a href="/street-series">
                                     <li>
-                                        <img src="<?= $basePath ?>assets/images/icons/icon-disc-street.svg" alt="Street">
+                                        <img src="/assets/images/icons/icon-disc-street.svg" alt="Street">
                                         <div class="item-title">
                                             <div class="item-subtitle">Street Series</div>
                                             <p>Better Cooling. Daily Confidence.</p>
                                         </div>
                                     </li>
                                 </a>
-                                <a href="<?= $basePath ?>competition-series">
+                                <a href="/competition-series">
                                     <li>
-                                        <img src="<?= $basePath ?>assets/images/icons/icon-disc-competition.svg" alt="Competition">
+                                        <img src="/assets/images/icons/icon-disc-competition.svg" alt="Competition">
                                         <div class="item-title">
                                             <div class="item-subtitle">Competition Series</div>
                                             <p>Track-Proven. Maximum Durability.</p>
@@ -53,18 +53,18 @@ $basePath = $basePath ?? '';
                 </li>
 
                 <!-- Mobile Products -->
-                <a href="<?= $basePath ?>street-series" style="text-decoration: none; color: white">
-                    <li class="list products list-mobile-products" onclick="location.href='<?= $basePath ?>street-series'">
+                <a href="/street-series" style="text-decoration: none; color: white">
+                    <li class="list products list-mobile-products" onclick="location.href='/street-series'">
                         <button>
-                            <img src="<?= $basePath ?>assets/images/icons/icon-disc-street.svg" alt="Street">
+                            <img src="/assets/images/icons/icon-disc-street.svg" alt="Street">
                             <a>Street Series</a>
                         </button>
                     </li>
                 </a>
-                <a href="<?= $basePath ?>competition-series" style="text-decoration: none; color: white">
-                    <li class="list products list-mobile-products" onclick="location.href='<?= $basePath ?>competition-series'">
+                <a href="/competition-series" style="text-decoration: none; color: white">
+                    <li class="list products list-mobile-products" onclick="location.href='/competition-series'">
                         <button>
-                            <img src="<?= $basePath ?>assets/images/icons/icon-disc-competition.svg" alt="Competition">
+                            <img src="/assets/images/icons/icon-disc-competition.svg" alt="Competition">
                             <a>Competition Series</a>
                         </button>
                     </li>
@@ -73,33 +73,33 @@ $basePath = $basePath ?? '';
                 <li class="list information">
                     <button class="btn-information">
                         <a>Informations</a>
-                        <img src="<?= $basePath ?>assets/images/icons/icon-arrow.svg" alt="Arrow">
+                        <img src="/assets/images/icons/icon-arrow.svg" alt="Arrow">
                     </button>
-                    <img src="<?= $basePath ?>assets/images/icons/icon-arrow.svg" class="mobile-arrow-information">
+                    <img src="/assets/images/icons/icon-arrow.svg" class="mobile-arrow-information">
                     <div class="dropdown__wrapper">
                         <div class="dropdown">
                             <ul class="list-items-with-description">
-                                <a href="<?= $basePath ?>testimony">
+                                <a href="/testimony">
                                     <li>
-                                        <img src="<?= $basePath ?>assets/images/icons/icon-testimony.svg" alt="Testimony">
+                                        <img src="/assets/images/icons/icon-testimony.svg" alt="Testimony">
                                         <div class="item-title">
                                             <div class="item-subtitle">Testimony</div>
                                             <p>Customer's testimony</p>
                                         </div>
                                     </li>
                                 </a>
-                                <a href="<?= $basePath ?>warranty-statement">
+                                <a href="/warranty-statement">
                                     <li>
-                                        <img src="<?= $basePath ?>assets/images/icons/icon-warranty-statement.svg" alt="Warranty">
+                                        <img src="/assets/images/icons/icon-warranty-statement.svg" alt="Warranty">
                                         <div class="item-title">
                                             <div class="item-subtitle">Warranty Statement</div>
                                             <p>Read our warranty statement</p>
                                         </div>
                                     </li>
                                 </a>
-                                <a href="<?= $basePath ?>privacy-policy">
+                                <a href="/privacy-policy">
                                     <li>
-                                        <img src="<?= $basePath ?>assets/images/icons/icon-privacy-policy.svg" alt="Privacy">
+                                        <img src="/assets/images/icons/icon-privacy-policy.svg" alt="Privacy">
                                         <div class="item-title">
                                             <div class="item-subtitle">Privacy Policy</div>
                                             <p>Read our privacy policy</p>
@@ -112,44 +112,44 @@ $basePath = $basePath ?? '';
                 </li>
 
                 <!-- Mobile Info -->
-                <a href="<?= $basePath ?>testimony" style="text-decoration: none; color: white">
-                    <li class="list information list-mobile-information" onclick="location.href='<?= $basePath ?>testimony'">
+                <a href="/testimony" style="text-decoration: none; color: white">
+                    <li class="list information list-mobile-information" onclick="location.href='/testimony'">
                         <button>
-                            <img src="<?= $basePath ?>assets/images/icons/icon-testimony.svg" alt="Testimony">
+                            <img src="/assets/images/icons/icon-testimony.svg" alt="Testimony">
                             <a>Testimony</a>
                         </button>
                     </li>
                 </a>
-                <a href="<?= $basePath ?>warranty-statement" style="text-decoration: none; color: white">
-                    <li class="list information list-mobile-information" onclick="location.href='<?= $basePath ?>warranty-statement'">
+                <a href="/warranty-statement" style="text-decoration: none; color: white">
+                    <li class="list information list-mobile-information" onclick="location.href='/warranty-statement'">
                         <button>
-                            <img src="<?= $basePath ?>assets/images/icons/icon-warranty-statement.svg" alt="Warranty">
+                            <img src="/assets/images/icons/icon-warranty-statement.svg" alt="Warranty">
                             <a>Warranty Statement</a>
                         </button>
                     </li>
                 </a>
-                <a href="<?= $basePath ?>privacy-policy" style="text-decoration: none; color: white">
-                    <li class="list information list-mobile-information" onclick="location.href='<?= $basePath ?>privacy-policy'">
+                <a href="/privacy-policy" style="text-decoration: none; color: white">
+                    <li class="list information list-mobile-information" onclick="location.href='/privacy-policy'">
                         <button>
-                            <img src="<?= $basePath ?>assets/images/icons/icon-privacy-policy.svg" alt="Privacy">
+                            <img src="/assets/images/icons/icon-privacy-policy.svg" alt="Privacy">
                             <a>Privacy Policy</a>
                         </button>
                     </li>
                 </a>
 
-                <li class="list" onclick="location.href='<?= $basePath ?>distributors'">
+                <li class="list" onclick="location.href='/distributors'">
                     <button>
-                        <a href="<?= $basePath ?>distributors" style="text-decoration: none; color: white">Distributors</a>
+                        <a href="/distributors" style="text-decoration: none; color: white">Distributors</a>
                     </button>
                 </li>
-                <li class="list article" onclick="location.href='<?= $basePath ?>articles'" style="margin-top: 0;">
+                <li class="list article" onclick="location.href='/articles'" style="margin-top: 0;">
                     <button>
-                        <a href="<?= $basePath ?>articles" style="text-decoration: none; color: white">Article</a>
+                        <a href="/articles" style="text-decoration: none; color: white">Article</a>
                     </button>
                 </li>
-                <li class="list" onclick="location.href='<?= $basePath ?>warranty-statement'">
+                <li class="list" onclick="location.href='/warranty-statement'">
                     <button>
-                        <a href="<?= $basePath ?>warranty-statement" style="text-decoration: none; color: white">Warranty Statement</a>
+                        <a href="/warranty-statement" style="text-decoration: none; color: white">Warranty Statement</a>
                     </button>
                 </li>
             </ul>

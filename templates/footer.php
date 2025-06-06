@@ -35,7 +35,7 @@ $basePath = isset($basePath) ? $basePath : '';
                         <div id="form-fields">
                             <input type="email" name="email" id="newsletter-email" class="u-fullwidth text-center" style="width: 75%;" placeholder="Your Email" required>
                             <button type="submit" class="btn btn--primary u-fullwidth subscribe-button" style="width: 25%;">
-                                <img src="<?= $basePath ?>assets/images/icons/icon-arrow.svg" alt="Subscribe" style="transform: rotate(-90deg); height: 25px;">
+                                <img src="/assets/images/icons/icon-arrow.svg" alt="Subscribe" style="transform: rotate(-90deg); height: 25px;">
                             </button>
                         </div>
                         <p id="thank-you-msg" class="footer-subtitle" style="display: none; margin-top: 1rem;">Thanks for subscribing!</p>

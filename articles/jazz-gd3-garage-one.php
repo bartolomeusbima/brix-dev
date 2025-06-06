@@ -1,7 +1,3 @@
-<?php
-    $basePath = '/';
-?>
-
 <!DOCTYPE html>
 <html lang="en" class="no-js">
     <head>
@@ -24,12 +20,12 @@
             gtag('config', 'G-JYYS6CNFN8');
         </script>
 
-        <link rel="stylesheet"href="<?= $basePath ?>assets/css/root.css">
-        <link rel="stylesheet"href="<?= $basePath ?>assets/css/style.css">
-        <link rel="stylesheet"href="<?= $basePath ?>assets/css/navbar.css">
-        <link rel="stylesheet"href="<?= $basePath ?>assets/css/article-page.css">
-        <link rel="stylesheet"href="<?= $basePath ?>assets/css/footer.css">
-        <link rel="stylesheet"href="<?= $basePath ?>assets/vendor/css/vendor.css">
+        <link rel="stylesheet"href="/assets/css/root.css">
+        <link rel="stylesheet"href="/assets/css/style.css">
+        <link rel="stylesheet"href="/assets/css/navbar.css">
+        <link rel="stylesheet"href="/assets/css/article-page.css">
+        <link rel="stylesheet"href="/assets/css/footer.css">
+        <link rel="stylesheet"href="/assets/vendor/css/vendor.css">
     </head>
     <body>
         <div id="preloader">
@@ -40,7 +36,7 @@
 
             <?php
                 $basePath = '/';
-                include '/templates/navbar.php';
+                include $_SERVER['DOCUMENT_ROOT'] . '/templates/navbar.php';
             ?>
 
             <section class="article">
@@ -218,7 +214,7 @@
 
             <?php
                 $basePath = '/';
-                include '/templates/footer.php';
+                include $_SERVER['DOCUMENT_ROOT'] . '/templates/footer.php';
             ?>
         
         </div>
