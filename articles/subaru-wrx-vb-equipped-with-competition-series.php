@@ -176,9 +176,7 @@
                 
             </section>
 
-            <?php 
-                include __DIR__ . '/../templates/recent-articles.php'; 
-            ?>
+            
 
             <!-- <section class="recent-articles">
                 <div class="recent-articles-head">
