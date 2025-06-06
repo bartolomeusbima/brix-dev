@@ -3,10 +3,10 @@
 $scriptPath = $_SERVER['SCRIPT_NAME'];
 $basePath = (strpos(__DIR__, '/articles/') !== false) ? '../' : '';
 
-// Now load articles safely
+// Load article data
 require_once $basePath . 'data/articles.php';
 
-// Filter articles
+// Filter logic
 $filterCategory = $filterCategory ?? null;
 $recentArticles = [];
 
@@ -16,13 +16,17 @@ foreach ($articles as $article) {
     }
     if (count($recentArticles) === 4) break;
 }
+
+// Determine title: "RECENT ARTICLES" or "RELATED ARTICLES"
+$isRelated = in_array($filterCategory, ['competition-series', 'street-series']);
+$title = $isRelated ? 'RELATED ARTICLES' : 'RECENT ARTICLES';
 ?>
 
 <section class="recent-articles">
     <div class="recent-articles-head">
         <div class="column">
             <h1 class="recent-articles-title">
-                RECENT ARTICLES
+                <?= $title ?>
             </h1>
         </div>
     </div>
