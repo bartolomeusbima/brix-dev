@@ -176,8 +176,9 @@
                 
             </section>
 
-            <?php 
-                include 'templates/recent-articles.php'; 
+            <?php
+                $basePath = '/';
+                include $_SERVER['DOCUMENT_ROOT'] . '/templates/recent-articles.php';
             ?>
 
             <!-- <section class="recent-articles">
