@@ -40,7 +40,7 @@
 
             <?php
                 $basePath = '/';
-                include '/templates/navbar.php';
+                include '../templates/navbar.php';
             ?>
 
             <section class="article">
