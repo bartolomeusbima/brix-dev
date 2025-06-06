@@ -74,7 +74,7 @@
                                         </div>
                                         <div class="recent-articles-caption">
                                             <div class="date">
-                                                <p><?= $article['date'] ?></p>
+                                                <p><?= date('M d, Y', strtotime($article['date'])) ?></p>
                                             </div>
                                             <div class="title">
                                                 <a><?= $article['title'] ?></a>
