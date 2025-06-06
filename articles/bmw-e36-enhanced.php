@@ -20,23 +20,23 @@
             gtag('config', 'G-JYYS6CNFN8');
         </script>
 
-        <link rel="stylesheet" href="../assets/css/root.css">
-        <link rel="stylesheet" href="../assets/css/style.css">
-        <link rel="stylesheet" href="../assets/css/navbar.css">
-        <link rel="stylesheet" href="../assets/css/article-page.css">
-        <link rel="stylesheet" href="../assets/css/footer.css">
-        <link rel="stylesheet" href="../assets/vendor/css/vendor.css">
+        <link rel="stylesheet" href="/assets/css/root.css">
+        <link rel="stylesheet" href="/assets/css/style.css">
+        <link rel="stylesheet" href="/assets/css/navbar.css">
+        <link rel="stylesheet" href="/assets/css/article-page.css">
+        <link rel="stylesheet" href="/assets/css/footer.css">
+        <link rel="stylesheet" href="/assets/vendor/css/vendor.css">
     </head>
     <body>
         <div id="preloader">
-            <img src="../assets/images/gifs/preloader.gif" alt="Loading..." id="loader">
+            <img src="/assets/images/gifs/preloader.gif" alt="Loading..." id="loader">
         </div>
 
         <div class="s-pagewrap">
 
             <?php
-                $basePath = '../';
-                include '../templates/navbar.php';
+                $basePath = '/';
+                include $_SERVER['DOCUMENT_ROOT'] . '/templates/navbar.php';
             ?>
 
             <section class="article">
@@ -60,7 +60,7 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/16/header.jpg">
+                                <img src="/assets/images/photos/articles/16/header.jpg">
                             </div>
                             <div class="column lg-12 text">
                                 <p>
@@ -71,7 +71,7 @@
                                 </p>
                             </div>
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/16/01.jpg">
+                                <img src="/assets/images/photos/articles/16/01.jpg">
                                 <div class="caption">
                                     <p>
                                         Detailed shot highlighting BRIX Performance Competition Series on BMW E36.
@@ -88,7 +88,7 @@
                             </div>
 
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/16/02.jpg">
+                                <img src="/assets/images/photos/articles/16/02.jpg">
                                 <div class="caption">
                                     <p>
                                         BMW E36 equipped with Competition Series on Sentul International Circuit.
@@ -96,7 +96,7 @@
                                 </div>
                             </div>
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/16/03.jpg">
+                                <img src="/assets/images/photos/articles/16/03.jpg">
                                 <div class="caption">
                                     <p>
                                         Front wheel and BRIX Performance Competition Series rotor on BMW E36.
@@ -104,7 +104,7 @@
                                 </div>
                             </div>
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/16/04.jpg">
+                                <img src="/assets/images/photos/articles/16/04.jpg">
                                 <div class="caption">
                                     <p>
                                         Front quarter view of BMW E36 with BRIX Performance Competition Series rotors.
@@ -112,7 +112,7 @@
                                 </div>
                             </div>
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/16/05.jpg">
+                                <img src="/assets/images/photos/articles/16/05.jpg">
                                 <div class="caption">
                                     <p>
                                         BMW E36 on track day at Sentul International Circuit.
@@ -160,7 +160,7 @@
                                         <p>COMPETITION SERIES</p>
                                     </div>
                                     <div class="recent-articles-img">
-                                        <img src="../assets/images/photos/articles/20/header.jpg" alt="">
+                                        <img src="/assets/images/photos/articles/20/header.jpg" alt="">
                                     </div>
                                     <div class="recent-articles-caption">
                                         <div class="date">
@@ -182,7 +182,7 @@
                                         <p>STREET SERIES</p>
                                     </div>
                                     <div class="recent-articles-img">
-                                        <img src="../assets/images/photos/articles/19/header.jpg" alt="">
+                                        <img src="/assets/images/photos/articles/19/header.jpg" alt="">
                                     </div>
                                     <div class="recent-articles-caption">
                                         <div class="date">
@@ -204,7 +204,7 @@
                                         <p>EVENT</p>
                                     </div>
                                     <div class="recent-articles-img">
-                                        <img src="../assets/images/photos/articles/18/header.jpg" alt="">
+                                        <img src="/assets/images/photos/articles/18/header.jpg" alt="">
                                     </div>
                                     <div class="recent-articles-caption">
                                         <div class="date">
@@ -226,7 +226,7 @@
                                         <p>STREET SERIES</p>
                                     </div>
                                     <div class="recent-articles-img">
-                                        <img src="../assets/images/photos/articles/17/header.jpg" alt="">
+                                        <img src="/assets/images/photos/articles/17/header.jpg" alt="">
                                     </div>
                                     <div class="recent-articles-caption">
                                         <div class="date">
@@ -253,8 +253,8 @@
         
         </div>
 
-        <script src="../assets/vendor/js/plugins.js"></script>
-        <script src="../assets/js/script.js"></script>
+        <script src="/assets/vendor/js/plugins.js"></script>
+        <script src="/assets/js/script.js"></script>
         
         <script>
             document.addEventListener("DOMContentLoaded", function () {

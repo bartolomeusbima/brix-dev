@@ -20,23 +20,23 @@
             gtag('config', 'G-JYYS6CNFN8');
         </script>
 
-        <link rel="stylesheet" href="../assets/css/root.css">
-        <link rel="stylesheet" href="../assets/css/style.css">
-        <link rel="stylesheet" href="../assets/css/navbar.css">
-        <link rel="stylesheet" href="../assets/css/article-page.css">
-        <link rel="stylesheet" href="../assets/css/footer.css">
-        <link rel="stylesheet" href="../assets/vendor/css/vendor.css">
+        <link rel="stylesheet" href="/assets/css/root.css">
+        <link rel="stylesheet" href="/assets/css/style.css">
+        <link rel="stylesheet" href="/assets/css/navbar.css">
+        <link rel="stylesheet" href="/assets/css/article-page.css">
+        <link rel="stylesheet" href="/assets/css/footer.css">
+        <link rel="stylesheet" href="/assets/vendor/css/vendor.css">
     </head>
     <body>
         <div id="preloader">
-            <img src="../assets/images/gifs/preloader.gif" alt="Loading..." id="loader">
+            <img src="/assets/images/gifs/preloader.gif" alt="Loading..." id="loader">
         </div>
 
         <div class="s-pagewrap">
 
             <?php
                 $basePath = '../';
-                include '../templates/navbar.php';
+                include $_SERVER['DOCUMENT_ROOT'] . '/templates/navbar.php';
             ?>
 
             <section class="article">
@@ -60,7 +60,7 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/19/header.jpg">
+                                <img src="/assets/images/photos/articles/19/header.jpg">
                             </div>
                             <div class="column lg-12 text">
                                 <p>
@@ -71,7 +71,7 @@
                                 </p>
                             </div>
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/19/01.jpg">
+                                <img src="/assets/images/photos/articles/19/01.jpg">
                                 <div class="caption">
                                     <p>
                                         BRIX Performance Street Series on Honda City Hatchback.
@@ -96,13 +96,13 @@
                             </div>
 
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/19/02.jpg">
+                                <img src="/assets/images/photos/articles/19/02.jpg">
                                 <div class="caption">
                                     <p>lose-up of BRIX Performance Street Series brake rotor installed on Honda City Hatchback.</p>
                                 </div>
                             </div>
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/19/03.jpg">
+                                <img src="/assets/images/photos/articles/19/03.jpg">
                                 <div class="caption">
                                     <p>Rear shot of Honda City Hatchback.</p>
                                 </div>
@@ -139,7 +139,7 @@
                                         <p>COMPETITION SERIES</p>
                                     </div>
                                     <div class="recent-articles-img">
-                                        <img src="../assets/images/photos/articles/20/header.jpg" alt="">
+                                        <img src="/assets/images/photos/articles/20/header.jpg" alt="">
                                     </div>
                                     <div class="recent-articles-caption">
                                         <div class="date">
@@ -161,7 +161,7 @@
                                         <p>STREET SERIES</p>
                                     </div>
                                     <div class="recent-articles-img">
-                                        <img src="../assets/images/photos/articles/19/header.jpg" alt="">
+                                        <img src="/assets/images/photos/articles/19/header.jpg" alt="">
                                     </div>
                                     <div class="recent-articles-caption">
                                         <div class="date">
@@ -183,7 +183,7 @@
                                         <p>EVENT</p>
                                     </div>
                                     <div class="recent-articles-img">
-                                        <img src="../assets/images/photos/articles/18/header.jpg" alt="">
+                                        <img src="/assets/images/photos/articles/18/header.jpg" alt="">
                                     </div>
                                     <div class="recent-articles-caption">
                                         <div class="date">
@@ -205,7 +205,7 @@
                                         <p>STREET SERIES</p>
                                     </div>
                                     <div class="recent-articles-img">
-                                        <img src="../assets/images/photos/articles/17/header.jpg" alt="">
+                                        <img src="/assets/images/photos/articles/17/header.jpg" alt="">
                                     </div>
                                     <div class="recent-articles-caption">
                                         <div class="date">
@@ -232,8 +232,8 @@
         
         </div>
 
-        <script src="../assets/vendor/js/plugins.js"></script>
-        <script src="../assets/js/script.js"></script>
+        <script src="/assets/vendor/js/plugins.js"></script>
+        <script src="/assets/js/script.js"></script>
         
         <script>
             document.addEventListener("DOMContentLoaded", function () {

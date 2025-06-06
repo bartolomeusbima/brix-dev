@@ -20,23 +20,23 @@
             gtag('config', 'G-JYYS6CNFN8');
         </script>
 
-        <link rel="stylesheet" href="../assets/css/root.css">
-        <link rel="stylesheet" href="../assets/css/style.css">
-        <link rel="stylesheet" href="../assets/css/navbar.css">
-        <link rel="stylesheet" href="../assets/css/article-page.css">
-        <link rel="stylesheet" href="../assets/css/footer.css">
-        <link rel="stylesheet" href="../assets/vendor/css/vendor.css">
+        <link rel="stylesheet" href="/assets/css/root.css">
+        <link rel="stylesheet" href="/assets/css/style.css">
+        <link rel="stylesheet" href="/assets/css/navbar.css">
+        <link rel="stylesheet" href="/assets/css/article-page.css">
+        <link rel="stylesheet" href="/assets/css/footer.css">
+        <link rel="stylesheet" href="/assets/vendor/css/vendor.css">
     </head>
     <body>
         <div id="preloader">
-            <img src="../assets/images/gifs/preloader.gif" alt="Loading..." id="loader">
+            <img src="/assets/images/gifs/preloader.gif" alt="Loading..." id="loader">
         </div>
 
         <div class="s-pagewrap">
 
             <?php
                 $basePath = '../';
-                include '../templates/navbar.php';
+                include $_SERVER['DOCUMENT_ROOT'] . '/templates/navbar.php';
             ?>
 
             <section class="article">
@@ -60,7 +60,7 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/18/header.jpg">
+                                <img src="/assets/images/photos/articles/18/header.jpg">
                             </div>
                             <div class="column lg-12 text">
                                 <p>
@@ -72,7 +72,7 @@
                             </div>
                             
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/18/01.jpg">
+                                <img src="/assets/images/photos/articles/18/01.jpg">
                                 <div class="caption">
                                     <p>
                                         BMW M4 parked at QBIG BSD as one of the participant of Campus Auto Contest 2025.
@@ -80,7 +80,7 @@
                                 </div>
                             </div>
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/18/02.jpg">
+                                <img src="/assets/images/photos/articles/18/02.jpg">
                                 <div class="caption">
                                     <p>
                                         BRIX Performance booth display featuring Street and Competition Series rotors with spin-the-wheel giveaway.
@@ -88,7 +88,7 @@
                                 </div>
                             </div>
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/18/03.jpg">
+                                <img src="/assets/images/photos/articles/18/03.jpg">
                                 <div class="caption">
                                     <p>
                                         Close-up of BRIX Performance merchandise, stickers, and product catalogues at our booth.
@@ -96,7 +96,7 @@
                                 </div>
                             </div>
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/18/04.jpg">
+                                <img src="/assets/images/photos/articles/18/04.jpg">
                                 <div class="caption">
                                     <p>
                                         Rear view of modified cars at Campus Auto Contest 2025 hosted at QBIG BSD.
@@ -136,7 +136,7 @@
                                         <p>COMPETITION SERIES</p>
                                     </div>
                                     <div class="recent-articles-img">
-                                        <img src="../assets/images/photos/articles/20/header.jpg" alt="">
+                                        <img src="/assets/images/photos/articles/20/header.jpg" alt="">
                                     </div>
                                     <div class="recent-articles-caption">
                                         <div class="date">
@@ -158,7 +158,7 @@
                                         <p>STREET SERIES</p>
                                     </div>
                                     <div class="recent-articles-img">
-                                        <img src="../assets/images/photos/articles/19/header.jpg" alt="">
+                                        <img src="/assets/images/photos/articles/19/header.jpg" alt="">
                                     </div>
                                     <div class="recent-articles-caption">
                                         <div class="date">
@@ -180,7 +180,7 @@
                                         <p>EVENT</p>
                                     </div>
                                     <div class="recent-articles-img">
-                                        <img src="../assets/images/photos/articles/18/header.jpg" alt="">
+                                        <img src="/assets/images/photos/articles/18/header.jpg" alt="">
                                     </div>
                                     <div class="recent-articles-caption">
                                         <div class="date">
@@ -202,7 +202,7 @@
                                         <p>STREET SERIES</p>
                                     </div>
                                     <div class="recent-articles-img">
-                                        <img src="../assets/images/photos/articles/17/header.jpg" alt="">
+                                        <img src="/assets/images/photos/articles/17/header.jpg" alt="">
                                     </div>
                                     <div class="recent-articles-caption">
                                         <div class="date">
@@ -229,8 +229,8 @@
         
         </div>
 
-        <script src="../assets/vendor/js/plugins.js"></script>
-        <script src="../assets/js/script.js"></script>
+        <script src="/assets/vendor/js/plugins.js"></script>
+        <script src="/assets/js/script.js"></script>
         
         <script>
             document.addEventListener("DOMContentLoaded", function () {
