@@ -121,7 +121,7 @@
             </section>
 
             <?php 
-                include 'templates/recent-articles.php'; 
+                include '../templates/recent-articles.php'; 
             ?>
 
             <!-- <section class="recent-articles">
