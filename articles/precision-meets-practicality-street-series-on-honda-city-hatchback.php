@@ -113,7 +113,7 @@
                                     For Honda City Hatchback owners looking to elevate their braking system without jumping into full track-spec territory, this is the smart choice. It’s the right upgrade that makes your daily car feel sharper, safer, and simply more fun to drive.
                                 </p>
                                 <p>
-                                    Are you looking to equip your Honda City Hatchback with BRIX Performance Street Series? You can find our products through our network of <a href="/distributors" target="_blank" rel="noopener noreferrer">Official Distributors</a> across Indonesia, or shop conveniently via our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia Store</a>. Need help choosing the right setup? Chat with us directly for a free consultation on <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp</a>, our team is ready to assist you.
+                                    Are you looking to equip your Honda City Hatchback with BRIX Performance Street Series? You can find our products through our network of <a href="/distributors">Official Distributors</a> across Indonesia, or shop conveniently via our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia Store</a>. Need help choosing the right setup? Chat with us directly for a free consultation on <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp</a>, our team is ready to assist you.
                                 </p>
                             </div>
                         </div>

@@ -84,7 +84,7 @@
                                     The BRIX Performance Street Series is a perfect fit for your Fiesta, ensuring easy installation and immediate improvements. Whether you're zipping through city traffic or attacking corners on the weekend, you’ll feel the difference right away.
                                 </p>
                                 <p>
-                                    Upgrade Your car’s stopping power. Connect with our <a href="/distributors" target="_blank" rel="noopener noreferrer">official BRIX Performance partners</a>, reach out via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a>, or visit our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia Store</a> to equip your Ford Fiesta with the stopping power it truly deserves.
+                                    Upgrade Your car’s stopping power. Connect with our <a href="/distributors">official BRIX Performance partners</a>, reach out via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a>, or visit our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia Store</a> to equip your Ford Fiesta with the stopping power it truly deserves.
                                 </p>
                             </div>
 
