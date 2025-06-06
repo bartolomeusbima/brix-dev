@@ -143,7 +143,11 @@
                 
             </section>
 
-            <section class="recent-articles">
+            <?php 
+                include 'templates/recent-articles.php'; 
+            ?>
+
+            <!-- <section class="recent-articles">
                 <div class="recent-articles-head">
                     <div class="column">
                         <h1 class="recent-articles-title">
@@ -244,7 +248,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
 
             <?php
                 $basePath = '/';
