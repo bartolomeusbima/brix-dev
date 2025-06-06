@@ -8,7 +8,7 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 RewriteRule ^articles/([a-zA-Z0-9\-]+)$ article-loader.php?slug=$1 [L,QSA]
 
 # Route clean article URLs to article-loader.php
-RewriteRule ^articles/([a-zA-Z0-9\-]+)$ article-loader.php?slug=$1 [L,QSA]
+RewriteRule ^articles$ index.php?page=articles [L,QSA]
 
 # Clean URL for standard pages using index.php as router
 RewriteCond %{REQUEST_FILENAME} !-f
