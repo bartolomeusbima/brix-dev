@@ -36,7 +36,7 @@ foreach ($articles as $article) {
                                 <p><?= strtoupper($article['category']) ?></p>
                             </div>
                             <div class="recent-articles-img">
-                                <img src="<?= $basePath . $article['thumbnail'] ?>" alt="<?= htmlspecialchars($article['title']) ?>">
+                                <img src="<?= '/' . $article['thumbnail'] ?>" alt="<?= htmlspecialchars($article['title']) ?>">
                             </div>
                             <div class="recent-articles-caption">
                                 <div class="date">
