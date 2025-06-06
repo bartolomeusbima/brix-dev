@@ -40,7 +40,7 @@
 
             <?php
                 $basePath = '/';
-                include '/templates/navbar.php';
+                include $_SERVER['DOCUMENT_ROOT'] . '/templates/footer.php';
             ?>
 
             <section class="article">
@@ -228,7 +228,7 @@
 
             <?php
                 $basePath = '/';
-                include '/templates/footer.php';
+                include $_SERVER['DOCUMENT_ROOT'] . '/templates/footer.php';
             ?>
         
         </div>
