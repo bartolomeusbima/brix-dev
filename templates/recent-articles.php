@@ -5,6 +5,9 @@ require_once $basePath . 'data/articles.php';
 $scriptPath = $_SERVER['SCRIPT_NAME'];
 $basePath = (strpos($scriptPath, '/articles/') !== false) ? '../' : '';
 
+// Then safely load articles data
+require_once $basePath . 'data/articles.php';
+
 // Filter articles
 $filterCategory = $filterCategory ?? null;
 $recentArticles = [];
