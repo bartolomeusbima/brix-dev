@@ -46,13 +46,13 @@
                             <p>STREET SERIES</p>
                         </div>
                         <h2 class="article-title">
-                            P2 Women's Drift Challenge 2024 PRO AM Final Round.
+                            Subaru Crosstrek by Garasi Drift.
                         </h2>
                         <h5 class="article-subtitle">
-                            BRIX on Tracks: Street Series at P2 WDC PRO-AM Finals.
+                            Built to Slide. Engineered to Stop.
                         </h5>
                         <div class="date">
-                            <p>November 7, 2024</p>
+                            <p>April 15, 2025</p>
                         </div>
                     </div>
                 </div>
@@ -60,40 +60,111 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/05/header.jpg">
+                                <img src="../assets/images/photos/articles/17/header.jpg">
+                            </div>
+                            <div class="column lg-12 text">
+                                <p>
+                                    Garasi Drift has taken the unconventional path with their latest build, turning a Subaru Crosstrek into a fully capable drift machine for the Southeast Asia Drift Series. Known for bold ideas and proven execution, Garasi Drift chose the BRIX Performance Street Series to handle one of the most critical aspects of drifting: braking.
+                                </p>
+                                <p>
+                                    While the Crosstrek is typically seen as a mild crossover, this version has been completely transformed. With a stripped interior, reinforced chassis, and drift-tuned suspension, every component is built for purpose. But without consistent, reliable stopping power, none of it matters. That’s why the Street Series rotors are a key part of this setup.
+                                </p>
+                            </div>
+                            <div class="column lg-12 photo">
+                                <img src="../assets/images/photos/articles/17/01.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Dipo Dwiki from Garasi Drift inside his Subaru Crosstrek at Southeast Asia Drift Series.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-12 text">
+                                <p>
+                                    Engineered with a drilled and slotted face, the BRIX Street Series delivers improved heat dissipation and pedal feel, essential during high-speed transitions and clutch kicks. Treated with our proprietary SOLIDCAST® heat-treatment process, these rotors resist warping and surface stress, making them ideal for repeated hard braking under extreme conditions.
+                                </p>
+                                <p>
+                                    Whether the car is entering a corner sideways or scrubbing speed mid-drift, the BRIX Performance Street Series ensures control stays in the driver's hands. It’s the perfect blend of daily driveability and track-focused reliability.
+                                </p>
+                            </div>
+
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/17/02.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Subaru Crosstrek on  tandem battle during Southeast Asia Drift Series.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/17/03.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Rear view of Subaru Crosstrek initiating drift with tire smoke during Southeast Asia Drift Series.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/17/04.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Side profile of drifting Subaru Crosstrek at Southeast Asia Drift Series showing aggressive angle.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/17/05.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Subaru Crosstrek and yellow S15 Silvia in close tandem run at Southeast Asia Drift Series.
+                                    </p>
+                                </div>
                             </div>
 
                             <div class="column lg-12 text">
                                 <p>
-                                    Congratulations to Anindita Hidayat for her incredible performance in the 2024 Indonesia Drift Series! Not only did she secure 2nd place in the WDC Pro Am Final Round, but she was also awarded the prestigious Most Valuable Drifter nomination in the WDC Pro Am category. Anindita’s skill, consistency, and determination have set her apart in this high-stakes competition, where she has proven herself a formidable presence across multiple categories, including both the WDC Pro Am and the intensely competitive PRO 2 class.
-                                </p>
-                                <p>
-                                    Her journey through this season has been nothing short of remarkable. Competing in a predominantly male-dominated sport, especially in the PRO 2 category, Anindita faced numerous challenges but handled each with strength and precision. Her tenacity has shown that gender is no barrier to excellence in drifting, as she held her own against experienced male competitors and showcased her well-honed techniques and strategic driving skills on the track. Her ability to adapt to different situations and maintain focus in high-pressure moments has earned her a well-deserved place on the podium, underscoring her talent and resilience.
+                                    Looking to upgrade your own build with BRIX Performance? Our full range, including the Street Series installed on this Crosstrek, is available through our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">Official Tokopedia Store</a> for fast and reliable access. Prefer to talk to a specialist? Chat with us directly via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a> for consultation, installation support, or custom setup advice. You can also check with our <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">official distributors</a> in your city for product availability and support.
                                 </p>
                             </div>
 
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/05/01.jpg">
+                                <img src="../assets/images/photos/articles/17/06.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Subaru Crosstrek equipped with Street Series at Southeast Asia Drift Series.
+                                    </p>
+                                </div>
                             </div>
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/05/02.jpg">
+                                <img src="../assets/images/photos/articles/17/07.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Subaru Crosstrek and yellow S15 Silvia in close tandem run with tire smoke trailing both cars.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/17/08.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Subaru Crosstrek and BMW drifting side-by-side through a clipping point at Southeast Asia Drift Series.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/17/09.jpg">
+                                <div class="caption">
+                                    <p>
+                                        Subaru Crosstrek mid-drift with heavy smoke and rear slip angle at Southeast Asia Drift Series
+                                    </p>
+                                </div>
                             </div>
 
                             <div class="column lg-12 text">
                                 <p>
-                                    Since the beginning of her drifting career, Anindita has achieved an impressive array of accolades and milestones, quickly rising through the ranks in a sport that demands both technical expertise and a fearless mindset. Driving her Nissan 180SX, she has consistently pushed the boundaries, demonstrating a deep understanding of her car's dynamics and an instinctive feel for the sport. Even with some mechanical issues arising in a few rounds, she managed to navigate these setbacks effectively, often adjusting her driving style mid-race to accommodate for any limitations her car faced. Her skill and adaptability allowed her to continue performing at her best, impressing both fans and fellow competitors alike.
-                                </p>
-                                <p>
-                                    Anindita’s accomplishments this season not only highlight her growth as an athlete but also serve as an inspiration for aspiring drifters, particularly women, showing them that dedication and perseverance can lead to exceptional achievements. Her success in this season of the Indonesia Drift Series is a testament to her passion, hard work, and determination to break new ground in the sport of drifting. We look forward to seeing what more she will accomplish in the future as she continues to make her mark on the drifting scene.
+                                    Catch the full behind-the-scenes build and track footage on <a href="https://youtu.be/p28K8Op_Gek?si=YXI1iXvtzSPq4R6b" target="_blank" rel="noopener noreferrer">Garasi Drift’s YouTube channel</a> and see why the right brakes make all the difference.
                                 </p>
                             </div>
 
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/05/03.jpg">
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/05/04.jpg">
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -111,7 +182,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -133,7 +204,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -155,7 +226,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -177,7 +248,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>

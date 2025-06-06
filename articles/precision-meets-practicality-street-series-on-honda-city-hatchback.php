@@ -43,16 +43,16 @@
                 <div class="article-head">
                     <div class="column">
                         <div class="article-category">
-                            <p>EVENTS</p>
+                            <p>STREET SERIES</p>
                         </div>
                         <h2 class="article-title">
-                            Indonesia Modification Expo 2024.
+                            Precision Meets Practicality: Street Series on Honda City Hatchback.
                         </h2>
                         <h5 class="article-subtitle">
-                            Showcasing the Future of Automotive Performance.
+                            The Daily Brake Upgrade That Makes a Difference.
                         </h5>
                         <div class="date">
-                            <p>October 23, 2024</p>
+                            <p>May 25, 2025</p>
                         </div>
                     </div>
                 </div>
@@ -60,91 +60,62 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/03/header.jpg">
+                                <img src="../assets/images/photos/articles/19/header.jpg">
+                            </div>
+                            <div class="column lg-12 text">
+                                <p>
+                                    The Honda City Hatchback has earned its reputation as a smart daily driver: efficient, nimble, and easy to enjoy on city roads. But when it comes to braking, it deserves more than just stock performance. That’s where the BRIX Performance Street Series comes in.    
+                                </p>
+                                <p>
+                                    Designed for urban enthusiasts who demand more from their cars, the Street Series brake rotors offer a significant upgrade over OEM setups. In these photos, the City Hatchback is fitted with our Street Series, engineered for consistent performance during stop-and-go traffic, spirited weekend drives, and everything in between.
+                                </p>
+                            </div>
+                            <div class="column lg-12 photo">
+                                <img src="../assets/images/photos/articles/19/01.jpg">
                                 <div class="caption">
-                                    <p>Modified Red Honda City Hatchback at IMX 2024.</p>
+                                    <p>
+                                        BRIX Performance Street Series on Honda City Hatchback.
+                                    </p>
                                 </div>
                             </div>
-
                             <div class="column lg-12 text">
                                 <p>
-                                    The Indonesia Modification Expo (IMX) 2024 will take place at ICE BSD, Tangerang, Banten, from October 4 to 6, 2024, under the theme “Road to the World.” This year’s expo aims to showcase the work of Indonesian modifiers on an international stage, drawing significant attention from automotive enthusiasts both locally and abroad.
-                                </p>
-                                <p>
-                                    IMX 2024 is set to be the largest automotive exhibition in ASEAN, facilitating collaboration between local and international brands to create high-quality products. The event will also feature prominent figures, including Bambang Soesatyo, Chairman of the Indonesian Motor Association (IMI), and Agus Gumiwang Kartasasmita, the Minister of Industry.
-                                </p>
-                            </div>
-
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/03/01.jpg">
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/03/02.jpg">
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/03/03.jpg">
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/03/04.jpg">
-                            </div>
-
-                            <div class="column lg-12 text">
-                                <p>
-                                    The expo will host renowned personalities from the modification industry, such as Wataru Kato and Hyuma Kato from Liberty Walk, as well as legendary drift racer Keiichi Tsuchiya from Tokyo, among many other international guests. Additionally, popular Indonesian content creators like Fitra Eri, Motomobi, Rifat Sungkar, and Garasi Drift will be present, contributing to the vibrant atmosphere of the event. Visitors can expect a diverse range of modified vehicles, from everyday cars to rare models that are seldom seen on the streets. IMX 2024 will feature a variety of engaging activities, including:
+                                    What makes it stand out?
                                 </p>
                                 <ul>
                                     <li>
-                                        Ultimate Builders Battle: A competition showcasing the best modifiers.
+                                        Even Cooling and Stable Performance<br>With carefully designed drilled and slotted faces, the Street Series provides better ventilation, helping dissipate heat faster and reduce brake fade. That’s crucial in city environments where braking is frequent and aggressive.
                                     </li>
                                     <li>
-                                        IMX Garage Sale: A chance for attendees to buy unique automotive products.
+                                        Reliable Bite in All Conditions<br>Thanks to our <monument>SOLIDCAST&reg;</monument> heat-treatment process, each rotor is stress-relieved after machining. The result? Strong initial bite, reduced warping, and better pedal feel over time.
                                     </li>
                                     <li>
-                                        IMX Auction: Auctioning off special vehicles and parts.
-                                    </li>
-                                    <li>
-                                        IMX Super Giveaway Car: An exciting giveaway event.
-                                    </li>
-                                    <li>
-                                        IMX Exclusive Release: Premiering new products and collaborations.
-                                    </li>
-                                    <li>
-                                        IMX Community Meetup: Bringing together car enthusiasts and communities.
-                                    </li>
-                                    <li>
-                                        IMX Lifestyle Magnet: Celebrating automotive culture.
-                                    </li>
-                                    <li>
-                                        IMX Reels Competition: A contest for the best automotive content creation.
+                                        Daily-Driven Comfort, Tuned for Performance<br>While many upgrades compromise comfort for performance, our Street Series finds the sweet spot. The rotors offer improved vibration damping and quieter operation, without sacrificing stopping power.
                                     </li>
                                 </ul>
                             </div>
 
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/03/05.jpg">
+                                <img src="../assets/images/photos/articles/19/02.jpg">
+                                <div class="caption">
+                                    <p>lose-up of BRIX Performance Street Series brake rotor installed on Honda City Hatchback.</p>
+                                </div>
                             </div>
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/03/06.jpg">
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/03/07.jpg">
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/03/08.jpg">
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/03/09.jpg">
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/03/10.jpg">
+                                <img src="../assets/images/photos/articles/19/03.jpg">
+                                <div class="caption">
+                                    <p>Rear shot of Honda City Hatchback.</p>
+                                </div>
                             </div>
 
                             <div class="column lg-12 text">
                                 <p>
-                                    Furthermore, IMX 2024 collaborate with IDS to enhance the event's excitement, featuring a drift competition with categories for both beginners and professionals. IMX 2024 promises to be an unmissable event for automotive lovers in Indonesia. With its rich array of activities, esteemed guests, and a showcase of incredible modified vehicles, the expo is eagerly anticipated by fans and participants alike. Whether you're a seasoned modifier or a curious newcomer, IMX 2024 offers something for everyone in the automotive community.
+                                    For Honda City Hatchback owners looking to elevate their braking system without jumping into full track-spec territory, this is the smart choice. It’s the right upgrade that makes your daily car feel sharper, safer, and simply more fun to drive.
+                                </p>
+                                <p>
+                                    Are you looking to equip your Honda City Hatchback with BRIX Performance Street Series? You can find our products through our network of <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">Official Distributors</a> across Indonesia, or shop conveniently via our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia Store</a>. Need help choosing the right setup? Chat with us directly for a free consultation on <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp</a>, our team is ready to assist you.
                                 </p>
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -162,7 +133,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -184,7 +155,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -206,7 +177,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -228,7 +199,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>

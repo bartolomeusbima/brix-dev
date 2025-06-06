@@ -43,16 +43,16 @@
                 <div class="article-head">
                     <div class="column">
                         <div class="article-category">
-                            <p>COMPETITION SERIES</p>
+                            <p>STREET SERIES</p>
                         </div>
                         <h2 class="article-title">
-                            Vios SiantarMan Racing Team With BRIX.
+                            Street Series on Brio DD1.
                         </h2>
                         <h5 class="article-subtitle">
-                            Siantarman Racing Pushes Limits with BRIX Performance.
+                            City-Ready Braking Performance for Honda Brio Enthusiasts.
                         </h5>
                         <div class="date">
-                            <p>October 3, 2024</p>
+                            <p>November 28, 2024</p>
                         </div>
                     </div>
                 </div>
@@ -60,54 +60,38 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/02/header.jpg">
-                                <div class="caption">
-                                    <p>Toyota Vios SiantarMan Racing Team in action with BRIX Competition Series at Sentul International Circuit during ISSOM Touring Race.</p>
-                                </div>
+                                <img src="../assets/images/photos/articles/07/header.jpg">
                             </div>
+
                             <div class="column lg-12 text">
                                 <p>
-                                    The Toyota Vios SiantarMan Racing Team has made a notable mark in the ISSOM Sentul racing series, showcasing impressive performance with their vehicle powered by the 1NZ-FE engine, generating 230 BHP. One of the standout features of their setup is the use of BRIX competition series disc brakes combined with Project U Brake Pad, which have demonstrated remarkable durability and efficiency.
-                                </p>
-                                <p>
-                                    These disc brakes have proven to be highly effective, as they only require one BRIX disc to complete 11 races, amounting to 800 laps—a testament to their quality and engineering. BRIX commitment to using premium materials ensures that their brakes maximize performance, allowing the SiantarMan Racing Team to achieve optimal lap times and maintain competitive edge on the track. This combination of powerful engineering and top-tier braking technology highlights the team's dedication to excellence in motorsport.
+                                    Honda Brio DD1 owned by one of our customers is a prime example of how a compact city car can be transformed into a high-performance machine. Known for its sleek design, fuel efficiency, and suitability for urban daily commutes, the Brio is a popular choice among drivers. However, this particular owner had a passion for track days, and the stock braking system just wasn’t cutting it for the demands of high-speed cornering and aggressive braking on the circuit.
                                 </p>
                             </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/02/01.jpg">
-                                <div class="caption">
-                                    <p>Toyota Vios SiantarMan Racing Team cornering at high speed during touring car race at Sentul International Circuit.</p>
-                                </div>
+
+                            <div class="column lg-12 photo">
+                                <img src="../assets/images/photos/articles/07/01.jpg">
                             </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/02/02.jpg">
-                                <div class="caption">
-                                    <p>Toyota Vios SiantarMan Racing Team battling side by side in close racing action at Sentul International Curcuit.</p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/02/03.jpg">
-                                <div class="caption">
-                                    <p>Toyota Vios SiantarMan Racing Team returning to pit lane after race session, viewed from trackside.</p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/02/04.jpg">
-                                <div class="caption">
-                                    <p>Toyota Vios SiantarMan Racing Team crossing the finish line under checkered flag at Sentul International Circuit</p>
-                                </div>
-                            </div>
+
                             <div class="column lg-12 text">
                                 <p>
-                                    The Honda City Hatchback is a versatile and lightweight platform that offers excellent handling and agility. Its sporty design, coupled with a well-balanced chassis, makes it a favorite among track day enthusiasts. However, factory brakes often struggle with high temperatures and fade under aggressive driving conditions. That’s where the BRIX Performance Competition Series comes in. Designed for high-performance applications, the BRIX Performance Competition Series delivers enhanced stopping power, durability, and heat dissipation.
+                                    Seeking a solution, they turned to BRIX Performance and opted for the Street Series Disc Brakes. After upgrading, the difference was night and day. The owner noticed significantly improved braking power, with a sharper response and greater confidence to push the car to its limits. Late braking into corners became a thrilling challenge rather than a nerve-wracking gamble. Whether it’s for tight turns or quick deceleration on straightaways, the brakes now deliver a level of reliability and control that elevates the entire driving experience.
                                 </p>
                             </div>
-                            <div class="column lg-12 text where-to-buy">
+
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/07/02.jpg">
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/07/03.jpg">
+                            </div>
+
+                            <div class="column lg-12 text">
                                 <p>
-                                    Where to Buy?
+                                    The owner’s feedback was nothing short of glowing: the BRIX Performance Street Series transformed their Brio into a vehicle capable of handling both daily city traffic and the adrenaline-pumping demands of the track.
                                 </p>
                                 <p>
-                                    Elevate your track day experience with BRIX Performance. Visit our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia</a>, or contact us via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a>, or check our <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">official BRIX Performance partners</a> to secure your upgrade before your next session.
+                                    At BRIX Performance, we specialize in providing top-tier braking solutions for every driver. Whether you’re navigating busy streets or dominating the race circuit, our products are designed to meet your needs. The Street Series offers the perfect balance of everyday drivability and performance, while the Competition Series caters to dedicated race cars.
                                 </p>
                             </div>
                         </div>
@@ -127,7 +111,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -149,7 +133,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -171,7 +155,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -193,7 +177,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>

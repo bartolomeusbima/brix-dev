@@ -64,7 +64,7 @@
                         <div class="recent-articles-body-wrapper">
 
                             <?php foreach ($articles as $article): ?>
-                                <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-<?= strtolower($article['category']) ?>" onclick="location.href='article/<?= $article['slug'] ?>'">
+                                <div class="column collapse lg-4 md-6 mob-12 article-card-wrapper filter-<?= strtolower($article['category']) ?>" onclick="location.href='articles/<?= $article['slug'] ?>'">
                                     <div class="recent-articles-card">
                                         <div class="recent-articles-category">
                                             <p><?= strtoupper($article['category']) ?></p>

@@ -43,16 +43,16 @@
                 <div class="article-head">
                     <div class="column">
                         <div class="article-category">
-                            <p>STREET SERIES</p>
+                            <p>COMPETITION SERIES</p>
                         </div>
                         <h2 class="article-title">
-                            BMW E36 With BRIX.
+                            Jazz GD3 Garage One.
                         </h2>
                         <h5 class="article-subtitle">
-                            Street-Ready Braking Upgrade for BMW Enthusiasts.
+                            Garage One's Honda Jazz GD3 Enhanced with BRIX Competition Series.
                         </h5>
                         <div class="date">
-                            <p>October 1, 2024</p>
+                            <p>October 31, 2024</p>
                         </div>
                     </div>
                 </div>
@@ -60,57 +60,47 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/01/header.jpg">
-                                <div class="caption">
-                                    <p>BMW E36 featuring BRIX Performance Street Seriesm rolling shot front view.</p>
-                                </div>
+                                <img src="../assets/images/photos/articles/04/header.jpg">
                             </div>
+
                             <div class="column lg-12 text">
                                 <p>
-                                    The BMW E36 really stands out as a versatile platform. The Boston Green color adds a unique flair, enhancing its sporty aesthetics and making it a favorite among enthusiasts. Its popularity in the racing scene—whether for drifting, drag racing, or rallying—speaks to its performance potential.
-                                </p>
-                                <p>
-                                    When it comes to safety and performance, effective braking is crucial. BRIX Performance elevates this aspect by providing high-quality braking solutions that utilize premium materials. This ensures not just reliability, but also the kind of responsiveness that can make a difference on the track or during spirited drives.
-                                </p>
-                                <p>
-                                    With the combination of the BMW E36 and BRIX Performance street series braking systems, you’re looking at a winning formula for anyone eager to push their driving experience to the limit while maintaining safety and control. Whether you’re hitting the track or carving through back roads, this setup promises maximum braking performance that complements the car’s inherent agility.
+                                    The Honda Jazz, also known as the Honda FIT, has been an automotive legend in Indonesia since 2002. However, what's truly grabbing attention this time is the yellow, Pikachu-themed Honda Jazz GD3, driven by drifter @sara.choi and influencer @edwartanzil from the Garage One team. This car is always in the spotlight, especially when tearing up the track during track days at Sentul Circuit. Despite being around for a long time, the charm of this legendary Jazz never fades—always looking cool and ready for thrilling action at every opportunity!
                                 </p>
                             </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/01/01.jpg">
+
+                            <div class="column lg-12 photo">
+                                <img src="../assets/images/photos/articles/04/01.jpg">
                                 <div class="caption">
-                                    <p>BMW E36 stance with BRIX Performance Street Series, rear side detail.</p>
+                                    <p>Close-up of BRIX Performance Competition Series on Garage One's Jazz GD3.</p>
                                 </div>
                             </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/01/02.jpg">
-                                <div class="caption">
-                                    <p>BMW E36 wheel setup paired with BRIX Performance Street Series</p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/01/03.jpg">
-                                <div class="caption">
-                                    <p>Parked BMW E36 with BRIX Performance Street Series brake upgrade.</p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/01/04.jpg">
-                                <div class="caption">
-                                    <p>BMW E36 showcasing BRIX Performance Street Series in motion.</p>
-                                </div>
-                            </div>
+
                             <div class="column lg-12 text">
                                 <p>
-                                    The Honda City Hatchback is a versatile and lightweight platform that offers excellent handling and agility. Its sporty design, coupled with a well-balanced chassis, makes it a favorite among track day enthusiasts. However, factory brakes often struggle with high temperatures and fade under aggressive driving conditions. That’s where the BRIX Performance Competition Series comes in. Designed for high-performance applications, the BRIX Performance Competition Series delivers enhanced stopping power, durability, and heat dissipation.
+                                    During track days, braking performance is crucial to achieving the best times. Quick and accurate braking is essential to control the car in corners without losing speed. That’s where the BRIX Performance Competition Series comes in as the ultimate solution. This braking system is designed to deliver maximum braking feel, ideal for racing and track days. The braking setup used includes BRIX Performance Competition Series rotors with Endless ME20 brake pads.
+                                </p>
+                                <p>
+                                    The @garage.one team has chosen BRIX Performance as their trusted braking partner to deliver the best performance on the track. With BRIX, you can experience safer and more optimal braking every time you hit the track!
                                 </p>
                             </div>
-                            <div class="column lg-12 text where-to-buy">
+
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/04/02.jpg">
+                                <div class="caption">
+                                    <p>Close-up of BRIX Performance Competition Series and Endless Brake Pad on Garage One's Jazz GD3.</p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/04/03.jpg">
+                                <div class="caption">
+                                    <p>Close-up of BRIX Performance Competition Series and Endless Brake Pad without wheel installed on Garage One's Jazz GD3.</p>
+                                </div>
+                            </div>
+
+                            <div class="column lg-12 text">
                                 <p>
-                                    Where to Buy?
-                                </p>
-                                <p>
-                                    Elevate your track day experience with BRIX Performance. Visit our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia</a>, or contact us via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a>, or check our <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">official BRIX Performance partners</a> to secure your upgrade before your next session.
+                                    <b>Specification: </b> Brake Pad Endless, BRIX Competition Series Brake Disc.
                                 </p>
                             </div>
                         </div>
@@ -130,7 +120,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -152,7 +142,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -174,7 +164,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -196,7 +186,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>

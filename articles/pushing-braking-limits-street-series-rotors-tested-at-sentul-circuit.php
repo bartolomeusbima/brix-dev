@@ -46,13 +46,13 @@
                             <p>STREET SERIES</p>
                         </div>
                         <h2 class="article-title">
-                            Street Series on Mitsubishi Pajero Sport 4N15.
+                            Pushing Braking Limits: Street Series Rotors Tested at Sentul Circuit.
                         </h2>
                         <h5 class="article-subtitle">
-                            Confidence Drive for Sonny Willim's Mitsubishi Pajero Sport 4N15.
+                            Precision and Power for the Honda Civic Type R FK8
                         </h5>
                         <div class="date">
-                            <p>November 21, 2024</p>
+                            <p>March 27, 2025</p>
                         </div>
                     </div>
                 </div>
@@ -60,55 +60,67 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/06/header.jpg">
+                                <img src="../assets/images/photos/articles/13/header.jpg">
                             </div>
-
                             <div class="column lg-12 text">
                                 <p>
-                                    Mitsubishi Pajero Sport 4N15, lovingly named Anin and owned by Sonny Willim, has gained a solid reputation among car enthusiasts in Indonesia. This vehicle is a standout not only for its powerful performance but also for its compatibility with Indonesia’s challenging road conditions, from urban traffic to rugged terrains. Equipped with a high-torque diesel engine, the Pajero Sport offers the ideal balance of fuel efficiency and strength, making it a favorite for both veteran drivers and younger adventurers looking for reliability and performance in one package.
-                                </p>
-                                <p>
-                                    One of the defining features of the Pajero Sport is its impressive torque, which delivers power on demand for tackling steep inclines, long drives, and heavy loads. However, with this level of performance, the standard brakes sometimes fall short of providing the stopping power that a vehicle of this size and capability requires. This has led many owners, including Sonny Willim, to seek braking solutions that match the Pajero’s high performance.
+                                    At BRIX Performance, our mission is clear. Engineered braking solutions that deliver maximum performance, reliability, and control in every scenario. To validate the real-world capability of our Street Series brake rotors, we took on Sentul International Circuit with the Honda Civic FK8 Type R, a platform renowned for its high-speed potential and demanding braking conditions.
                                 </p>
                             </div>
-
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/06/01.jpg">
+                                <img src="../assets/images/photos/articles/13/01.jpg">
                                 <div class="caption">
-                                    <p>
-                                        Detailed image of the BRIX Performance Street Series on Pajero Sport 4N15.
-                                    </p>
+                                    <p>Close-up of BRIX Performance drilled and slotted brake rotors paired with Brembo calipers and Advan Racing wheels. Designed for maximum heat dissipation and track durability.</p>
                                 </div>
                             </div>
-
                             <div class="column lg-12 text">
                                 <p>
-                                    To address this, Sonny made a strategic upgrade to BRIX Performance Street Series brake discs. This high-performance braking system is specifically designed to elevate the vehicle’s braking capacity and improve overall driving safety. According to Sonny, the transformation has been remarkable. With BRIX Performance discs installed, his confidence in the Pajero’s stopping power has significantly increased. He notes that not only has the braking response become more immediate, but it also feels much smoother and more controlled, giving him peace of mind when maneuvering this powerful SUV through traffic or rougher terrains.
+                                    Sentul Circuit’s mix of high-speed straights and technical corners provided the ultimate proving ground to test the limits of our Street Series rotors:
+                                </p>
+                                <ul>
+                                    <li>
+                                        High-Speed Braking: Confident deceleration, delivering stability under extreme loads.
+                                    </li>
+                                    <li>
+                                        Heat Dissipation: Maintained optimal performance across multiple hot laps.
+                                    </li>
+                                    <li>
+                                        Pedal Feel & Modulation: More consistent, precise braking response lap after lap.
+                                    </li>
+                                </ul>
+                                <p>
+                                    The results? Track-tested performance you can trust on the street. Whether pushing limits at the circuit or navigating urban roads, the BRIX Performance Street Series gives FK8 owners the stopping power they need.
                                 </p>
                                 <p>
-                                    BRIX Performance brakes bring both functionality and style, enhancing the Pajero Sport’s appearance while prioritizing safety. With a more reliable braking system in place, drivers can tackle even sudden stops without the usual worry, knowing they have precision and strength underfoot. Designed with durability and everyday use in mind, the BRIX Performance Street Series is an ideal upgrade for drivers who want to elevate their daily driving experience without sacrificing safety or longevity.
-                                </p>
-                                <p>
-                                    With these advanced brakes, drivers of larger vehicles like the Pajero Sport can enjoy a smoother, safer, and more confident ride, making BRIX Performance an essential choice for those who demand more from their vehicles. The Street Series delivers not only superior stopping power but also ensures that every journey is as safe as it is enjoyable.
+                                    Upgrade with confidence. Connect with our <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">official BRIX Performance partners</a>, reach out via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a>, or visit our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia Store</a> to equip your Civic Type R with the braking performance it truly deserves.
                                 </p>
                             </div>
 
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/06/02.jpg">
+                                <img src="../assets/images/photos/articles/13/02.jpg">
                                 <div class="caption">
-                                    <p>
-                                        Front-side view of a black Mitsubishi Pajero Sport equipped with BRIX Performance Street Series.
-                                    </p>
+                                    <p>Civic FK8 Type R on Sentul Circuit’s main straight, pushing BRIX Performance Street Series rotors to their limit under high-speed braking conditions.</p>
                                 </div>
                             </div>
                             <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/06/03.jpg">
+                                <img src="../assets/images/photos/articles/13/03.jpg">
                                 <div class="caption">
-                                    <p>
-                                        Side profile of Mitsubishi Pajero Sport.
-                                    </p>
+                                    <p>Honda Civic FK8 Type R at Sentul International Circuit paddock, equipped with BRIX Performance Street Series brake rotors. Track-tested for superior braking performance and heat dissipation.</p>
                                 </div>
                             </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/13/04.jpg">
+                                <div class="caption">
+                                    <p>Honda Civic Type R FK8 approaching the braking zone on Sentul International Circuit, equipped with BRIX Performance brake upgrades for enhanced deceleration and pedal feel.</p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/13/05.jpg">
+                                <div class="caption">
+                                    <p>Honda Civic Type R FK8 approaching the breaking zone on Sentul International Circuit.</p>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -126,7 +138,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -148,7 +160,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -170,7 +182,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -192,7 +204,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>

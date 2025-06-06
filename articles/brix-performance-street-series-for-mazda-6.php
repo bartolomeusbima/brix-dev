@@ -43,16 +43,16 @@
                 <div class="article-head">
                     <div class="column">
                         <div class="article-category">
-                            <p>COMPETITION SERIES</p>
+                            <p>STREET SERIES</p>
                         </div>
                         <h2 class="article-title">
-                            Unleashing the EVO 6 with BRIX Performance Competition Series.
+                            BRIX Performance Street Series for Mazda 6.
                         </h2>
                         <h5 class="article-subtitle">
-                            Proven on the Street. Engineered for the Track.
+                            Enhancing braking power with precision engineering.
                         </h5>
                         <div class="date">
-                            <p>June 5, 2025</p>
+                            <p>March 03, 2025</p>
                         </div>
                     </div>
                 </div>
@@ -60,93 +60,65 @@
                     <div class="column">
                         <div class="article-body-wrapper">
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/20/header.jpg">
+                                <img src="../assets/images/photos/articles/10/header.jpg">
                             </div>
                             <div class="column lg-12 text">
                                 <p>
-                                    The Mitsubishi Lancer Evolution VI is already a motorsport legend: aggressive, raw, and made to dominate. But even a car this iconic can reach the next level with the right upgrades. That’s where the BRIX Performance Competition Series comes in.    
+                                    When it comes to balancing daily drivability with enhanced stopping power, the BRIX Performance Street Series is an exceptional choice for the Mazda 6. Known for its elegant design and sport-inspired handling, the Mazda 6 benefits significantly from a braking upgrade that maximizes control and safety without compromising comfort. The BRIX Performance Street Series is engineered precisely for this purpose—offering improved pedal feel, higher braking performance, and increased durability for both spirited driving and daily commuting.
                                 </p>
                             </div>
                             <div class="column lg-12 photo">
-                                <img src="../assets/images/photos/articles/20/01.jpg">
+                                <img src="../assets/images/photos/articles/10/01.jpg">
                                 <div class="caption">
-                                    <p>
-                                        BRIX Performance Competition Series on Mitsubishi Lancer Evolution VI.
-                                    </p>
+                                    <p>Close-up view of BRIX Performance Street Series brake caliper installed on Mazda 6 front wheel.</p>
                                 </div>
                             </div>
                             <div class="column lg-12 text">
                                 <p>
-                                    Mitsubishi Lancer Evolution VI fitted with Competition Series rotors, parked in front of container.
+                                    Stock braking systems often fall short when pushed beyond their intended limits, especially for enthusiasts who enjoy spirited driving. The BRIX Performance Street Series is designed to enhance brake response, increase heat resistance, and deliver long-lasting performance—making it a top-tier option for Mazda 6 owners looking for an upgrade.
                                 </p>
-                            </div>
-
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/20/02.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Close-up of BRIX Performance Competition Series slotted rotor and Brembo caliper.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/20/03.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Rear perspective view of Subaru WRX VB at Sentul Circuit.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/20/04.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Red Mitsubishi EVO 6 in motion equipped with BRIX Performance Competition Series.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/20/05.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Rear view of Mitsubishi EVO 6 driving with BRIX Performance Competition Series rotors.
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="column lg-12 text">
                                 <p>
-                                    From the slotted face design to the performance-first metallurgy, every aspect of the Competition Series is engineered for drivers who push limits. It’s the same technology trusted by racers in Indonesia’s top motorsport series, now proven on a machine as aggressive as this EVO 6.
+                                    Whether you’re navigating city traffic, cruising on the highway, or tackling winding roads, BRIX Performance Street Series ensures responsive braking with consistent performance.</p>
                                 </p>
-                                <P>
-                                    Looking to build something track-ready? Or just want peace of mind during spirited weekend drives? The BRIX Competition Series isn’t just an upgrade, it’s a commitment to performance without compromise.
-                                </P>
-                            </div>
-
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/20/06.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Rear angle of Mitsubishi Lancer Evolution VI equipped with BRIX Performance Competition Series rotors.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="column lg-6 mob-12 photo">
-                                <img src="../assets/images/photos/articles/20/07.jpg">
-                                <div class="caption">
-                                    <p>
-                                        Low-angle front shot of Mitsubishi EVO 6 equipped with Competition Series brakes.
-                                    </p>
-                                </div>
+                                <p>
+                                    For Mazda 6 owners seeking a braking upgrade that delivers both performance and practicality, the BRIX Performance Street Series is a must-have. Designed for enthusiasts and daily drivers alike, it provides an exceptional balance of stopping power, durability, and low maintenance.
+                                </p>
                             </div>
 
                             <div class="column lg-12 text where-to-buy">
                                 <p>
-                                    Where to find BRIX Performance?
+                                    Where to Buy?
                                 </p>
                                 <p>
-                                    You can get the Competition Series through our network of our <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">Official Distributors</a>, <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">Tokopedia Official Store</a>, or consult directly through <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp</a> for free product matching and upgrade advice.
+                                    Get your BRIX Performance Street Series today through <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">official BRIX Performance partners</a>, <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia Store</a>, or direct via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a>, Stay ahead of the curve and experience next-level braking performance!
                                 </p>
+                            </div>
+
+                            
+
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/10/02.jpg">
+                                <div class="caption">
+                                    <p>Front-side view of Mazda 6 fitted with BRIX Performance Street Series, parked under tree shades.</p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/10/03.jpg">
+                                <div class="caption">
+                                    <p>Rear view of Mazda 6.</p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/10/04.jpg">
+                                <div class="caption">
+                                    <p>Close-up of front wheel and brake setup on Mazda 6 featuring BRIX Performance Street Series.</p>
+                                </div>
+                            </div>
+                            <div class="column lg-6 mob-12 photo">
+                                <img src="../assets/images/photos/articles/10/05.jpg">
+                                <div class="caption">
+                                    <p>Mazda 6 in motion with BRIX Performance Street Series.</p>
+                                </div>
                             </div>
 
                         </div>
@@ -166,7 +138,7 @@
                 <div class="recent-articles-body">
                     <div class="column">
                         <div class="recent-articles-body-wrapper">
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>COMPETITION SERIES</p>
@@ -188,7 +160,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
@@ -210,7 +182,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/brix-performance-at-campus-auto-contest-2025.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/brix-performance-at-campus-auto-contest-2025.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>EVENT</p>
@@ -232,7 +204,7 @@
                                 </div>
                             </div>
 
-                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../article/subaru-crosstrek-by-garasi-drift.php'">
+                            <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='../articles/subaru-crosstrek-by-garasi-drift.php'">
                                 <div class="recent-articles-card">
                                     <div class="recent-articles-category">
                                         <p>STREET SERIES</p>
