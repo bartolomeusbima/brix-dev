@@ -30,7 +30,7 @@ foreach ($articles as $article) {
         <div class="column">
             <div class="recent-articles-body-wrapper">
                 <?php foreach ($recentArticles as $article): ?>
-                    <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='<?= $basePath . $article['path'] ?>'">
+                    <div class="column collapse lg-3 md-6 mob-12" onclick="location.href='<?= '/' . $basePath . $article['path'] ?>'">
                         <div class="recent-articles-card">
                             <div class="recent-articles-category">
                                 <p><?= strtoupper($article['category']) ?></p>
