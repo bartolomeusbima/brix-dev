@@ -6,18 +6,18 @@ $basePath = $basePath ?? '';
     <div class="menu__bar">
         <div class="menu__block">
             <div class="menu__bar__logo">
-                <a class="logo" href="/index">
+                <a class="logo" href="/home">
                     <img src="/assets/images/logos/logo-brix.svg" alt="BRIX Performance Logo">
                 </a>
             </div>
 
-            <a class="menu__bar__toggle" href="/index"><span>Menu</span></a>
+            <a class="menu__bar__toggle" href="/home"><span>Menu</span></a>
         </div>
 
         <nav class="menu__navigation">
             <ul class="menu__navigation__page">
-                <li class="list" onclick="location.href='/index'">
-                    <button><a href="/index" style="text-decoration: none; color: white">Home</a></button>
+                <li class="list" onclick="location.href='/home'">
+                    <button><a href="/home" style="text-decoration: none; color: white">Home</a></button>
                 </li>
 
                 <li class="list products">
