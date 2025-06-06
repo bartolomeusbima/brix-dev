@@ -36,7 +36,8 @@
 
             <?php
                 $basePath = '../';
-                include $basePath . 'templates/navbar.php';
+                echo 'BASE PATH: ' . $basePath;
+                include '../templates/navbar.php';
             ?>
 
             <section class="article">
