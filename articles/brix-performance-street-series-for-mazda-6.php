@@ -90,7 +90,7 @@
                                     Where to Buy?
                                 </p>
                                 <p>
-                                    Get your BRIX Performance Street Series today through <a href="/pages/distributors.php" target="_blank" rel="noopener noreferrer">official BRIX Performance partners</a>, <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia Store</a>, or direct via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a>, Stay ahead of the curve and experience next-level braking performance!
+                                    Get your BRIX Performance Street Series today through <a href="/distributors.php" target="_blank" rel="noopener noreferrer">official BRIX Performance partners</a>, <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia Store</a>, or direct via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a>, Stay ahead of the curve and experience next-level braking performance!
                                 </p>
                             </div>
 

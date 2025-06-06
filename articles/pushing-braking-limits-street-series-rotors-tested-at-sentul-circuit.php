@@ -92,7 +92,7 @@
                                     The results? Track-tested performance you can trust on the street. Whether pushing limits at the circuit or navigating urban roads, the BRIX Performance Street Series gives FK8 owners the stopping power they need.
                                 </p>
                                 <p>
-                                    Upgrade with confidence. Connect with our <a href="/pages/distributors.php" target="_blank" rel="noopener noreferrer">official BRIX Performance partners</a>, reach out via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a>, or visit our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia Store</a> to equip your Civic Type R with the braking performance it truly deserves.
+                                    Upgrade with confidence. Connect with our <a href="/distributors.php" target="_blank" rel="noopener noreferrer">official BRIX Performance partners</a>, reach out via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a>, or visit our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">official Tokopedia Store</a> to equip your Civic Type R with the braking performance it truly deserves.
                                 </p>
                             </div>
 
