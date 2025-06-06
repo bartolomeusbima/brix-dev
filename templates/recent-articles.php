@@ -1,11 +1,10 @@
 <?php
 // Auto-adjust base path BEFORE loading anything
-// $scriptPath = $_SERVER['SCRIPT_NAME'];
-// $basePath = (strpos($scriptPath, '/articles/') !== false) ? '../' : '';
-$basePath = '/';
+$scriptPath = $_SERVER['SCRIPT_NAME'];
+$basePath = (strpos($scriptPath, '/articles/') !== false) ? '../' : '';
 
 // Now load articles safely
-// require_once $basePath . 'data/articles.php';
+require_once $basePath . 'data/articles.php';
 
 // Filter articles
 $filterCategory = $filterCategory ?? null;
