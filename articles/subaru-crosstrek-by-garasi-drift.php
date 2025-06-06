@@ -1,5 +1,5 @@
 <?php
-    $basePath = '../';
+    $basePath = '/';
 ?>
 
 <!DOCTYPE html>
@@ -39,7 +39,7 @@
         <div class="s-pagewrap">
 
             <?php
-                $basePath = '../';
+                $basePath = '/';
                 include '../templates/navbar.php';
             ?>
 
@@ -279,7 +279,7 @@
             </section>
 
             <?php
-                $basePath = '../';
+                $basePath = '/';
                 include '../templates/footer.php';
             ?>
         
