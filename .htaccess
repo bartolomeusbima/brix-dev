@@ -8,12 +8,12 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 RewriteRule ^articles/([a-zA-Z0-9\-]+)$ article-loader.php?slug=$1 [L,QSA]
 
 # Route clean article URLs to article-loader.php
-RewriteRule ^articles$ index.php?page=articles [L,QSA]
+RewriteRule ^articles$ home.php?page=articles [L,QSA]
 
-# Clean URL for standard pages using index.php as router
+# Clean URL for standard pages using home.php as router
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^([a-zA-Z0-9\-]+)$ index.php?page=$1 [L,QSA]
+RewriteRule ^([a-zA-Z0-9\-]+)$ home.php?page=$1 [L,QSA]
 
 # Remove .php extension
 RewriteCond %{REQUEST_FILENAME} !-d
@@ -21,7 +21,7 @@ RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php [NC,L]
 
 # Set default page
-DirectoryIndex index.php
+DirectoryIndex home.php
 
 # Optional: Remove trailing slashes
 RewriteCond %{REQUEST_FILENAME} !-f
