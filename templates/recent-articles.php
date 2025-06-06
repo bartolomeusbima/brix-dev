@@ -1,11 +1,9 @@
 <?php
-require_once $basePath . 'data/articles.php';
-
-// Auto-adjust base path
+// Auto-adjust base path BEFORE loading anything
 $scriptPath = $_SERVER['SCRIPT_NAME'];
 $basePath = (strpos($scriptPath, '/articles/') !== false) ? '../' : '';
 
-// Then safely load articles data
+// Now load articles safely
 require_once $basePath . 'data/articles.php';
 
 // Filter articles
