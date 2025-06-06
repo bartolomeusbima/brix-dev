@@ -7,7 +7,7 @@ $articles = array(
         'category' => 'competition-series',
         'date' => '2025-06-05',
         'thumbnail' => 'assets/images/photos/articles/20/header.jpg',
-        'path' => 'articles/unleashing-the-evo-6-with-brix-performance-competition-series'
+        'path' => 'articles/unleashing-the-evo-6-with-brix-performance-competition-series.php'
     ),
     array(
         'slug' => 'precision-meets-practicality-street-series-on-honda-city-hatchback',
@@ -16,7 +16,7 @@ $articles = array(
         'category' => 'street-series',
         'date' => '2025-05-25',
         'thumbnail' => 'assets/images/photos/articles/19/header.jpg',
-        'path' => 'articles/precision-meets-practicality-street-series-on-honda-city-hatchback'
+        'path' => 'articles/precision-meets-practicality-street-series-on-honda-city-hatchback.php'
     ),
     array(
         'slug' => 'brix-performance-at-campus-auto-contest-2025',
@@ -25,7 +25,7 @@ $articles = array(
         'category' => 'event',
         'date' => '2025-04-28',
         'thumbnail' => 'assets/images/photos/articles/18/header.jpg',
-        'path' => 'articles/brix-performance-at-campus-auto-contest-2025'
+        'path' => 'articles/brix-performance-at-campus-auto-contest-2025.php'
     ),
     array(
         'slug' => 'subaru-crosstrek-by-garasi-drift',
@@ -34,7 +34,7 @@ $articles = array(
         'category' => 'street-series',
         'date' => '2025-04-15',
         'thumbnail' => 'assets/images/photos/articles/17/header.jpg',
-        'path' => 'articles/subaru-crosstrek-by-garasi-drift'
+        'path' => 'articles/subaru-crosstrek-by-garasi-drift.php'
     ),
     array(
         'slug' => 'bmw-e36-enhanced',
@@ -43,7 +43,7 @@ $articles = array(
         'category' => 'competition-series',
         'date' => '2025-04-19',
         'thumbnail' => 'assets/images/photos/articles/16/header.jpg',
-        'path' => 'articles/bmw-e36-enhanced'
+        'path' => 'articles/bmw-e36-enhanced.php'
     ),
     array(
         'slug' => 'subaru-wrx-vb-equipped-with-competition-series',
@@ -52,7 +52,7 @@ $articles = array(
         'category' => 'competition-series',
         'date' => '2025-04-01',
         'thumbnail' => 'assets/images/photos/articles/15/header.jpg',
-        'path' => 'articles/subaru-wrx-vb-equipped-with-competition-series'
+        'path' => 'articles/subaru-wrx-vb-equipped-with-competition-series.php'
     ),
     array(
         'slug' => 'upgrade-your-ford-fiestas-stopping-power-with-street-series',
@@ -61,7 +61,7 @@ $articles = array(
         'category' => 'street-series',
         'date' => '2025-03-27',
         'thumbnail' => 'assets/images/photos/articles/14/header.jpg',
-        'path' => 'articles/upgrade-your-ford-fiestas-stopping-power-with-street-series'
+        'path' => 'articles/upgrade-your-ford-fiestas-stopping-power-with-street-series.php'
     ),
     array(
         'slug' => 'pushing-braking-limits-street-series-rotors-tested-at-sentul-circuit',
@@ -70,7 +70,7 @@ $articles = array(
         'category' => 'street-series',
         'date' => '2025-03-27',
         'thumbnail' => 'assets/images/photos/articles/13/header.jpg',
-        'path' => 'articles/pushing-braking-limits-street-series-rotors-tested-at-sentul-circuit'
+        'path' => 'articles/pushing-braking-limits-street-series-rotors-tested-at-sentul-circuit.php'
     ),
     array(
         'slug' => 'honda-city-hatchback-at-sentul-international-circuit',
@@ -79,7 +79,7 @@ $articles = array(
         'category' => 'competition-series',
         'date' => '2025-03-19',
         'thumbnail' => 'assets/images/photos/articles/12/header.jpg',
-        'path' => 'articles/honda-city-hatchback-at-sentul-international-circuit'
+        'path' => 'articles/honda-city-hatchback-at-sentul-international-circuit.php'
     ),
     array(
         'slug' => 'brix-performance-competition-series-for-honda-city-hatchback',
@@ -88,7 +88,7 @@ $articles = array(
         'category' => 'competition-series',
         'date' => '2025-03-06',
         'thumbnail' => 'assets/images/photos/articles/11/header.jpg',
-        'path' => 'articles/brix-performance-competition-series-for-honda-city-hatchback'
+        'path' => 'articles/brix-performance-competition-series-for-honda-city-hatchback.php'
     ),
     array(
         'slug' => 'brix-performance-street-series-for-mazda-6',
@@ -97,7 +97,7 @@ $articles = array(
         'category' => 'street-series',
         'date' => '2025-03-03',
         'thumbnail' => 'assets/images/photos/articles/10/header.jpg',
-        'path' => 'articles/brix-performance-street-series-for-mazda-6'
+        'path' => 'articles/brix-performance-street-series-for-mazda-6.php'
     ),
     array(
         'slug' => 'the-elite-showcase-2025',
@@ -106,7 +106,7 @@ $articles = array(
         'category' => 'event',
         'date' => '2025-02-20',
         'thumbnail' => 'assets/images/photos/articles/09/header.jpg',
-        'path' => 'articles/the-elite-showcase-2025'
+        'path' => 'articles/the-elite-showcase-2025.php'
     ),
     array(
         'slug' => 'brix-in-community',
@@ -115,7 +115,7 @@ $articles = array(
         'category' => 'event',
         'date' => '2025-02-12',
         'thumbnail' => 'assets/images/photos/articles/08/header.jpg',
-        'path' => 'articles/brix-in-community'
+        'path' => 'articles/brix-in-community.php'
     ),
     array(
         'slug' => 'brio-dd1',
@@ -124,7 +124,7 @@ $articles = array(
         'category' => 'street-series',
         'date' => '2024-11-28',
         'thumbnail' => 'assets/images/photos/articles/07/header.jpg',
-        'path' => 'articles/brio-dd1'
+        'path' => 'articles/brio-dd1.php'
     ),
     array(
         'slug' => 'mitsubishi-pajero-sport-4n15',
@@ -133,7 +133,7 @@ $articles = array(
         'category' => 'street-series',
         'date' => '2024-11-21',
         'thumbnail' => 'assets/images/photos/articles/06/header.jpg',
-        'path' => 'articles/mitsubishi-pajero-sport-4n15'
+        'path' => 'articles/mitsubishi-pajero-sport-4n15.php'
     ),
     array(
         'slug' => 'p2-wdc-pro-am-final-round',
@@ -142,7 +142,7 @@ $articles = array(
         'category' => 'street-series',
         'date' => '2024-11-07',
         'thumbnail' => 'assets/images/photos/articles/05/header.jpg',
-        'path' => 'articles/p2-wdc-pro-am-final-round'
+        'path' => 'articles/p2-wdc-pro-am-final-round.php'
     ),
     array(
         'slug' => 'jazz-gd3-garage-one',
@@ -151,7 +151,7 @@ $articles = array(
         'category' => 'competition-series',
         'date' => '2024-10-31',
         'thumbnail' => 'assets/images/photos/articles/04/header.jpg',
-        'path' => 'articles/jazz-gd3-garage-one'
+        'path' => 'articles/jazz-gd3-garage-one.php'
     ),
     array(
         'slug' => 'imx-2024',
@@ -160,7 +160,7 @@ $articles = array(
         'category' => 'event',
         'date' => '2024-10-23',
         'thumbnail' => 'assets/images/photos/articles/03/header.jpg',
-        'path' => 'articles/imx-2024'
+        'path' => 'articles/imx-2024.php'
     ),
     array(
         'slug' => 'vios-siantarman-racing-team-with-brix',
@@ -169,7 +169,7 @@ $articles = array(
         'category' => 'competition-series',
         'date' => '2024-10-03',
         'thumbnail' => 'assets/images/photos/articles/02/header.jpg',
-        'path' => 'articles/vios-siantarman-racing-team-with-brix'
+        'path' => 'articles/vios-siantarman-racing-team-with-brix.php'
     ),
     array(
         'slug' => 'bmw-e36-with-brix',
@@ -178,7 +178,7 @@ $articles = array(
         'category' => 'street-series',
         'date' => '2024-10-01',
         'thumbnail' => 'assets/images/photos/articles/01/header.jpg',
-        'path' => 'articles/bmw-e36-with-brix'
+        'path' => 'articles/bmw-e36-with-brix.php'
     )
 );
 ?>
