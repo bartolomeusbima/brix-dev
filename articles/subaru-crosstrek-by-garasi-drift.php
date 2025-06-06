@@ -122,7 +122,7 @@
 
                             <div class="column lg-12 text">
                                 <p>
-                                    Looking to upgrade your own build with BRIX Performance? Our full range, including the Street Series installed on this Crosstrek, is available through our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">Official Tokopedia Store</a> for fast and reliable access. Prefer to talk to a specialist? Chat with us directly via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a> for consultation, installation support, or custom setup advice. You can also check with our <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">official distributors</a> in your city for product availability and support.
+                                    Looking to upgrade your own build with BRIX Performance? Our full range, including the Street Series installed on this Crosstrek, is available through our <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">Official Tokopedia Store</a> for fast and reliable access. Prefer to talk to a specialist? Chat with us directly via <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp Business</a> for consultation, installation support, or custom setup advice. You can also check with our <a href="/pages/distributors.php" target="_blank" rel="noopener noreferrer">official distributors</a> in your city for product availability and support.
                                 </p>
                             </div>
 

@@ -145,7 +145,7 @@
                                     Where to find BRIX Performance?
                                 </p>
                                 <p>
-                                    You can get the Competition Series through our network of our <a href="../pages/distributors.php" target="_blank" rel="noopener noreferrer">Official Distributors</a>, <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">Tokopedia Official Store</a>, or consult directly through <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp</a> for free product matching and upgrade advice.
+                                    You can get the Competition Series through our network of our <a href="/pages/distributors.php" target="_blank" rel="noopener noreferrer">Official Distributors</a>, <a href="https://www.tokopedia.com/brix-performance" target="_blank" rel="noopener noreferrer">Tokopedia Official Store</a>, or consult directly through <a href="https://api.whatsapp.com/send?phone=6281284746544" target="_blank" rel="noopener noreferrer">WhatsApp</a> for free product matching and upgrade advice.
                                 </p>
                             </div>
 
