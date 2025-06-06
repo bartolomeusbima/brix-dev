@@ -1,12 +1,11 @@
 <?php
-// Auto-adjust base path BEFORE loading anything
-$scriptPath = $_SERVER['SCRIPT_NAME'];
-$basePath = (strpos($scriptPath, '/articles/') !== false) ? '../' : '';
+// Reliable base path detection based on physical directory
+$basePath = (basename(dirname(__FILE__)) === 'templates') ? '../' : '';
 
-// Now load articles safely
+// Load articles AFTER basePath is resolved
 require_once $basePath . 'data/articles.php';
 
-// Filter articles
+// Filter logic
 $filterCategory = $filterCategory ?? null;
 $recentArticles = [];
 
