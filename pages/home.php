@@ -53,7 +53,7 @@
                         <div id="hero-trailer">
                             <a href="assets/videos/trailer-competition-series.mp4" id="hero-trailer-btn">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill: #fff;"><path d="M7 6v12l10-6z"></path></svg>
-                                COMPETITION SERIES TRAILER
+                                COMPETITION SERIES'S TRAILER
                             </a>
                         </div>
                     </div>
