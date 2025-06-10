@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/config/db-config.php';
+require_once __DIR__ . 'config/db-config.php';
 
 $stmt = $pdo->prepare("
     SELECT d.msd_name, d.msd_type, d.msd_contact, d.msd_address, d.msd_map_embed, p.msp_name
