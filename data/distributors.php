@@ -70,7 +70,7 @@ $distributors = array(
             'type' => 'Auto Repair Shop',
             'contact' => '+62 877 7500 1712',
             'address' => 'Jl. Bojong Raya No.101, Rw. Buaya, Cengkareng, Jakarta Barat, DKI Jakarta 11740',
-            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15866.802569257348!2d106.7329782!3d-6.1708231!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f78bbf697e93%3A0xfd1f96b48223bdac!2sRMODA%20workshop%20%7C%20Bengkel%20Mobil%20Jakarta!5e0!3m2!1sen!2sid!4v1727286420776!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy"></iframe>'
+            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15866.802569257348!2d106.7329782!3d-6.1708231!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f78bbf697e93%3A0xfd1f96b48223bdac!2sRMODA%20workshop%20%7C%20Bengkel%20Mobil%20Jakarta!5e0!3m2!1sen!2sid!4v1727286420776!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
         ),
         array(
             'name' => 'Naga 76 Autostation',
@@ -78,7 +78,7 @@ $distributors = array(
             'type' => 'Auto Workshop',
             'contact' => '+62 858 1160 8666',
             'address' => 'RPF8+54P, RT.6/RW.13, Duri Kosambi, Cengkareng, Jakarta 11750',
-            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15866.616072879939!2d106.7153277!3d-6.1770487!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f98ee20aec59%3A0xf2d8a33e03e71544!2sNaga%2076%20Autosport!5e0!3m2!1sen!2sid!4v1727354284358!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy"></iframe>'
+            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15866.616072879939!2d106.7153277!3d-6.1770487!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f98ee20aec59%3A0xf2d8a33e03e71544!2sNaga%2076%20Autosport!5e0!3m2!1sen!2sid!4v1727354284358!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
         ),
         array(
             'name' => 'New Apollo Motor Pegangsaan',
@@ -86,7 +86,7 @@ $distributors = array(
             'type' => 'Auto Electrical Service',
             'contact' => '+62 878 8947 5271',
             'address' => 'Jl. Pegangsaan Dua, Semper Bar., Cilincing, Jkt Utara, Jakarta 14250',
-            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d18481.72072672942!2d106.91369382341937!3d-6.1385294780401525!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698b1598487479%3A0xffec5ba2334eb6d6!2sNEW%20APOLLO%20MOTOR%20PEGANGSAAN!5e0!3m2!1sen!2sid!4v1730517820207!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy"></iframe>'
+            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d18481.72072672942!2d106.91369382341937!3d-6.1385294780401525!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698b1598487479%3A0xffec5ba2334eb6d6!2sNEW%20APOLLO%20MOTOR%20PEGANGSAAN!5e0!3m2!1sen!2sid!4v1730517820207!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
         ),
         array(
             'name' => 'Autorev8',
@@ -94,7 +94,7 @@ $distributors = array(
             'type' => 'Auto Parts Store',
             'contact' => '+62 877 8254 9055',
             'address' => 'Jl. Panjang No.1b, Kedoya Utara, Kebon Jeruk, Jakarta Barat 11520',
-            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15866.789744944535!2d106.7654437!3d-6.1712514!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f5171dfb4e3b%3A0x89165360db6c8831!2sAutorev8!5e0!3m2!1sen!2sid!4v1730519524662!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy"></iframe>'
+            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15866.789744944535!2d106.7654437!3d-6.1712514!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f5171dfb4e3b%3A0x89165360db6c8831!2sAutorev8!5e0!3m2!1sen!2sid!4v1730519524662!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
         ),
         array(
             'name' => 'Ed\'s Autostore',
@@ -102,7 +102,7 @@ $distributors = array(
             'type' => 'Oil Change Service',
             'contact' => '+62 243 514 078',
             'address' => 'Jl. Imam Bonjol No.123a, Pindrikan Lor, Semarang Tengah, Kota Semarang, Jawa Tengah 50131',
-            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15841.1525700577!2d110.412997!3d-6.975291!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e70f52ce1158f25%3A0x125e35333d081672!2sEd\'s%20Autostore!5e0!3m2!1sen!2sid!4v1727287649786!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy"></iframe>'
+            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15841.1525700577!2d110.412997!3d-6.975291!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e70f52ce1158f25%3A0x125e35333d081672!2sEd\'s%20Autostore!5e0!3m2!1sen!2sid!4v1727287649786!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
         ),
         array(
             'name' => 'Kenji Auto Station',
@@ -110,7 +110,7 @@ $distributors = array(
             'type' => 'Car Repair and Maintenance Service',
             'contact' => '+62 822 9999 0388',
             'address' => 'Jl. Talang, Candi, Candisari, Kota Semarang, Jawa Tengah 50256',
-            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15839.789969080364!2d110.4260459!3d-7.015458!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e708b7ffc2aca3f%3A0x82326420ce7454f!2sKenji%20Auto%20Station!5e0!3m2!1sen!2sid!4v1727288532575!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy"></iframe>'
+            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15839.789969080364!2d110.4260459!3d-7.015458!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e708b7ffc2aca3f%3A0x82326420ce7454f!2sKenji%20Auto%20Station!5e0!3m2!1sen!2sid!4v1727288532575!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
         ),
         array(
             'name' => 'Hofmeister',
@@ -118,7 +118,7 @@ $distributors = array(
             'type' => 'Auto Repair Shop',
             'contact' => '+62 877 3042 3382',
             'address' => 'Jl. Prawirotaman No.12, Brontokusuman, Mergangsan, Yogyakarta City, DIY 55153',
-            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.7229367217265!2d110.36700877476635!3d-7.8191233922015915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5a1c24e34041%3A0xe43a0295d33f4f19!2sHOFMEISTER!5e0!3m2!1sen!2sid!4v1727288979426!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy"></iframe>'
+            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.7229367217265!2d110.36700877476635!3d-7.8191233922015915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5a1c24e34041%3A0xe43a0295d33f4f19!2sHOFMEISTER!5e0!3m2!1sen!2sid!4v1727288979426!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
         ),
         array(
             'name' => 'Sumber Bakti Motor',
@@ -126,7 +126,7 @@ $distributors = array(
             'type' => 'Auto Parts Shop',
             'contact' => '+62 341 833 266',
             'address' => 'Jl. Raya Tambakrejo Bululawang, (Timur Warung Pagi), Tambakasri, Malang, East Java 61419',
-            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.4099222446607!2d112.6297415750079!3d-8.059601691967982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd627688bf7e8c5%3A0x239ef8d5ee864c1b!2sSUMBER%20BAKTI%20MOTOR!5e0!3m2!1sen!2sid!4v1727289407060!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy"></iframe>'
+            'map' => '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.4099222446607!2d112.6297415750079!3d-8.059601691967982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd627688bf7e8c5%3A0x239ef8d5ee864c1b!2sSUMBER%20BAKTI%20MOTOR!5e0!3m2!1sen!2sid!4v1727289407060!5m2!1sen!2sid" frameborder="0" style="border:0; width: 100%; height: 250px; border-radius: 8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
         ),
     );
 ?>

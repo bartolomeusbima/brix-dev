@@ -13,7 +13,7 @@ if (!empty($_POST['email'])) {
 
     try {
         $stmt = $pdo->prepare("INSERT INTO ms_subscribers (mss_email) VALUES (:email)");
-        $stmt->execute(['email' => $email]);
+        $stmt->execute(array('email' => $email));
 
         echo "success";
         exit;
