@@ -1,5 +1,5 @@
 <?php
-require '../config/db_config.php';
+require_once __DIR__ . '/../config/db-config.php';
 
 function getFormattedDistributors(PDO $pdo) {
     $stmt = $pdo->prepare("
