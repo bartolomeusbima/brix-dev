@@ -2,12 +2,25 @@
 require 'config/db_config.php';
 
 $stmt = $pdo->prepare("
-    SELECT d.msd_name, d.msd_type, d.msd_contact, d.msd_address, d.msd_map_embed, p.msp_name
-    FROM ms_distributors d
-    JOIN ms_province p ON d.msd_msp_code = p.msp_code
-    WHERE d.msd_status = 'T'
-    ORDER BY d.msd_code
+    SELECT 
+        msd.msd_code, 
+        msd.msd_name, 
+        msd.msd_type, 
+        msd.msd_contact, 
+        msd.msd_address, 
+        msd.msd_map_embed, 
+        msp.msp_name 
+    FROM 
+        ms_distributors AS msd
+    JOIN 
+        ms_province AS msp ON msd.msd_msp_code = msp.msp_code 
+    WHERE 
+        msd.msd_status = 'T' 
+    ORDER BY 
+        msd.msd_join_date DESC, 
+        msd.msd_code DESC;
 ");
+
 $stmt->execute();
 $raw = $stmt->fetchAll();
 
